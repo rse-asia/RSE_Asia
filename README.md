@@ -2,5 +2,6 @@
 
 # website
 The website for the RSE Asia Association is being built as a part of Hactoberfest 2021. 
-For further queries, contact Jyoti Bhogal at bhogaljyoti1@gmail.com.
+For further queries, please contact Jyoti Bhogal at bhogaljyoti1@gmail.com.
+
 We follow the Code of Conduct of the [Society of Research Software Engineering](https://society-rse.org/).
