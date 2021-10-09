@@ -1,0 +1,13 @@
+name: "website_rse_asia"
+title: "RSE Asia"
+theme: theme.css
+description: |
+  RSE Asia
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
