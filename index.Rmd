@@ -30,7 +30,7 @@ This is our official logo!
 :::
 
 
-This website is built using the [distill](https://github.com/rstudio/distill) package. The source code for this website is located in the [website_rse-asia](https://github.com/rse-asia/website_rse_asia) GitHub repository.
+This website is built using the [distill](https://github.com/rstudio/distill) package. The source code for this website is located in the [RSE_Asia](https://github.com/rse-asia/RSE_Asia) GitHub repository.
  
 We abide by the [Society of Research Software Engineering](https://society-rse.org/) [code of conduct](https://society-rse.org/about/code-of-conduct/). 
 
