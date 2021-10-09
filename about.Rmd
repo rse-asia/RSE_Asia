@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  Here, we will share details of activities of the RSE Asia Association. All activities will be completely online and not in-person.
+  Here, we will share details of activities of the RSE Asia Association. All activities will be completely online and not in-person. 
 ---
 
 ```{r setup, include=FALSE}
