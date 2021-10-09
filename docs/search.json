@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Here, we will share details of activities of the RSE Asia Association.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n{\"title\":\"About this site\",\"description\":\"Here, we will share details of activities of the RSE Asia Association.\",\"authors\":[]}\r\n\r\nRSE Asia\r\n\r\n\r\nHome\r\nAbout\r\n☰\r\n\r\n\r\nAbout this site\r\n\r\n\r\nHere, we will share details of activities of the RSE Asia Association.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-09T08:57:01+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "RSE Asia",
+      "description": "Welcome! This is the website of the Research Software Engineering (RSE) Asia Association.\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n{\"title\":\"RSE Asia\",\"description\":\"Welcome! This is the website of the Research Software Engineering (RSE) Asia Association.\",\"authors\":[]}\r\n\r\nRSE Asia\r\n\r\n\r\nHome\r\nAbout\r\n☰\r\n\r\n\r\nRSE Asia\r\n\r\n\r\nWelcome! This is the website of the Research Software Engineering (RSE) Asia Association.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-10-09T08:57:01+05:30"
+    }
+  ],
+  "collections": []
+}
