@@ -12,6 +12,6 @@ The RSE Asia Association is being built as a project under the [Open Life Scienc
 
 We follow the Code of Conduct of the [Society of Research Software Engineering](https://society-rse.org/).
 
-Twitter handle: [RSE_Asia](https://twitter.com/RSE_Asia/), Website: [RSE_Asia](https://rse-asia.github.io/RSE_Asia/)
+Twitter handle: [RSE_Asia](https://twitter.com/RSE_Asia/), Website: https://rse-asia.github.io/RSE_Asia/
 
 
