@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/28556616/128458681-c11bdd5d-0144-4622-8417-8252449de92f.png)
+[![DOI](https://zenodo.org/badge/415191235.svg)](https://zenodo.org/badge/latestdoi/415191235)
+
 
 # RSE Asia
 
