@@ -14,6 +14,9 @@ At the launch event we will be conducting activities for contributing to [Hackto
 
 The RSE Asia Association is being built as a project under the [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#). 
 
+
+## Code of Conduct
+
 We follow the Code of Conduct of the [Society of Research Software Engineering](https://society-rse.org/).
 
 Twitter handle: [RSE_Asia](https://twitter.com/RSE_Asia/), Website: https://rse-asia.github.io/RSE_Asia/, E-mail: rse.asia.association@gmail.com 
