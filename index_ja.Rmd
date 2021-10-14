@@ -30,4 +30,4 @@ knitr::include_graphics("images/RSE_Asia_Logo.png")
 
 私たちは、[Society of Research Software Engineering](https://society-rse.org/) の[行動規範](https://society-rse.org/about/code-of-conduct/)を順守します。
 
-Twitter のハンドル [RSE_Asia](https://twitter.com/RSE_Asia/) で最新情報をフォローしてください。
+最新情報はTwitter [RSE_Asia](https://twitter.com/RSE_Asia/) で発信していきます。ぜひフォローお願いします。
