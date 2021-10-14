@@ -15,7 +15,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 2021年10月14日木曜日、初めての[国際RSEデー](https://researchsoftware.org/council/intl-rse-day.html)という特別な日に、私たちはRSEアジアアソシエーションを立ち上げます。
 立ち上げイベントでは、[Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)に貢献するための活動も行いますので、是非ご参加ください。
-立ち上げイベントにぜひご参加ください。 
 
 :::float-image
 
