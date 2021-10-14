@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r out.width='130px', out.extra='style="float:left; padding:10px"', echo=FALSE}
 knitr::include_graphics("images/RSE_Asia_Logo.png")
 ```
-これは私たちの公式ロゴです!
+これが私たちの公式ロゴです!
 
 :::
 
