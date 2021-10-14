@@ -1,0 +1,35 @@
+---
+title: "RSE アジア"
+description: |
+  ようこそ! これは the Research Software Engineering (RSE) Asia Association のウェブサイトです。 The RSE Asia Association は [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#) の下のプロジェクトとして形成されています。
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+```
+
+私たちは2021年10月14日木曜日にRSEアジアアソシエーションを立ち上げます。
+この日は初めての[国際RSEデー](https://researchsoftware.org/council/intl-rse-day.html)として祝われているため、特別な意味を持っています!
+立ち上げイベントでは、[Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)に貢献するための活動も行います。
+立ち上げイベントにぜひご参加ください。 
+
+:::float-image
+
+```{r out.width='130px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/RSE_Asia_Logo.png")
+```
+これは私たちの公式ロゴです!
+
+:::
+
+このウェブサイトは [distill](https://github.com/rstudio/distill) パッケージを使ってビルドされています。
+このウェブサイトのソースコードは [RSE_Asia](https://github.com/rse-asia/RSE_Asia) の GitHub リポジトリにあります。
+
+私たちは、[Society of Research Software Engineering](https://society-rse.org/) の[行動規範](https://society-rse.org/about/code-of-conduct/)を順守します。
+
+Twitter のハンドル [RSE_Asia](https://twitter.com/RSE_Asia/) で最新情報をフォローしてください。
