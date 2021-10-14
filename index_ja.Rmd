@@ -1,7 +1,7 @@
 ---
 title: "RSE アジア"
 description: |
-  ようこそ! これは the Research Software Engineering (RSE) Asia Association のウェブサイトです。 The RSE Asia Association は [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#) の下のプロジェクトとして形成されています。
+The Research Software Engineering (RSE) アジアアソシエーションへようこそ。RSEアジアアソシエーション は [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#) 傘下のプロジェクトとして立ち上げられました。
 site: distill::distill_website
 ---
 
