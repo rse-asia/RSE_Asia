@@ -1,5 +1,5 @@
 ---
-title: "RSE Asia"
+title: "RSE Asia Association"
 description: |
   Welcome! This is the website of the Research Software Engineering (RSE) Asia Association. The RSE Asia Association is built as a project under the [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#).
 site: distill::distill_website
