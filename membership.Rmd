@@ -1,0 +1,10 @@
+---
+title: "Membership"
+description: |
+  To become a community member of the RSE Asia Association, please fill this short [membership form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform). The community membership of the RSE Asia Association is free and open to all. People from all regions of the globe are welcome to join our community, irrespective of whether they belong to or are located in Asia.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
