@@ -1,36 +1,40 @@
 ---
 title: "RSE Asia Association"
-description: |
-  Welcome! This is the website of the Research Software Engineering (RSE) Asia Association. The RSE Asia Association is built as a project under the [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#).
+image: "images/Updated_RSE_Asia_logo.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/RSE_Asia"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/rse-asia"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:rse.asia.association@gmail.com"
+twitter:
+  creator: "@RSE_Asia"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "The website of RSE Asia Association"
+  ) %>%
+  meta_name("github-repo" = "rse-asia/RSE_Asia") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "RSE Asia Association",
+    url = "https://rse-asia.github.io/RSE_Asia/",
+    image = "https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg",
+    image_alt = "The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters.",
+    og_type = "website",
+    og_author = c("Saranjeet Kaur Bhogal"),
+    twitter_card_type = "summary",
+    twitter_creator = "@RSE_Asia"
+  )
 ```
 
-The RSE Asia Association was launched on Thursday, 14th October 2021. This day holds special significance as being the first [International RSE Day](https://researchsoftware.org/council/intl-rse-day.html)!
-At the launch event we conducted activities for contributing to [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/).
+Welcome to the website of the RSE Asia Association!
  
-
-:::float-image
-
-```{r out.width='130px', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/Updated_RSE_Asia_logo.jpg")
-```
-This is our official logo!
-
-:::
-
-This website is built using the [distill](https://github.com/rstudio/distill) package. The source code for this website is located in the [RSE_Asia](https://github.com/rse-asia/RSE_Asia) GitHub repository.
- 
-We abide by the [Society of Research Software Engineering](https://society-rse.org/) [code of conduct](https://society-rse.org/about/code-of-conduct/). 
-
-Follow our updates on Twitter at the handle [RSE_Asia](https://twitter.com/RSE_Asia/).
+All spaces of the RSE Asia Association are bound by the [code of conduct](https://society-rse.org/about/code-of-conduct/) of the [Society of Research Software Engineering](https://society-rse.org/). 

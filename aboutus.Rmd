@@ -1,0 +1,23 @@
+---
+title: "About Us"
+description: |
+  Brief description about the journey of RSE Asia Association. 
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The RSE Asia Association was launched during a project under the [Open Life Science Cohort-4 programme (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#) programme by [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) and [Jyoti Bhogal](https://www.linkedin.com/in/jyoti-bhogal-a20705163/), under the Mentorship of [Anne Fouilloux](https://github.com/annefou). It was launched on Thursday, 14th October 2021, which is also the first [International RSE Day](https://researchsoftware.org/council/intl-rse-day.html). At the launch event we conducted activities for contributing to [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/). Both Saranjeet and Jyoti graduated from the OLS-4 during early 2022 (graduation certificates below). 
+
+:::float-image
+
+```{r out.width='330px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/Saranjeet_OLS_4_graduation.jpg")
+knitr::include_graphics("images/Jyoti_OLS_4_graduation.jpg")
+```
+
+:::
+
+Furthermore, under the [Pilot Mentoring Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the [Society of Research Software Engineering](https://society-rse.org/), Saranjeet is working on the building community around the RSE Asia Association, mentored by [Michelle Barker](https://www.researchsoft.org/people/). 
