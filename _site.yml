@@ -10,7 +10,7 @@ navbar:
       href: index.html
     - text: "About Us"
       href: aboutus.html
-    - text: "Membership"
+    - text: "Community Membership"
       href: membership.html
     - text: "Talks"
       href: talks.html

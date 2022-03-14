@@ -29,7 +29,7 @@ meta() %>%
     image = "https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg",
     image_alt = "The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters.",
     og_type = "website",
-    og_author = c("Saranjeet Kaur Bhogal"),
+    og_author = c("RSE Asia Association"),
     twitter_card_type = "summary",
     twitter_creator = "@RSE_Asia"
   )
