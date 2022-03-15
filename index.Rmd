@@ -38,3 +38,8 @@ meta() %>%
 Welcome to the website of the RSE Asia Association!
  
 All spaces of the RSE Asia Association are bound by the [code of conduct](https://society-rse.org/about/code-of-conduct/) of the [Society of Research Software Engineering](https://society-rse.org/). 
+
+$~$
+
+##### Our Mentor Organizations
+[![Open Life Science Logo](images/OLS_Logo.png){width=10%}](https://openlifesci.org/) $~$     [![Society of Research Software Engineering  Logo](images/Soc_RSE_Logo.png){width=5%}](https://society-rse.org/events/pilot-mentoring-programme/)
