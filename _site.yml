@@ -14,4 +14,6 @@ navbar:
       href: membership.html
     - text: "Talks"
       href: talks.html
+    - text: "News"
+      href: news.html
 output: distill::distill_article
