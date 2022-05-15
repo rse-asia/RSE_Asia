@@ -87,29 +87,30 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>RSE Asia Association: Community Membership</title>
+  <title>RSE Asia Association: News</title>
 
-  <meta property="description" itemprop="description" content="Community membership of the RSE Asia Association"/>
+  <meta property="description" itemprop="description" content="News related to RSE Asia Association"/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="RSE Asia Association: Community Membership"/>
+  <meta property="og:title" content="RSE Asia Association: News"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Community membership of the RSE Asia Association"/>
+  <meta property="og:description" content="News related to RSE Asia Association"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="RSE Asia Association"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="RSE Asia Association: Community Membership"/>
-  <meta property="twitter:description" content="Community membership of the RSE Asia Association"/>
+  <meta property="twitter:title" content="RSE Asia Association: News"/>
+  <meta property="twitter:description" content="News related to RSE Asia Association"/>
+  <meta property="twitter:creator" content="@RSE_Asia"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["Community Membership"]},{"type":"character","attributes":{},"value":["Community membership of the RSE Asia Association"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","twitter","listing"]}},"value":[{"type":"character","attributes":{},"value":["News"]},{"type":"character","attributes":{},"value":["News related to RSE Asia Association\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@RSE_Asia"]}]},{"type":"character","attributes":{},"value":["news"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -4942,19 +4943,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--/radix_placeholder_distill-->
   <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto"/>
-  <meta name="description" content="Community membership of the RSE Asia Association"/>
+  <meta name="description" content="News related to RSE Asia Association"/>
   <meta name="github-repo" content="rse-asia/RSE_Asia"/>
-  <meta name="twitter:title" content="Community Membership"/>
-  <meta name="twitter:description" content="Community membership of the RSE Asia Association"/>
-  <meta name="twitter:url" content="https://rse-asia.github.io/RSE_Asia/membership.html"/>
+  <meta name="twitter:title" content="Talks"/>
+  <meta name="twitter:description" content="News related to RSE Asia Association"/>
+  <meta name="twitter:url" content="https://rse-asia.github.io/RSE_Asia/news.html"/>
   <meta name="twitter:image" content="https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg"/>
   <meta name="twitter:image:alt" content="The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters."/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:creator" content="@RSE_Asia"/>
   <meta name="twitter:site" content="@RSE_Asia"/>
-  <meta property="og:title" content="Community Membership"/>
-  <meta property="og:description" content="Community membership of the RSE Asia Association"/>
-  <meta property="og:url" content="https://rse-asia.github.io/RSE_Asia/membership.html"/>
+  <meta property="og:title" content="Talks"/>
+  <meta property="og:description" content="News related to RSE Asia Association"/>
+  <meta property="og:url" content="https://rse-asia.github.io/RSE_Asia/news.html"/>
   <meta property="og:image" content="https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg"/>
   <meta property="og:image:alt" content="The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters."/>
   <meta property="og:type" content="website"/>
@@ -4974,12 +4975,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 </head>
 
-<body>
+<body class="layout-listing">
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Community Membership","description":"Community membership of the RSE Asia Association","authors":[]}
+{"title":"News","description":"News related to RSE Asia Association","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -5003,17 +5004,164 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
+<!--radix_placeholder_article_listing-->
+
+
+<script type="application/javascript">
+
+function init_posts_list() {
+
+  function load_image(img) {
+    var src = $(img).attr('data-src');
+    if (src) {
+      $(img).attr('src', src);
+      $(img).on("load", function() {
+        img.removeAttribute('data-src');
+      });
+    }
+  }
+
+  function set_posts_visible(posts, visible) {
+    if (visible) {
+
+      // show bottom border by default
+      $(posts).removeClass('post-preview-last');
+
+      // apply limits if need be
+      var max_posts = 25;
+      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
+      if (apply_limits && posts.length > max_posts) {
+        posts = $(posts).slice(0, max_posts);
+      } else {
+        $('.posts-more a').addClass('hidden');
+      }
+
+      // apply last style
+      $(posts.slice(-1)[0]).addClass('post-preview-last');
+
+      $(posts).removeClass('hidden');
+      $(posts).find('img[data-src]').each(function(i, img) {
+        load_image(img);
+      });
+    } else {
+      $(posts).addClass('hidden');
+    }
+  }
+
+  function apply_hash_filter() {
+
+    // clear active state
+    $('.categories .active').removeClass('active');
+
+    // mark all posts invisible to start
+    set_posts_visible($('.posts-list').children('a'), false);
+
+    // if we have a hash filter
+    if (window.location.hash && window.location.hash.startsWith("#category:")) {
+
+      // mark posts that match the category visible
+      var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
+      var posts = $('.post-metadata').map(function(idx, script) {
+        var metadata = $.parseJSON($(script).html());
+        var post = null;
+        $.each(metadata.categories, function(idx, category) {
+          category = category.replace(/ /g,"_");
+          if ((page_category || '').toLowerCase() === "articles" || category === page_category) {
+            post = $(script).parent().get();
+            return false;
+          }
+        });
+        return post;
+      });
+      set_posts_visible(posts, true);
+
+      // mark the hash active
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
+
+      // update the list_caption
+      var list_caption = $('.posts-list-caption');
+      var caption = (page_category || '').toLowerCase() === "articles"
+        ? list_caption.attr('data-caption')
+        : ('Category: ' + page_category.replace(/_/g," "));
+      list_caption.text(caption);
+
+    } else {
+
+      // no hash filter, make all posts visible (subject to max display)
+      set_posts_visible($('.posts-list').children(), true);
+
+      // reset list caption
+      var list_caption = $('.posts-list-caption');
+      list_caption.text(list_caption.attr('data-caption'));
+
+
+    }
+  }
+
+  // more articles
+  function apply_post_limits(apply) {
+    if (apply) {
+      $('.posts-container').addClass('posts-apply-limit');
+      $('.posts-more a').removeClass('hidden');
+    } else {
+      $('.posts-container').removeClass('posts-apply-limit');
+      $('.posts-more a').addClass('hidden');
+    }
+  }
+
+  // click handling for tags
+  $('.dt-tag').click(function(ev) {
+    window.location.hash = '#category:' + $(this).text().replace(/ /g, "_");
+    return false;
+  })
+
+  // hash filter handling
+  apply_hash_filter();
+  $(window).on('hashchange',function() {
+    apply_post_limits(true);
+    apply_hash_filter();
+  });
+
+  // more articles link
+  $('.posts-more a').click(function(e) {
+    e.preventDefault();
+    apply_post_limits(false);
+    apply_hash_filter();
+    return false;
+  });
+
+}
+
+</script>
+
+
+
+<div class="posts-container posts-apply-limit l-page">
+<div class="posts-list">
+<h1 class="posts-list-caption" data-caption="News">News</h1>
+</div>
+<div class="posts-more">
+<a href="#">More articles &raquo;</a>
+</div>
+</div>
+<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>Community Membership</h1>
+<h1>News</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Community membership of the RSE Asia Association</p></p>
+<p><p>News related to RSE Asia Association</p></p>
 </div>
 
 
 <div class="d-article">
-<p>To become a community member of the RSE Asia Association, please fill this short <a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform">membership form</a>. The community membership of the RSE Asia Association is free and open to all. People from all regions of the globe are welcome to join our community, irrespective of whether they belong to or are located in Asia.</p>
+<h2 id="featured-news">Featured news</h2>
+<ul>
+<li><p>A <a href="https://ardc.edu.au/news/vive-la-difference-diversity-equity-and-inclusion-in-research-software-engineering/">news item published by Australian Research Data Commons</a> highlights RSE Asia among other work presented during the “Vive la differénce” workshop organized by the Research Software Alliance (13 May 2022).</p></li>
+<li><p>The Open Life Science (OLS) team <a href="https://tree-nation.com/trees/view/2880963">planted a tree dedicated to its cohort-4 in the OLS forest</a>. RSE Asia was launched as a project in the cohort-4 of the OLS programme (11 May 2022).</p></li>
+<li><p>RSE Asia got featured in the <a href="https://www.software.ac.uk/blog/2022-04-28-highlights-collaborations-workshop-2022">Collaborations Workshop 2022 highlights</a> blogpost by the Software Sustainability Institute (28 April 2022).</p></li>
+</ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

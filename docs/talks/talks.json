@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "path": "talks/2022-01-19-OLS4Graduation2022/",
+    "title": "Graduation event: Open Life Science Programme Cohort-4 (OLS-4)",
+    "description": "Graduation from OLS-4 for the project of \"Building the Research Software Engineering (RSE) Association in Asia region\".",
+    "author": [
+      {
+        "name": "RSE Asia Association",
+        "url": "https://rse-asia.github.io/RSE_Asia/"
+      }
+    ],
+    "date": "2022-01-19",
+    "categories": [
+      "Graduation",
+      "OLS",
+      "Community Building"
+    ],
+    "contents": "\r\nClick below for the graduation video.\r\n\r\n\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "talks/2022-01-19-OLS4Graduation2022/preview.png",
+    "last_modified": "2022-05-15T16:24:30+05:30",
+    "input_file": {},
+    "preview_width": 1312,
+    "preview_height": 681
+  },
+  {
+    "path": "talks/2021-10-14-RSEAsiaLaunch2021/",
+    "title": "Launch event: RSE Asia Association",
+    "description": "An invitation to the launch event of RSE Asia Association",
+    "author": [
+      {
+        "name": "RSE Asia Association",
+        "url": "https://rse-asia.github.io/RSE_Asia/"
+      }
+    ],
+    "date": "2021-10-14",
+    "categories": [
+      "Invitation",
+      "Service"
+    ],
+    "contents": "\r\nRSE Asia Association launched on 14th October 2021.\r\nClick below for the Launch video.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "talks/2021-10-14-RSEAsiaLaunch2021/preview.jpg",
+    "last_modified": "2022-05-15T16:03:54+05:30",
+    "input_file": {}
+  }
+]
