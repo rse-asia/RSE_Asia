@@ -16,7 +16,7 @@ The RSE Asia Association was launched online on Thursday, 14th October 2021. Thi
 At the launch event we conducted activities for contributing to [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/). The launch event was fully online.
 
 ## OLS-4 Cohort
-The RSE Asia Association was launched as a project under the [Open Life Science program (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#) and continues to be built under the [Open Life Science program (OLS-5)](https://openlifesci.org/ols-5/projects-participants/#) and the [Pilot Mentoring Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the [Society of Research Software Engineering](https://society-rse.org/).
+The RSE Asia Association was launched as a project under the [Open Life Science programme (OLS-4)](https://openlifesci.org/ols-4/projects-participants/#) and continues to be built under the [Open Life Science programme (OLS-5)](https://openlifesci.org/ols-5/projects-participants/#) and the [Pilot Mentoring Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the [Society of Research Software Engineering](https://society-rse.org/).
 
 
 ## Code of Conduct
