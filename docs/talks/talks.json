@@ -1,5 +1,95 @@
 [
   {
+    "path": "talks/2022-04-19-VldReSA22/",
+    "title": "Workshop on 'Vive la différence - research software engineers' ",
+    "description": "Talk on \"Early career research viewpoint on future vision for DEI in RSE\" presented at the Lorentz Centre (hybrid) Workshop on \"Vive la différence - research software engineers\" organized by the \"Research Software Alliance\". It was an hybrid event with an in-person element from 19-22 April 2022 at the Lorentz Centre in the Netherlands; and online events from March-April 2022 across different time zones.",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2022-04-19",
+    "categories": [
+      "Research Software Engineering",
+      "DEI",
+      "Early Career Researcher",
+      "Mentorship"
+    ],
+    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "talks/2022-04-19-VldReSA22/preview.png",
+    "last_modified": "2022-05-15T18:13:42+05:30",
+    "input_file": "VldReSA22.knit.md",
+    "preview_width": 1421,
+    "preview_height": 796
+  },
+  {
+    "path": "talks/2022-04-04-lightningCW22/",
+    "title": "Workshop session at APAN53",
+    "description": "Lightning talk on \"RSE Asia Association: In making\" at the Software Sustainability Institute's Collaborations Workshop 2022.",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2022-04-04",
+    "categories": [
+      "Research Software Engineering",
+      "Community Building"
+    ],
+    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "talks/2022-04-04-lightningCW22/preview.png",
+    "last_modified": "2022-05-15T18:04:59+05:30",
+    "input_file": "lightningCW22.knit.md",
+    "preview_width": 1597,
+    "preview_height": 893
+  },
+  {
+    "path": "talks/2022-03-11-WorkshopAPAN2022/",
+    "title": "Workshop session at APAN53",
+    "description": "Presented the narratives from RSE Asia at Workshop session on “Growing research software initiatives and communities in the Asia Pacific” organized by the Asia Pacific Advanced Network (APAN53) conference (7th-11th March 2022).",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2022-03-11",
+    "categories": [
+      "Research Software Engineering",
+      "Community Building"
+    ],
+    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "talks/2022-03-11-WorkshopAPAN2022/preview.png",
+    "last_modified": "2022-05-15T17:58:47+05:30",
+    "input_file": "WorkshopAPAN2022.knit.md",
+    "preview_width": 1596,
+    "preview_height": 891
+  },
+  {
+    "path": "talks/2022-03-09-PanelAPAN2022/",
+    "title": "Panel discussion at APAN53",
+    "description": "Presented the developments of the RSE Asia Association in a panel discussion on “Accelerating the paradigm shift towards Open Science and Data Sharing in Pandemic times and beyond” at the Asia Pacific Advanced Network (APAN53) conference, during 7th-11th March 2022.",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2022-03-09",
+    "categories": [
+      "Open Science",
+      "Community Building"
+    ],
+    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "talks/2022-03-09-PanelAPAN2022/preview.png",
+    "last_modified": "2022-05-15T17:49:10+05:30",
+    "input_file": "PanelAPAN2022.knit.md",
+    "preview_width": 1201,
+    "preview_height": 675
+  },
+  {
     "path": "talks/2022-01-19-OLS4Graduation2022/",
     "title": "Graduation event: Open Life Science Programme Cohort-4 (OLS-4)",
     "description": "Graduation from OLS-4 for the project of \"Building the Research Software Engineering (RSE) Association in Asia region\".",
