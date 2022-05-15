@@ -1,0 +1,34 @@
+---
+title: "Panel discussion at APAN53"
+description: |
+   Presented the developments of the RSE Asia Association in a panel discussion on “Accelerating the paradigm shift towards Open Science and Data Sharing in Pandemic times and beyond” at the Asia Pacific Advanced Network (APAN53) conference, during 7th-11th March 2022. 
+author:
+  - name: Saranjeet Kaur Bhogal
+    url: https://saranjeetkaur.github.io/About-Me/
+url: https://github.com/SaranjeetKaur/APAN53_Slides_Panel_Discussion
+preview: preview.png
+date: 03-09-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Open Science, Community Building]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+*Click below for the slide.*
+  
+<a href="`r rmarkdown::metadata$url`">
+```{r}
+knitr::include_graphics("preview.png")
+```
+</a>
+  
