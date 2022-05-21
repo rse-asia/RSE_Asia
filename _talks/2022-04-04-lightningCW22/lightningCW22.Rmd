@@ -1,5 +1,5 @@
 ---
-title: "Workshop session at APAN53"
+title: "Lightning Talk at CW22"
 description: |
   Lightning talk on "RSE Asia Association: In making" at the Software Sustainability Institute's Collaborations Workshop 2022.
 author:
