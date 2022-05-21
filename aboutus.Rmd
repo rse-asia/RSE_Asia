@@ -57,3 +57,5 @@ Furthermore, under the [Pilot Mentoring Programme](https://society-rse.org/event
 ## Advisory Board
 
 - [Anne Fouilloux](https://github.com/annefou)
+- [Michelle Barker](https://www.researchsoft.org/people)
+- [Rowland Mosbergen](https://au.linkedin.com/in/rowlandm-gaicd)
