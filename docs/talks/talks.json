@@ -18,14 +18,14 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-04-19-VldReSA22/preview.png",
-    "last_modified": "2022-05-15T18:13:42+05:30",
-    "input_file": "VldReSA22.knit.md",
+    "last_modified": "2022-05-21T17:55:48+05:30",
+    "input_file": {},
     "preview_width": 1421,
     "preview_height": 796
   },
   {
     "path": "talks/2022-04-04-lightningCW22/",
-    "title": "Workshop session at APAN53",
+    "title": "Lightning Talk at CW22",
     "description": "Lightning talk on \"RSE Asia Association: In making\" at the Software Sustainability Institute's Collaborations Workshop 2022.",
     "author": [
       {
@@ -40,7 +40,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-04-04-lightningCW22/preview.png",
-    "last_modified": "2022-05-15T18:04:59+05:30",
+    "last_modified": "2022-05-21T18:06:15+05:30",
     "input_file": "lightningCW22.knit.md",
     "preview_width": 1597,
     "preview_height": 893
@@ -62,8 +62,8 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-03-11-WorkshopAPAN2022/preview.png",
-    "last_modified": "2022-05-15T17:58:47+05:30",
-    "input_file": "WorkshopAPAN2022.knit.md",
+    "last_modified": "2022-05-21T17:55:48+05:30",
+    "input_file": {},
     "preview_width": 1596,
     "preview_height": 891
   },
@@ -84,8 +84,8 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-03-09-PanelAPAN2022/preview.png",
-    "last_modified": "2022-05-15T17:49:10+05:30",
-    "input_file": "PanelAPAN2022.knit.md",
+    "last_modified": "2022-05-21T17:55:48+05:30",
+    "input_file": {},
     "preview_width": 1201,
     "preview_height": 675
   },
@@ -107,7 +107,7 @@
     ],
     "contents": "\r\nClick below for the graduation video.\r\n\r\n\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-01-19-OLS4Graduation2022/preview.png",
-    "last_modified": "2022-05-15T16:24:30+05:30",
+    "last_modified": "2022-05-21T17:55:48+05:30",
     "input_file": {},
     "preview_width": 1312,
     "preview_height": 681
@@ -129,7 +129,7 @@
     ],
     "contents": "\r\nRSE Asia Association launched on 14th October 2021.\r\nClick below for the Launch video.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2021-10-14-RSEAsiaLaunch2021/preview.jpg",
-    "last_modified": "2022-05-15T16:03:54+05:30",
+    "last_modified": "2022-05-21T17:55:48+05:30",
     "input_file": {}
   }
 ]
