@@ -1,0 +1,27 @@
+---
+title: "Community Membership"
+description: |
+  Community membership of the RSE Asia Association
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "Community membership of the RSE Asia Association"
+  ) %>%
+  meta_name("github-repo" = "rse-asia/RSE_Asia") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "Community Membership",
+    url = "https://rse-asia.github.io/RSE_Asia/membership.html",
+    image = "https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg",
+    image_alt = "The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters.",
+    og_type = "website",
+    og_author = c("RSE Asia Association"),
+    twitter_card_type = "summary",
+    twitter_creator = "@RSE_Asia"
+  )
+```
+
+To become a community member of the RSE Asia Association, please fill this short [membership form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform). The community membership of the RSE Asia Association is free and open to all. People from all regions of the globe are welcome to join our community, irrespective of whether they belong to or are located in Asia.

@@ -1,0 +1,43 @@
+---
+title: "Graduation event: Open Life Science Programme Cohort-4 (OLS-4)"
+description: |
+  Graduation from OLS-4 for the project of "Building the Research Software Engineering (RSE) Association in Asia region".
+author:
+  - name: RSE Asia Association
+    url: https://rse-asia.github.io/RSE_Asia/
+url: https://github.com/rse-asia/OLS-4-graduation
+preview: preview.png
+date: 01-19-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Graduation, OLS, Community Building]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+
+Click below for the graduation video. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BCBRC3vyNYg?start=2769" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Click below for the slide.*
+
+<a href="`r rmarkdown::metadata$url`">
+```{r}
+knitr::include_graphics("cover.png")
+```
+</a>
+
+  
+```{r}
+knitr::include_graphics("preview.png")
+```

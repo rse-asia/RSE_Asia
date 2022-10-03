@@ -1,5 +1,5 @@
 name: "website_rse_asia"
-title: "RSE Asia"
+title: "RSE Asia Association"
 theme: theme.css
 description: |
   RSE Asia
@@ -10,6 +10,12 @@ navbar:
       href: index.html
     - text: "ホーム"
       href: index_ja.html
-    - text: "About"
-      href: about.html
+    - text: "About Us"
+      href: aboutus.html
+    - text: "Community Membership"
+      href: membership.html
+    - text: "Talks"
+      href: talks.html
+    - text: "News"
+      href: news.html
 output: distill::distill_article

@@ -1,0 +1,37 @@
+---
+title: "News"
+description: |
+  News related to RSE Asia Association
+twitter:
+  creator: "@RSE_Asia"
+listing: news
+---
+  
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "News related to RSE Asia Association"
+  ) %>%
+  meta_name("github-repo" = "rse-asia/RSE_Asia") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "Talks",
+    url = "https://rse-asia.github.io/RSE_Asia/news.html",
+    image = "https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg",
+    image_alt = "The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters.",
+    og_type = "website",
+    og_author = c("RSE Asia Association"),
+    twitter_card_type = "summary",
+    twitter_creator = "@RSE_Asia"
+  )
+```
+
+## Featured news
+
+- A [news item published by Australian Research Data Commons](https://ardc.edu.au/news/vive-la-difference-diversity-equity-and-inclusion-in-research-software-engineering/) highlights RSE Asia among other work presented during the “Vive la differénce” workshop organized by the Research Software Alliance (13 May 2022).
+
+- The Open Life Science (OLS) team [planted a tree dedicated to its cohort-4 in the OLS forest](https://tree-nation.com/trees/view/2880963). RSE Asia was launched as a project in the cohort-4 of the OLS programme (11 May 2022).
+
+- RSE Asia got featured in the [Collaborations Workshop 2022 highlights](https://www.software.ac.uk/blog/2022-04-28-highlights-collaborations-workshop-2022) blogpost by the Software Sustainability Institute (28 April 2022).
+
