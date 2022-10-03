@@ -23,6 +23,16 @@
         "talk",
         "video"
       ]
+    },
+    {
+      "login": "naoe-tatara",
+      "name": "Naoe Tatara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56588774?v=4",
+      "profile": "https://www.usit.uio.no/english/about/organisation/rc/dcm/staff/naoeta/index.html",
+      "contributions": [
+        "review",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
