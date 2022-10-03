@@ -1,0 +1,34 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "SaranjeetKaur",
+      "name": "Saranjeet Kaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28556616?v=4",
+      "profile": "https://saranjeetkaur.github.io/About-Me/",
+      "contributions": [
+        "infra",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "review",
+        "talk",
+        "video"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "RSE_Asia",
+  "projectOwner": "rse-asia"
+}
