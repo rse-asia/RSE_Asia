@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/28556616/128458681-c11bdd5d-0144-4622-8417-8252449de92f.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![DOI](https://zenodo.org/badge/415191235.svg)](https://zenodo.org/badge/latestdoi/415191235)
 
@@ -40,6 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://saranjeetkaur.github.io/About-Me/"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt="Saranjeet Kaur"/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#infra-SaranjeetKaur" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-SaranjeetKaur" title="Content">🖋</a> <a href="https://github.com/rse-asia/RSE_Asia/commits?author=SaranjeetKaur" title="Documentation">📖</a> <a href="#design-SaranjeetKaur" title="Design">🎨</a> <a href="#ideas-SaranjeetKaur" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-SaranjeetKaur" title="Maintenance">🚧</a> <a href="#projectManagement-SaranjeetKaur" title="Project Management">📆</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3ASaranjeetKaur" title="Reviewed Pull Requests">👀</a> <a href="#talk-SaranjeetKaur" title="Talks">📢</a> <a href="#video-SaranjeetKaur" title="Videos">📹</a></td>
+      <td align="center"><a href="https://www.usit.uio.no/english/about/organisation/rc/dcm/staff/naoeta/index.html"><img src="https://avatars.githubusercontent.com/u/56588774?v=4?s=100" width="100px;" alt="Naoe Tatara"/><br /><sub><b>Naoe Tatara</b></sub></a><br /><a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3Anaoe-tatara" title="Reviewed Pull Requests">👀</a> <a href="#question-naoe-tatara" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
   <tfoot>
