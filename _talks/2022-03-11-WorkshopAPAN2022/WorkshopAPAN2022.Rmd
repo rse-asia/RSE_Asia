@@ -11,7 +11,7 @@ date: 03-11-2022
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
-categories: [Research Software Engineering, Community Building]
+categories: [Research Software Engineering, Community Building, Workshop Session]
 output:
   distill::distill_article:
     self_contained: false

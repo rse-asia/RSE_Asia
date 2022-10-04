@@ -11,7 +11,7 @@ date: 01-19-2022
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
-categories: [Graduation, OLS, Community Building]
+categories: [Research Software Engineering, Graduation, Open Life Science, Community Building]
 output:
   distill::distill_article:
     self_contained: false
