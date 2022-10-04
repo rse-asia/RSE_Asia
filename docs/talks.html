@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -788,6 +789,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1029,10 +1031,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     position: relative;
     margin-bottom: 2.5em;
     margin-top: 1.5em;
-  }
-
-  .figure img {
-    width: 100%;
   }
 
   .figure .caption {
@@ -1864,9 +1862,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -1878,6 +1888,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1977,6 +2012,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1999,7 +2036,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -4941,7 +4978,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto"/>
   <meta name="description" content="A list of talks related to RSE Asia Association"/>
   <meta name="github-repo" content="rse-asia/RSE_Asia"/>
@@ -5140,8 +5177,100 @@ function init_posts_list() {
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Talks">Talks</h1>
+<a href="talks/2022-09-14-RSEAA22/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building","Open Science","Panel Discussion","Strategy","Policy"]}</script>
+<div class="metadata">
+<div class="publishedDate">Sept. 14, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Saranjeet Kaur Bhogal</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="talks/2022-09-14-RSEAA22/preview.png"/>
+</div>
+<div class="description">
+<h2>Strategy and Policy Panel Discussion</h2>
+<div class="dt-tags">
+<div class="dt-tag">Research Software Engineering</div>
+<div class="dt-tag">Community Building</div>
+<div class="dt-tag">Open Science</div>
+<div class="dt-tag">Panel Discussion</div>
+<div class="dt-tag">Strategy</div>
+<div class="dt-tag">Policy</div>
+</div>
+<p>Strategy and Policy Panel at RSE Asia Australia Unconference 2022.</p>
+</div>
+</a>
+<a href="talks/2022-09-05-RSECon22/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building","Open Science","Poster Presentation","Lightning Talk"]}</script>
+<div class="metadata">
+<div class="publishedDate">Sept. 5, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Saranjeet Kaur Bhogal</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="talks/2022-09-05-RSECon22/preview.png"/>
+</div>
+<div class="description">
+<h2>RSE Asia Association: A year in making</h2>
+<div class="dt-tags">
+<div class="dt-tag">Research Software Engineering</div>
+<div class="dt-tag">Community Building</div>
+<div class="dt-tag">Open Science</div>
+<div class="dt-tag">Poster Presentation</div>
+<div class="dt-tag">Lightning Talk</div>
+</div>
+<p>Poster presentation and lightning talk on "RSE Asia Association: A year in making" presented at RSECon 2022.</p>
+</div>
+</a>
+<a href="talks/2022-07-27-ExpTalkJuliaCon22/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building","Open Science","Experience Talk"]}</script>
+<div class="metadata">
+<div class="publishedDate">July 27, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Saranjeet Kaur Bhogal</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="talks/2022-07-27-ExpTalkJuliaCon22/preview.png"/>
+</div>
+<div class="description">
+<h2>Experience Talk: Community Building using Open Science Principles</h2>
+<div class="dt-tags">
+<div class="dt-tag">Research Software Engineering</div>
+<div class="dt-tag">Community Building</div>
+<div class="dt-tag">Open Science</div>
+<div class="dt-tag">Experience Talk</div>
+</div>
+<p>Experience Talk on "Community Building using Open Science Principles" presented at JuliaCon 2022. It was an online conference.</p>
+</div>
+</a>
+<a href="talks/2022-07-18-OLS5Graduation2022/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building","Open Life Science","Open Science","Graduation"]}</script>
+<div class="metadata">
+<div class="publishedDate">July 18, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Jyoti Bhogal</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="talks/2022-07-18-OLS5Graduation2022/preview.png"/>
+</div>
+<div class="description">
+<h2>Graduation event: Open Life Science Programme Cohort-5 (OLS-5)</h2>
+<div class="dt-tags">
+<div class="dt-tag">Research Software Engineering</div>
+<div class="dt-tag">Community Building</div>
+<div class="dt-tag">Open Life Science</div>
+<div class="dt-tag">Open Science</div>
+<div class="dt-tag">Graduation</div>
+</div>
+<p>Graduation from OLS-5 for the project of "Building Pathways for Onboarding to Research Software Engineering (RSE) Asia Association and Adoption of Code of Conduct".</p>
+</div>
+</a>
 <a href="talks/2022-04-19-VldReSA22/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","DEI","Early Career Researcher","Mentorship"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","DEI","Early Career Researcher","Mentorship","Workshop Session"]}</script>
 <div class="metadata">
 <div class="publishedDate">April 19, 2022</div>
 <div class="dt-authors">
@@ -5158,32 +5287,34 @@ function init_posts_list() {
 <div class="dt-tag">DEI</div>
 <div class="dt-tag">Early Career Researcher</div>
 <div class="dt-tag">Mentorship</div>
+<div class="dt-tag">Workshop Session</div>
 </div>
 <p>Talk on "Early career research viewpoint on future vision for DEI in RSE" presented at the Lorentz Centre (hybrid) Workshop on "Vive la différence - research software engineers" organized by the "Research Software Alliance". It was an hybrid event with an in-person element from 19-22 April 2022 at the Lorentz Centre in the Netherlands; and online events from March-April 2022 across different time zones.</p>
 </div>
 </a>
 <a href="talks/2022-04-04-lightningCW22/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building","Lightning Talk"]}</script>
 <div class="metadata">
-<div class="publishedDate">April 3, 2022</div>
+<div class="publishedDate">April 4, 2022</div>
 <div class="dt-authors">
 <div class="dt-author">Saranjeet Kaur Bhogal</div>
 </div>
 </div>
 <div class="thumbnail">
-<img src="talks/2022-04-04-lightningCW22/preview.png"/>
+<img data-src="talks/2022-04-04-lightningCW22/preview.png"/>
 </div>
 <div class="description">
 <h2>Lightning Talk at CW22</h2>
 <div class="dt-tags">
 <div class="dt-tag">Research Software Engineering</div>
 <div class="dt-tag">Community Building</div>
+<div class="dt-tag">Lightning Talk</div>
 </div>
 <p>Lightning talk on "RSE Asia Association: In making" at the Software Sustainability Institute's Collaborations Workshop 2022.</p>
 </div>
 </a>
 <a href="talks/2022-03-11-WorkshopAPAN2022/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Community Building","Workshop Session"]}</script>
 <div class="metadata">
 <div class="publishedDate">March 11, 2022</div>
 <div class="dt-authors">
@@ -5191,19 +5322,20 @@ function init_posts_list() {
 </div>
 </div>
 <div class="thumbnail">
-<img src="talks/2022-03-11-WorkshopAPAN2022/preview.png"/>
+<img data-src="talks/2022-03-11-WorkshopAPAN2022/preview.png"/>
 </div>
 <div class="description">
 <h2>Workshop session at APAN53</h2>
 <div class="dt-tags">
 <div class="dt-tag">Research Software Engineering</div>
 <div class="dt-tag">Community Building</div>
+<div class="dt-tag">Workshop Session</div>
 </div>
 <p>Presented the narratives from RSE Asia at Workshop session on “Growing research software initiatives and communities in the Asia Pacific” organized by the Asia Pacific Advanced Network (APAN53) conference (7th-11th March 2022).</p>
 </div>
 </a>
 <a href="talks/2022-03-09-PanelAPAN2022/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Open Science","Community Building"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["Open Science","Community Building","Panel Discussion"]}</script>
 <div class="metadata">
 <div class="publishedDate">March 9, 2022</div>
 <div class="dt-authors">
@@ -5211,19 +5343,20 @@ function init_posts_list() {
 </div>
 </div>
 <div class="thumbnail">
-<img src="talks/2022-03-09-PanelAPAN2022/preview.png"/>
+<img data-src="talks/2022-03-09-PanelAPAN2022/preview.png"/>
 </div>
 <div class="description">
 <h2>Panel discussion at APAN53</h2>
 <div class="dt-tags">
 <div class="dt-tag">Open Science</div>
 <div class="dt-tag">Community Building</div>
+<div class="dt-tag">Panel Discussion</div>
 </div>
 <p>Presented the developments of the RSE Asia Association in a panel discussion on “Accelerating the paradigm shift towards Open Science and Data Sharing in Pandemic times and beyond” at the Asia Pacific Advanced Network (APAN53) conference, during 7th-11th March 2022.</p>
 </div>
 </a>
 <a href="talks/2022-01-19-OLS4Graduation2022/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Graduation","OLS","Community Building"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["Research Software Engineering","Graduation","Open Life Science","Community Building"]}</script>
 <div class="metadata">
 <div class="publishedDate">Jan. 19, 2022</div>
 <div class="dt-authors">
@@ -5231,20 +5364,21 @@ function init_posts_list() {
 </div>
 </div>
 <div class="thumbnail">
-<img src="talks/2022-01-19-OLS4Graduation2022/preview.png"/>
+<img data-src="talks/2022-01-19-OLS4Graduation2022/preview.png"/>
 </div>
 <div class="description">
 <h2>Graduation event: Open Life Science Programme Cohort-4 (OLS-4)</h2>
 <div class="dt-tags">
+<div class="dt-tag">Research Software Engineering</div>
 <div class="dt-tag">Graduation</div>
-<div class="dt-tag">OLS</div>
+<div class="dt-tag">Open Life Science</div>
 <div class="dt-tag">Community Building</div>
 </div>
 <p>Graduation from OLS-4 for the project of "Building the Research Software Engineering (RSE) Association in Asia region".</p>
 </div>
 </a>
 <a href="talks/2021-10-14-RSEAsiaLaunch2021/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Invitation","Service"]}</script>
+<script class="post-metadata" type="text/json">{"categories":["Invitation","Service","Launch event"]}</script>
 <div class="metadata">
 <div class="publishedDate">Oct. 14, 2021</div>
 <div class="dt-authors">
@@ -5259,6 +5393,7 @@ function init_posts_list() {
 <div class="dt-tags">
 <div class="dt-tag">Invitation</div>
 <div class="dt-tag">Service</div>
+<div class="dt-tag">Launch event</div>
 </div>
 <p>An invitation to the launch event of RSE Asia Association</p>
 </div>
@@ -5270,11 +5405,11 @@ function init_posts_list() {
 <ul>
 <li>
 <a href="#category:Articles">Articles</a>
-<span class="category-count">(6)</span>
+<span class="category-count">(10)</span>
 </li>
 <li>
 <a href="#category:Community_Building">Community Building</a>
-<span class="category-count">(4)</span>
+<span class="category-count">(8)</span>
 </li>
 <li>
 <a href="#category:DEI">DEI</a>
@@ -5285,32 +5420,64 @@ function init_posts_list() {
 <span class="category-count">(1)</span>
 </li>
 <li>
-<a href="#category:Graduation">Graduation</a>
+<a href="#category:Experience_Talk">Experience Talk</a>
 <span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:Graduation">Graduation</a>
+<span class="category-count">(2)</span>
 </li>
 <li>
 <a href="#category:Invitation">Invitation</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
+<a href="#category:Launch_event">Launch event</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:Lightning_Talk">Lightning Talk</a>
+<span class="category-count">(2)</span>
+</li>
+<li>
 <a href="#category:Mentorship">Mentorship</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
-<a href="#category:OLS">OLS</a>
-<span class="category-count">(1)</span>
+<a href="#category:Open_Life_Science">Open Life Science</a>
+<span class="category-count">(2)</span>
 </li>
 <li>
 <a href="#category:Open_Science">Open Science</a>
+<span class="category-count">(5)</span>
+</li>
+<li>
+<a href="#category:Panel_Discussion">Panel Discussion</a>
+<span class="category-count">(2)</span>
+</li>
+<li>
+<a href="#category:Policy">Policy</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:Poster_Presentation">Poster Presentation</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
 <a href="#category:Research_Software_Engineering">Research Software Engineering</a>
-<span class="category-count">(3)</span>
+<span class="category-count">(8)</span>
 </li>
 <li>
 <a href="#category:Service">Service</a>
 <span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:Strategy">Strategy</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:Workshop_Session">Workshop Session</a>
+<span class="category-count">(2)</span>
 </li>
 </ul>
 </div>
@@ -5319,7 +5486,7 @@ function init_posts_list() {
 <a href="#">More articles &raquo;</a>
 </div>
 </div>
-<!--/radix_placeholder_article_listing-->
+<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
 <h1>Talks</h1>
@@ -5346,10 +5513,28 @@ function init_posts_list() {
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>This website is built using the R package <a href="https://github.com/rstudio/distill">distill</a>.</p>
-<p>RSE Asia Association - copyright <script>document.write(new Date().getFullYear())</script></p>
+<p>This website is built using the R package <a
+href="https://github.com/rstudio/distill">distill</a>.</p>
+<p>RSE Asia Association - copyright <script>document.write(new
+Date().getFullYear())</script></p>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     
     
-    var t = 
+    var t = setInterval(function(){
+      var resizeEvent = new Event('resize');
+      window.dispatchEvent(resizeEvent);  
+    }, 1000);
+ 
+    
+  });
+  
+  
+</script>
+</div>
+<!--/radix_placeholder_navigation_after_body-->
+
+
+</body>
+
+</html>
