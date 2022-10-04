@@ -1,0 +1,33 @@
+---
+title: "Graduation event: Open Life Science Programme Cohort-5 (OLS-5)"
+description: |
+  Graduation from OLS-5 for the project of "Building Pathways for Onboarding to Research Software Engineering (RSE) Asia Association and Adoption of Code of Conduct".
+author:
+  - name: Jyoti Bhogal
+    url: https://jyoti-bhogal.github.io/about-me/
+url: https://www.youtube.com/watch?v=kc2kFONOvtY
+preview: preview.png
+date: 07-18-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Community Building, Open Life Science, Open Science, Graduation]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+*Click below for the slide.*
+  
+<a href="`r rmarkdown::metadata$url`">
+```{r}
+knitr::include_graphics("preview.png")
+```
+</a>
