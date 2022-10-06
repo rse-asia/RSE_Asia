@@ -1,0 +1,26 @@
+[
+  {
+    "path": "blog/2022-10-01-RSEAAExp22/",
+    "title": "Place your title here",
+    "description": "Give a short description here about what this blog is about",
+    "author": [
+      {
+        "name": "Kozo Nishida",
+        "url": "https://github.com/kozo2"
+      }
+    ],
+    "date": "2022-09-14",
+    "categories": [
+      "Research Software Engineering",
+      "Community Building",
+      "Unconference",
+      "Experience Blog"
+    ],
+    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "blog/2022-10-01-RSEAAExp22/preview.png",
+    "last_modified": "2022-10-06T14:31:44+05:30",
+    "input_file": {},
+    "preview_width": 1183,
+    "preview_height": 332
+  }
+]
