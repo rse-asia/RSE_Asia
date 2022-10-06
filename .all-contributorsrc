@@ -21,7 +21,12 @@
         "projectManagement",
         "review",
         "talk",
-        "video"
+        "video",
+        "bug",
+        "code",
+        "eventOrganizing",
+        "fundingFinding",
+        "question"
       ]
     }
   ],
