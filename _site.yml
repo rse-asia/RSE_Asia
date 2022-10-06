@@ -12,6 +12,8 @@ navbar:
       href: aboutus.html
     - text: "Community Membership"
       href: membership.html
+    - text: "Events"
+      href: events.html
     - text: "Talks"
       href: talks.html
     - text: "Blog"
