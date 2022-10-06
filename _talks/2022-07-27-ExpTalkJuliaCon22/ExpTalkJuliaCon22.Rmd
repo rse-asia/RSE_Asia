@@ -1,0 +1,33 @@
+---
+title: "Experience Talk: Community Building using Open Science Principles"
+description: |
+  Experience Talk on "Community Building using Open Science Principles" presented at JuliaCon 2022. It was an online conference.
+author:
+  - name: Saranjeet Kaur Bhogal
+    url: https://saranjeetkaur.github.io/About-Me/
+url: https://www.youtube.com/watch?v=8SSutdRfQ4g
+preview: preview.png
+date: 07-27-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Community Building, Open Science, Experience Talk]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+*Click below for the slide.*
+  
+<a href="`r rmarkdown::metadata$url`">
+```{r}
+knitr::include_graphics("preview.png")
+```
+</a>

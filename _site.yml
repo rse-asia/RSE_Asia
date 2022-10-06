@@ -12,8 +12,12 @@ navbar:
       href: aboutus.html
     - text: "Community Membership"
       href: membership.html
+    - text: "Events"
+      href: events.html
     - text: "Talks"
       href: talks.html
+    - text: "Blog"
+      href: blog.html
     - text: "News"
       href: news.html
 output: distill::distill_article
