@@ -25,28 +25,3 @@ We follow the Code of Conduct of the [Society of Research Software Engineering](
 
 ## Contact Us
 Twitter handle: [RSE_Asia](https://twitter.com/RSE_Asia/), Website: https://rse-asia.github.io/RSE_Asia/, E-mail: rse.asia.association@gmail.com 
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://saranjeetkaur.github.io/About-Me/"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt="Saranjeet Kaur"/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#infra-SaranjeetKaur" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-SaranjeetKaur" title="Content">🖋</a> <a href="https://github.com/rse-asia/RSE_Asia/commits?author=SaranjeetKaur" title="Documentation">📖</a> <a href="#design-SaranjeetKaur" title="Design">🎨</a> <a href="#ideas-SaranjeetKaur" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-SaranjeetKaur" title="Maintenance">🚧</a> <a href="#projectManagement-SaranjeetKaur" title="Project Management">📆</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3ASaranjeetKaur" title="Reviewed Pull Requests">👀</a> <a href="#talk-SaranjeetKaur" title="Talks">📢</a> <a href="#video-SaranjeetKaur" title="Videos">📹</a> <a href="https://github.com/rse-asia/RSE_Asia/issues?q=author%3ASaranjeetKaur" title="Bug reports">🐛</a> <a href="https://github.com/rse-asia/RSE_Asia/commits?author=SaranjeetKaur" title="Code">💻</a> <a href="#eventOrganizing-SaranjeetKaur" title="Event Organizing">📋</a> <a href="#fundingFinding-SaranjeetKaur" title="Funding Finding">🔍</a> <a href="#question-SaranjeetKaur" title="Answering Questions">💬</a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    
-  </tfoot>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
