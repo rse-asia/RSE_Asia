@@ -1,7 +1,8 @@
 ---
-title: "タイトルをここに書きます"
+title: "R"
 description: |
-  このブログが何についてのものかをここに短く説明してください
+  これは、アジア オーストラリア地域で初めての RSE[Research Software Engineer] のカンファレンス (以降 RSEAA) の私のレポートです。
+  RSEAA は、2022 年 9 月 14 ～ 16 日に Zoom イベントで開催されました。
 author:
   - name: 西田 孝三
     url: https://github.com/kozo2
@@ -23,11 +24,85 @@ knitr::opts_chunk$set(echo = FALSE,
                       out.width = "100%",
                       out.extra="style='border:1px solid black;'")
 ```
-
-*スライドは下をクリック。*
   
 <a href="`r rmarkdown::metadata$url`">
 ```{r}
 knitr::include_graphics("preview.png")
 ```
 </a>
+
+## RSE のアンカンファレンスとは何か
+
+RSE は Research Software Engineer の略称です。
+RSEの定義を知るには[このリンク](https://researchsoftware.org/)を参照してください。
+アンカンファレンス とは参加者同士が主体的に議論するスタイルのカンファレンスのことです。
+
+RSEAA のアンカンファレンスは、
+通常のカンファレンスのようなキーノートスピーカー+パネルディスカッションと、
+アンカンファレンスがミックスされたスタイルで開催されました。
+
+キーノートスピーカーとパネルディスカッションについては録画物をYouTubeで見ることができます。
+
+## アクセシビリティに関する印象
+
+RSEAA はアクセシビリティに対する配慮が優れていました。
+私は日本人であり英語が得意ではありません。
+ですが RSEAA では Zoom の live transcription 機能が有効化されており、英語を聞きとることについては不自由がありませんでした。
+(日本人は多くはリーディングはできますが、リスニングとスピーキングができません。)
+RSEAA がアクセシビリティに関して準備した内容の詳細は[このリンク](https://rse-aunz.github.io/2022-Asia-Australia-unconference/#:~:text=Accessibility%20and%20Inclusivity)を参照してください。
+
+
+## キーノートスピーチに関する感想
+
+RSEAAには3人のキーノートスピーチがありました。
+私は Mars と Anne のスピーチをライブで聴講しました。
+私は Jess のスピーチは仕事の都合でライブで聞くことはできませんでした。
+
+ここでは Mars と Ann のキーノートに関する感想を述べます。
+
+
+### Mars
+
+Mars は Quansight のテクニカルイラストレーターです。
+Mars は RSE としては少し変わったキャリアパスの持ち主であり、彼女はそれをこのキーノートスピーチで紹介していました。
+Mars のトークは、RSEコミュニティの包括性の向上に役立つすばらしいトークだったと思います。
+
+### Anne
+
+Anne は Turing Way や Open Life Science といったオープンサイエンスコミュニティのコミュニティマネージャーです。
+Anne のトークは彼女のキャリアの歴史、彼女が学んできたこと、そして今関わっているプロジェクトを紹介するものでした。
+Anne は主に Turing Way を通して再現性の改善や研究のオープン化において平等、多様性、包括性といった目的を実現しようとしているかを
+説明していました。
+日本では Anne のようなオープンサイエンスコミュニティのためのコミュニティマネージャーはいません。
+日本では Anne のキーノートが聞ける機会はほぼ無いため、それは貴重な機会でした。
+
+## ストラテジーとポリシーのパネルディスカッションとアンカンファレンスについて
+
+キーノート以外のパート は議論形式であり、そのすべてを紹介することはできません。
+まずはアンカンファレンスのテーマを箇条書きします。
+各テーマの議論はZoom Event内の複数のZoom Meetingセッション内で行われました。
+カンファレンス参加者は自分の興味に合うZoom Meetingセッションに自由に入退出することができました。
+
+- Computational Reproducibility
+- Quantify RSE outputs
+- Benchmarking domain-specific research workflow solutions at an international level
+- Lightning talks - share your projects
+- Hosting research software
+- #BridgingTheGap between #Biologists and #Programmers
+- What exactly does the most senior RSE look like?
+- Questions to ask your supervisor at your RSE performance review
+- What would a secure RSE position look like?
+- Let's discuss employment realities, as a student, as a grad, as a postgrad, as an ECR
+- RSE Silos
+- Software as first-class outputs
+- Justifying maintenance work
+- A Web Platform for RSEs
+- Actionable Items1 - Community Building
+- Actionable Items2 - Peer programming and collaboration
+- Actionable Items3 - Unconference 2023 ideas
+
+上記の各テーマを見て(RSEに興味がある)あなたはどう思われましたか？
+おそらくどれも普段感じているけど身近に相談する人がいないと思うことではないでしょうか？
+それはまさに私も同じであり、このアンカンファレンスに参加して
+「こういったテーマを議論できる場(コミュニティ)が世界には存在するのだ」ということを知り、自分は孤独ではないと思いました。
+
