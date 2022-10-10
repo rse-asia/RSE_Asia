@@ -1,4 +1,9 @@
 ![image](https://user-images.githubusercontent.com/28556616/128458681-c11bdd5d-0144-4622-8417-8252449de92f.png)
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [![DOI](https://zenodo.org/badge/415191235.svg)](https://zenodo.org/badge/latestdoi/415191235)
 
 
@@ -36,10 +41,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
+
       <td align="center"><a href="https://saranjeetkaur.github.io/About-Me/"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt="Saranjeet Kaur"/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#infra-SaranjeetKaur" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-SaranjeetKaur" title="Content">🖋</a> <a href="https://github.com/rse-asia/RSE_Asia/commits?author=SaranjeetKaur" title="Documentation">📖</a> <a href="#design-SaranjeetKaur" title="Design">🎨</a> <a href="#ideas-SaranjeetKaur" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-SaranjeetKaur" title="Maintenance">🚧</a> <a href="#projectManagement-SaranjeetKaur" title="Project Management">📆</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3ASaranjeetKaur" title="Reviewed Pull Requests">👀</a> <a href="#talk-SaranjeetKaur" title="Talks">📢</a> <a href="#video-SaranjeetKaur" title="Videos">📹</a> <a href="https://github.com/rse-asia/RSE_Asia/issues?q=author%3ASaranjeetKaur" title="Bug reports">🐛</a> <a href="https://github.com/rse-asia/RSE_Asia/commits?author=SaranjeetKaur" title="Code">💻</a> <a href="#eventOrganizing-SaranjeetKaur" title="Event Organizing">📋</a> <a href="#fundingFinding-SaranjeetKaur" title="Funding Finding">🔍</a> <a href="#question-SaranjeetKaur" title="Answering Questions">💬</a> <a href="#audio-SaranjeetKaur" title="Audio">🔊</a> <a href="#promotion-SaranjeetKaur" title="Promotion">📣</a> <a href="#research-SaranjeetKaur" title="Research">🔬</a> <a href="#tool-SaranjeetKaur" title="Tools">🔧</a></td>
       <td align="center"><a href="http://www.mn.uio.no/geo/english/people/adm/annefou/"><img src="https://avatars.githubusercontent.com/u/8168508?v=4?s=100" width="100px;" alt="Anne Fouilloux"/><br /><sub><b>Anne Fouilloux</b></sub></a><br /><a href="#mentoring-annefou" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3Aannefou" title="Reviewed Pull Requests">👀</a> <a href="#question-annefou" title="Answering Questions">💬</a></td>
       <td align="center"><a href="https://github.com/jyoti-bhogal"><img src="https://avatars.githubusercontent.com/u/68017009?v=4?s=100" width="100px;" alt="Jyoti Bhogal"/><br /><sub><b>Jyoti Bhogal</b></sub></a><br /><a href="#content-jyoti-bhogal" title="Content">🖋</a> <a href="#ideas-jyoti-bhogal" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-jyoti-bhogal" title="Promotion">📣</a> <a href="#research-jyoti-bhogal" title="Research">🔬</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3Ajyoti-bhogal" title="Reviewed Pull Requests">👀</a></td>
       <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#mentoring-malvikasharan" title="Mentoring">🧑‍🏫</a> <a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://github.com/kozo2"><img src="https://avatars.githubusercontent.com/u/12192?v=4?s=100" width="100px;" alt="Kozo Nishida"/><br /><sub><b>Kozo Nishida</b></sub></a><br /><a href="#translation-kozo2" title="Translation">🌍</a> <a href="#blog-kozo2" title="Blogposts">📝</a></td>
+
     </tr>
   </tbody>
 </table>
