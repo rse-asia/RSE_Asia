@@ -43,6 +43,19 @@
         "review",
         "question"
       ]
+    },
+    {
+      "login": "jyoti-bhogal",
+      "name": "Jyoti Bhogal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68017009?v=4",
+      "profile": "https://github.com/jyoti-bhogal",
+      "contributions": [
+        "content",
+        "ideas",
+        "promotion",
+        "research",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
