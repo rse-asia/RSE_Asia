@@ -26,7 +26,11 @@
         "code",
         "eventOrganizing",
         "fundingFinding",
-        "question"
+        "question",
+        "audio",
+        "promotion",
+        "research",
+        "tool"
       ]
     },
     {
