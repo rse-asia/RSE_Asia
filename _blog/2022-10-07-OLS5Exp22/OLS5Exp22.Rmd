@@ -1,0 +1,33 @@
+---
+title: "Place your title here"
+description: |
+  Give a short description here about what this blog is about
+author:
+  - name: Jyoti Bhogal
+    url: https://jyoti-bhogal.github.io/about-me/
+url: https://openlifesci.org/ols-5/projects-participants/#projects
+preview: preview.png
+date: 10-07-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Community Building, Open Life Science, Open Science, Experience Blog]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+*Click below for the slide.*
+  
+<a href="`r rmarkdown::metadata$url`">
+```{r}
+knitr::include_graphics("preview.png")
+```
+</a>

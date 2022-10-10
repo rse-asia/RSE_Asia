@@ -11,7 +11,7 @@ date: 03-09-2022
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
-categories: [Open Science, Community Building]
+categories: [Open Science, Community Building, Panel Discussion]
 output:
   distill::distill_article:
     self_contained: false

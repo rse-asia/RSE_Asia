@@ -50,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -73,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -125,7 +126,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","preview","date","base_url","twitter","categories","output","citation_url","canonical_url"]}},"value":[{"type":"character","attributes":{},"value":["Launch event: RSE Asia Association"]},{"type":"character","attributes":{},"value":["An invitation to the launch event of RSE Asia Association"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url"]}},"value":[{"type":"character","attributes":{},"value":["RSE Asia Association"]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]}]}]},{"type":"character","attributes":{},"value":["preview.jpg"]},{"type":"character","attributes":{},"value":["10-14-2021"]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@RSE_Asia"]}]},{"type":"character","attributes":{},"value":["Invitation","Service"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","preview","date","base_url","twitter","categories","output","citation_url","canonical_url"]}},"value":[{"type":"character","attributes":{},"value":["Launch event: RSE Asia Association"]},{"type":"character","attributes":{},"value":["An invitation to the launch event of RSE Asia Association"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url"]}},"value":[{"type":"character","attributes":{},"value":["RSE Asia Association"]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]}]}]},{"type":"character","attributes":{},"value":["preview.jpg"]},{"type":"character","attributes":{},"value":["10-14-2021"]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@RSE_Asia"]}]},{"type":"character","attributes":{},"value":["Invitation","Service","Launch event"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]},{"type":"character","attributes":{},"value":["https://rse-asia.github.io/RSE_Asia/"]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
@@ -807,6 +808,7 @@ d-title .dt-tags {
 d-article table.gt_table td,
 d-article table.gt_table th {
   border-bottom: none;
+  font-size: 100%;
 }
 
 .html-widget {
@@ -1048,10 +1050,6 @@ figure img.external {
   position: relative;
   margin-bottom: 2.5em;
   margin-top: 1.5em;
-}
-
-.figure img {
-  width: 100%;
 }
 
 .figure .caption {
@@ -1883,9 +1881,21 @@ function init_distill() {
 
     // hoverable references
     $('span.citation[data-cites]').each(function() {
+      const citeChild = $(this).children()[0]
+      // Do not process if @xyz has been used without escaping and without bibliography activated
+      // https://github.com/rstudio/distill/issues/466
+      if (citeChild === undefined) return true
+
+      if (citeChild.nodeName == "D-FOOTNOTE") {
+        var fn = citeChild
+        $(this).html(fn.shadowRoot.querySelector("sup"))
+        $(this).id = fn.id
+        fn.remove()
+      }
       var refs = $(this).attr('data-cites').split(" ");
       var refHtml = refs.map(function(ref) {
-        return "<p>" + $('#ref-' + ref).html() + "</p>";
+        // Could use CSS.escape too here, we insure backward compatibility in navigator
+        return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
       }).join("\n");
       window.tippy(this, {
         allowHTML: true,
@@ -1897,6 +1907,31 @@ function init_distill() {
         placement: 'bottom-start'
       });
     });
+
+    // fix footnotes in tables (#411)
+    // replacing broken distill.pub feature
+    $('table d-footnote').each(function() {
+      // we replace internal showAtNode methode which is triggered when hovering a footnote
+      this.hoverBox.showAtNode = function(node) {
+        // ported from https://github.com/distillpub/template/pull/105/files
+        calcOffset = function(elem) {
+            let x = elem.offsetLeft;
+            let y = elem.offsetTop;
+            // Traverse upwards until an `absolute` element is found or `elem`
+            // becomes null.
+            while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                x += elem.offsetLeft;
+                y += elem.offsetTop;
+            }
+
+            return { left: x, top: y };
+        }
+        // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+        const bbox = node.getBoundingClientRect();
+        const offset = calcOffset(node);
+        this.show([offset.left + bbox.width, offset.top + bbox.height]);
+      }
+    })
 
     // clear polling timer
     clearInterval(tid);
@@ -1996,6 +2031,8 @@ function init_common() {
   // mark non-body figures created by knitr chunks as 100% width
   $('.layout-chunk').each(function(i, val) {
     var figures = $(this).find('img, .html-widget');
+    // ignore leaflet img layers (#106)
+    figures = figures.filter(':not(img[class*="leaflet"])')
     if ($(this).attr('data-layout') !== "l-body") {
       figures.css('width', '100%');
     } else {
@@ -2018,7 +2055,7 @@ function init_common() {
   // get rid of index.html references in header
   if (window.location.protocol !== "file:") {
     $('.distill-site-header a[href]').each(function(i,val) {
-      $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+      $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
     });
   }
 
@@ -4997,6 +5034,7 @@ d-appendix d-footnote-list a.footnote-backlink {
 <a href="../../aboutus.html">About Us</a>
 <a href="../../membership.html">Community Membership</a>
 <a href="../../talks.html">Talks</a>
+<a href="../../blog.html">Blog</a>
 <a href="../../news.html">News</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
@@ -5012,13 +5050,15 @@ d-appendix d-footnote-list a.footnote-backlink {
 <div class="dt-tags">
   <a href="../../talks.html#category:Invitation" class="dt-tag">Invitation</a>
   <a href="../../talks.html#category:Service" class="dt-tag">Service</a>
+  <a href="../../talks.html#category:Launch_event" class="dt-tag">Launch event</a>
 </div>
 <!--/radix_placeholder_categories-->
 <p><p>An invitation to the launch event of RSE Asia Association</p></p>
 </div>
 
 <div class="d-byline">
-  RSE Asia Association <a href="https://rse-asia.github.io/RSE_Asia/" class="uri">https://rse-asia.github.io/RSE_Asia/</a> 
+  RSE Asia Association <a href="https://rse-asia.github.io/RSE_Asia/"
+class="uri">https://rse-asia.github.io/RSE_Asia/</a> 
   
 <br/>10-14-2021
 </div>
@@ -5031,7 +5071,8 @@ d-appendix d-footnote-list a.footnote-backlink {
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="preview.jpg" width="100%" style='border:1px solid black;' /></p>
 </div>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -5060,7 +5101,8 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--radix_placeholder_navigation_after_body--><html><body>
 <div class="distill-site-nav distill-site-footer">
 <p>This website is built using the R package <a href="https://github.com/rstudio/distill">distill</a>.</p>
-<p>RSE Asia Association - copyright <script>document.write(new Date().getFullYear())</script></p>
+<p>RSE Asia Association - copyright <script>document.write(new
+Date().getFullYear())</script></p>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     
