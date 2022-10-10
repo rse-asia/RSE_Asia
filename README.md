@@ -40,12 +40,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://saranjeetkaur.github.io/About-Me/"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt="Saranjeet Kaur"/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#infra-SaranjeetKaur" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#content-SaranjeetKaur" title="Content">🖋</a> <a href="https://github.com/rse-asia/RSE_Asia/commits?author=SaranjeetKaur" title="Documentation">📖</a> <a href="#design-SaranjeetKaur" title="Design">🎨</a> <a href="#ideas-SaranjeetKaur" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-SaranjeetKaur" title="Maintenance">🚧</a> <a href="#projectManagement-SaranjeetKaur" title="Project Management">📆</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3ASaranjeetKaur" title="Reviewed Pull Requests">👀</a> <a href="#talk-SaranjeetKaur" title="Talks">📢</a> <a href="#video-SaranjeetKaur" title="Videos">📹</a></td>
-      <td align="center"><a href="https://github.com/kozo2"><img src="https://avatars.githubusercontent.com/u/12192?v=4?s=100" width="100px;" alt="Kozo Nishida"/><br /><sub><b>Kozo Nishida</b></sub></a><br /><a href="#translation-kozo2" title="Translation">🌍</a></td>
+      <td align="center"><a href="https://github.com/kozo2"><img src="https://avatars.githubusercontent.com/u/12192?v=4?s=100" width="100px;" alt="Kozo Nishida"/><br /><sub><b>Kozo Nishida</b></sub></a><br /><a href="#translation-kozo2" title="Translation">🌍</a> <a href="#blog-kozo2" title="Blogposts">📝</a></td>
     </tr>
   </tbody>
-  <tfoot>
-    
-  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
