@@ -29,6 +29,10 @@ meta() %>%
 
 ## Featured news
 
+- The ["RSE Asia Association: A year in making"](https://zenodo.org/record/7044808#.Y0PglFJBxPZ) poster got an honourable mention by Oracle Research at [RSECon 2022](https://rsecon2022.society-rse.org/) (5-9 September 2022).
+
+- During [The Turing Way Book Dash 2022](https://twitter.com/turingway/status/1527633477394366464), [Saranjeet](https://saranjeetkaur.github.io/About-Me/) participated and documented her[personal story](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/rse-personal-story.html) about the formation of the RSE Asia Association. This story is now a part of [The Turing Way community handbook](https://the-turing-way.netlify.app/welcome.html) (16-20 May 2022).
+
 - A [news item published by Australian Research Data Commons](https://ardc.edu.au/news/vive-la-difference-diversity-equity-and-inclusion-in-research-software-engineering/) highlights RSE Asia among other work presented during the “Vive la differénce” workshop organized by the Research Software Alliance (13 May 2022).
 
 - The Open Life Science (OLS) team [planted a tree dedicated to its cohort-4 in the OLS forest](https://tree-nation.com/trees/view/2880963). RSE Asia was launched as a project in the cohort-4 of the OLS programme (11 May 2022).

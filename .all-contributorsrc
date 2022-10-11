@@ -21,7 +21,60 @@
         "projectManagement",
         "review",
         "talk",
-        "video"
+        "video",
+        "bug",
+        "code",
+        "eventOrganizing",
+        "fundingFinding",
+        "question",
+        "audio",
+        "promotion",
+        "research",
+        "tool"
+      ]
+    },
+    {
+      "login": "annefou",
+      "name": "Anne Fouilloux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8168508?v=4",
+      "profile": "http://www.mn.uio.no/geo/english/people/adm/annefou/",
+      "contributions": [
+        "mentoring",
+        "review",
+        "question"
+      ]
+    },
+    {
+      "login": "jyoti-bhogal",
+      "name": "Jyoti Bhogal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68017009?v=4",
+      "profile": "https://github.com/jyoti-bhogal",
+      "contributions": [
+        "content",
+        "ideas",
+        "promotion",
+        "research",
+        "review"
+      ]
+    },
+    {
+      "login": "malvikasharan",
+      "name": "Malvika Sharan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5370471?v=4",
+      "profile": "http://malvikasharan.github.io/",
+      "contributions": [
+        "mentoring",
+        "ideas"
+      ]
+    },
+    {
+      "login": "kozo2",
+      "name": "Kozo Nishida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12192?v=4",
+      "profile": "https://github.com/kozo2",
+      "contributions": [
+        "translation",
+        "blog"
       ]
     },
     {

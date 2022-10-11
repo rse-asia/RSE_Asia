@@ -10,7 +10,7 @@ date: 10-14-2021
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
-categories: [Invitation, Service]
+categories: [Invitation, Service, Launch event]
 output:
   distill::distill_article:
     self_contained: false

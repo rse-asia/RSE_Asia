@@ -1,0 +1,32 @@
+---
+title: "Events"
+description: |
+  Calendar of events happening at RSE Asia
+twitter:
+  creator: "@RSE_Asia"
+listing: events
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "Calendar of events happening at the RSE Asia Association"
+  ) %>%
+  meta_name("github-repo" = "rse-asia/RSE_Asia") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "Talks",
+    url = "https://rse-asia.github.io/RSE_Asia/events.html",
+    image = "https://github.com/rse-asia/RSE_Asia/blob/main/images/Updated_RSE_Asia_logo.jpg",
+    image_alt = "The RSE Asia Association logo inspired from the logo of the Society of Research Software Engineering - Labelled RSE on top in white capital letters and labelled ASIA below in capital letters.",
+    og_type = "website",
+    og_author = c("RSE Asia Association"),
+    twitter_card_type = "summary",
+    twitter_creator = "@RSE_Asia"
+  )
+```
+
+Events calendar of the RSE Asia Association:
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=UTC&title=RSE%20Asia%20Association&src=cnNlLmFzaWEuYXNzb2NpYXRpb25AZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
