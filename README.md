@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/28556616/128458681-c11bdd5d-0144-4622-8417-8252449de92f.png)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![DOI](https://zenodo.org/badge/415191235.svg)](https://zenodo.org/badge/latestdoi/415191235)
@@ -48,6 +48,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/kozo2"><img src="https://avatars.githubusercontent.com/u/12192?v=4?s=100" width="100px;" alt="Kozo Nishida"/><br /><sub><b>Kozo Nishida</b></sub></a><br /><a href="#translation-kozo2" title="Translation">🌍</a> <a href="#blog-kozo2" title="Blogposts">📝</a></td>
       <td align="center"><a href="https://www.usit.uio.no/english/about/organisation/rc/dcm/staff/naoeta/index.html"><img src="https://avatars.githubusercontent.com/u/56588774?v=4?s=100" width="100px;" alt="Naoe Tatara"/><br /><sub><b>Naoe Tatara</b></sub></a><br /><a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3Anaoe-tatara" title="Reviewed Pull Requests">👀</a> <a href="#question-naoe-tatara" title="Answering Questions">💬</a></td>
       <td align="center"><a href="http://radifar.github.io"><img src="https://avatars.githubusercontent.com/u/11450417?v=4?s=100" width="100px;" alt="Muhammad Radifar"/><br /><sub><b>Muhammad Radifar</b></sub></a><br /><a href="#content-radifar" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#video-BatoolMM" title="Videos">📹</a> <a href="#content-BatoolMM" title="Content">🖋</a> <a href="#ideas-BatoolMM" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-BatoolMM" title="Promotion">📣</a> <a href="https://github.com/rse-asia/RSE_Asia/pulls?q=is%3Apr+reviewed-by%3ABatoolMM" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
 </table>
