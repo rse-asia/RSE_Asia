@@ -108,6 +108,16 @@
         "promotion",
         "review"
       ]
+    },
+    {
+      "login": "nrmay",
+      "name": "Nick May",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4125927?v=4",
+      "profile": "https://github.com/nrmay",
+      "contributions": [
+        "content",
+        "research"
+      ]
     }
   ],
   "contributorsPerLine": 7,
