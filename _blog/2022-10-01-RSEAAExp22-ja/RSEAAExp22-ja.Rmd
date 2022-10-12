@@ -1,8 +1,10 @@
 ---
-title: "R"
+title: "RSE Asia Australia Unconference 2022 体験レポート"
 description: |
-  これは、アジア オーストラリア地域で初めての RSE[Research Software Engineer] のカンファレンス (以降 RSEAA) の私のレポートです。
-  RSEAA は、2022 年 9 月 14 ～ 16 日に Zoom イベントで開催されました。
+  これは、アジアオーストラリア地域で初めての
+  RSE [Research Software Engineer の略] のカンファレンス (以降 RSEAA)
+  の体験レポートです。
+  RSEAA は、2022 年 9 月 14 ～ 16 日に Zoom Events で開催されました。
 author:
   - name: 西田 孝三
     url: https://github.com/kozo2
@@ -43,66 +45,87 @@ RSEAA のアンカンファレンスは、
 
 キーノートスピーカーとパネルディスカッションについては録画物をYouTubeで見ることができます。
 
-## アクセシビリティに関する印象
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0OAhgHuJI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-RSEAA はアクセシビリティに対する配慮が優れていました。
-私は日本人であり英語が得意ではありません。
-ですが RSEAA では Zoom の live transcription 機能が有効化されており、英語を聞きとることについては不自由がありませんでした。
-(日本人は多くはリーディングはできますが、リスニングとスピーキングができません。)
-RSEAA がアクセシビリティに関して準備した内容の詳細は[このリンク](https://rse-aunz.github.io/2022-Asia-Australia-unconference/#:~:text=Accessibility%20and%20Inclusivity)を参照してください。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4fR1RXydLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lN1GICnbohI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## キーノートスピーチに関する感想
 
-RSEAAには3人のキーノートスピーチがありました。
+RSEAA には3人のキーノートスピーチがありました。
 私は Mars と Anne のスピーチをライブで聴講しました。
 私は Jess のスピーチは仕事の都合でライブで聞くことはできませんでした。
 
-ここでは Mars と Ann のキーノートに関する感想を述べます。
+ここでは Mars と Anne のキーノートに関する感想を述べます。
 
-
-### Mars
+### Mars Lee
 
 Mars は Quansight のテクニカルイラストレーターです。
 Mars は RSE としては少し変わったキャリアパスの持ち主であり、彼女はそれをこのキーノートスピーチで紹介していました。
 Mars のトークは、RSEコミュニティの包括性の向上に役立つすばらしいトークだったと思います。
 
-### Anne
+Mars のスライドは、[この GitHub リンク](https://github.com/MarsBarLee/2022-RSE-Asia-Australia-Unconference)
+にあります。
 
-Anne は Turing Way や Open Life Science といったオープンサイエンスコミュニティのコミュニティマネージャーです。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPHJhLgbK5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Anne Steele
+
+Anne は [The Turing Way](https://the-turing-way.netlify.app/welcome) のコミュニティマネージャーです。
 Anne のトークは彼女のキャリアの歴史、彼女が学んできたこと、そして今関わっているプロジェクトを紹介するものでした。
-Anne は主に Turing Way を通して再現性の改善や研究のオープン化において平等、多様性、包括性といった目的を実現しようとしているかを
-説明していました。
+Anne は主に The Turing Way を通して再現性の改善や研究のオープン化において、平等、多様性、包括性といった目的をどのように実現しようとしているかを説明していました。
 日本では Anne のようなオープンサイエンスコミュニティのためのコミュニティマネージャーはいません。
-日本では Anne のキーノートが聞ける機会はほぼ無いため、それは貴重な機会でした。
+そのため、それは貴重な機会でした。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKH8RuSCq4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ストラテジーとポリシーのパネルディスカッションとアンカンファレンスについて
 
-キーノート以外のパート は議論形式であり、そのすべてを紹介することはできません。
-まずはアンカンファレンスのテーマを箇条書きします。
-各テーマの議論はZoom Event内の複数のZoom Meetingセッション内で行われました。
-カンファレンス参加者は自分の興味に合うZoom Meetingセッションに自由に入退出することができました。
+キーノート以外のパートはアンカンファレンス形式で行われました。
+ここではそこで行われた議論のテーマを箇条書きします。
 
-- Computational Reproducibility
-- Quantify RSE outputs
-- Benchmarking domain-specific research workflow solutions at an international level
-- Lightning talks - share your projects
-- Hosting research software
-- #BridgingTheGap between #Biologists and #Programmers
-- What exactly does the most senior RSE look like?
-- Questions to ask your supervisor at your RSE performance review
-- What would a secure RSE position look like?
-- Let's discuss employment realities, as a student, as a grad, as a postgrad, as an ECR
-- RSE Silos
-- Software as first-class outputs
-- Justifying maintenance work
-- A Web Platform for RSEs
-- Actionable Items1 - Community Building
-- Actionable Items2 - Peer programming and collaboration
-- Actionable Items3 - Unconference 2023 ideas
+![Zoom Events 内では、アンカンファレンスのテーマ毎に分かれた部屋を選択して入退出できました](zoomevent.png)
 
-上記の各テーマを見て(RSEに興味がある)あなたはどう思われましたか？
-おそらくどれも普段感じているけど身近に相談する人がいないと思うことではないでしょうか？
+- 計算の再現性について (Computational Reproducibility)
+- RSE の成果の定量化について (Quantify RSE outputs)
+- 国際レベルでのドメイン固有の研究ワークフローソリューションのベンチマーク (Benchmarking domain-specific research workflow solutions at an international level)
+- 研究ソフトウェアのホスティングについて (Hosting research software)
+- Biologists と Programmers のギャップを埋めることについて (#BridgingTheGap between #Biologists and #Programmers)
+- 最上級の RSE とは正確にはどのようなものか? (What exactly does the most senior RSE look like?)
+- RSE のパフォーマンスのレビューで上司に尋ねる質問 (Questions to ask your supervisor at your RSE performance review)
+- 安全な RSE ポジションとはどのようなものか? (What would a secure RSE position look like?)
+- 学生として、卒業生として、大学院生として、ECR [注: Early Career Researcher] として、雇用の現実について話し合おう (Let's discuss employment realities, as a student, as a grad, as a postgrad, as an ECR)
+- RSE の複数のサイロについて [注: サイロとはアプリやシステムが孤立し情報が連携されていないことを言います] (RSE Silos)
+- 一流のアウトプットとしてのソフトウェアについて (Software as first-class outputs)
+- 保守作業を正当化することについて [注: 研究ソフトウェア業界では保守に対する評価はされません] (Justifying maintenance work)
+- RSE 達のためのウェブプラットフォームについて (A Web Platform for RSEs)
+- 実行可能なアイテム1 - コミュニティの構築 (Actionable Items1 - Community Building)
+- 実行可能なアイテム2 - Peer programming [注: 何らかの環境を複数人で共有してプログラミングすること] とコラボレーション (Actionable Items2 - Peer programming and collaboration)
+
+上記の各テーマを見て、あなたはどう思われましたか？
+おそらくどれも普段疑問に感じている、しかし身近に相談する人がいない、と思うことではないでしょうか？
 それはまさに私も同じであり、このアンカンファレンスに参加して
-「こういったテーマを議論できる場(コミュニティ)が世界には存在するのだ」ということを知り、自分は孤独ではないと思いました。
+「こういったテーマを議論できる場(コミュニティ)が世界には存在するのだ」ということを知り、感銘を受けました。
 
+## アクセシビリティに関する印象と、非英語圏の RSE 達への参加の呼びかけ
+
+RSEAA はアクセシビリティに対する配慮が優れていました。
+私は日本人であり英語が得意ではありません。
+ですが RSEAA では Zoom の live transcription 機能が有効化されており、英語を聞きとることについては不自由がありませんでした。
+日本人の多くはリーディングはできますが、リスニングとスピーキングができません。
+RSEAA がアクセシビリティに関して準備した内容の詳細は[このリンク](https://rse-aunz.github.io/2022-Asia-Australia-unconference/#:~:text=Accessibility%20and%20Inclusivity)を参照してください。
+
+もしあなたが英語が苦手だからという理由で RSE コミュニティへの参加を避けているのであれば、恐れを感じる必要はありません。
+RSE コミュニティは包括性に対する配慮をしてくれるコミュニティです。
+ぜひ安心して参加してみてください。
+
+## RSEAA の先とオーガナイザーへの感謝
+
+ここまで読んでいただいて RSE コミュニティに興味を持っていただいた方は
+[International RSE Survey 2022](https://github.com/softwaresaved/international-survey-2022)
+をぜひご覧ください。
+それはこの RSEAA の期間中に公開されたばかりです。
+そのサーベイ結果を見ることは現状把握と今後を考えるのに役立つと思います。
+
+最後に、RSEAA を運営してくださった主催者の皆様に感謝いたします。
