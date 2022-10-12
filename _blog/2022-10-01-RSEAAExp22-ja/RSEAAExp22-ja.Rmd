@@ -2,7 +2,7 @@
 title: "RSE Asia Australia Unconference 2022 体験記"
 description: |
   これは、アジアオーストラリア地域で初めての
-  RSE [Research Software Engineer の略] のカンファレンス (以降 RSEAA)
+  RSE [注: Research Software Engineer の略] のカンファレンス (以降 RSEAA)
   の体験記です。
   RSEAA は、2022 年 9 月 14 ～ 16 日に Zoom Events で開催されました。
 author:
