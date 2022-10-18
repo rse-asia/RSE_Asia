@@ -1,13 +1,13 @@
 ---
-title: "My experiece of RSE Asia Australia Unconference 2022"
+title: "My experiece note of RSE Asia Australia Unconference 2022"
 description: |
-  Give a short description here about what this blog is about
+  This is my experience note about RSE Asia Australia (RSEAA) Unconference 2022. RSEAA was held at Zoom Events from September 14 to 16.
 author:
   - name: Kozo Nishida
     url: https://github.com/kozo2
 url: https://rse-aunz.github.io/2022-Asia-Australia-unconference/
 preview: preview.png
-date: 09-14-2022
+date: 10-18-2022
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
@@ -16,18 +16,36 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-  
-  
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,
                       out.width = "100%",
                       out.extra="style='border:1px solid black;'")
 ```
 
-*Click below for the slide.*
-  
 <a href="`r rmarkdown::metadata$url`">
 ```{r}
 knitr::include_graphics("preview.png")
 ```
 </a>
+
+## What is the RSEAA Unconference?
+
+An unconference is a conference where all participants engage in oactive discussion rather than just listening to the speaker's talk.
+
+The RSEAA unconference had a mixed style of regular conference and unconference.
+The regular style part had three keynote and a panel discussion.
+Recordings of the keynotes and panel discussion are available on YouTube.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0OAhgHuJI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4fR1RXydLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lN1GICnbohI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In addition, it should be noted that the summary report is published at DOI (figshare) below.
+(It's great, so please take a look.)
+
+```
+Mosbergen, Rowland (2022): Research Software Engineer Asia Australia Unconference Summary Report. figshare. Online resource. https://doi.org/10.6084/m9.figshare.21201989.v2
+```
