@@ -49,3 +49,11 @@ In addition, it should be noted that the summary report is published at DOI (fig
 ```
 Mosbergen, Rowland (2022): Research Software Engineer Asia Australia Unconference Summary Report. figshare. Online resource. https://doi.org/10.6084/m9.figshare.21201989.v2
 ```
+
+## Thoughts on the keynotes
+
+RSEAA had three keynotes.
+I watched the Mars and Anne keynotes live.
+(I was unable to watch Jess's keynote live.)
+
+Here are my thoughts on Mars and Anne's keynote.
