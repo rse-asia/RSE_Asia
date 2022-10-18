@@ -19,7 +19,8 @@ The RSE Asia Association was built as a project during [Open Life Science (Cohor
 ## Our activities
 
 We have conducted and continue to conduct various online community activities:
-- We are participating in [Hacktoberfest 2022](https://twitter.com/RSE_Asia/status/1575544127219200000?s=20&t=eTrlKiUu2VveIobfhMH9Og).
+- We celebrated one year of our launch on the Second International RSE Day, which was on the second Thursday of the month of October 2022.
+- We are participating in [Hacktoberfest 2022](https://twitter.com/RSE_Asia/status/1575544127219200000?s=20&t=eTrlKiUu2VveIobfhMH9Og) for the month of October 2022.
 - We formed a working group in 2022.
 - We conducted an online workshop for teaching alt text skills (2022).
 - At the launch event we conducted activities for contributing to [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/). The launch event was fully online.
