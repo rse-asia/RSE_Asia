@@ -25,9 +25,23 @@ knitr::opts_chunk$set(echo = FALSE,
 ```
 
 *Click below for the slide.*
+https://docs.google.com/presentation/d/1aYyBzvDkGMRzl1pMt0RJ4de772t-SwzGyXgmMkHrUWY/edit#slide=id.p
   
 <a href="`r rmarkdown::metadata$url`">
 ```{r}
 knitr::include_graphics("preview.png")
 ```
 </a>
+
+## Project Title and Motivation
+
+In the OLS-5 cohort, I got the opportunity to work on my project titled 'Building Pathways for Onboarding to Research Software Engineering (RSE) Asia Association and Adoption of Code of Conduct'. My mentor for the program was [Malvika Sharan](https://malvikasharan.github.io/). There are several incidents when people want to contribute in a community activity, but the community does not have a well-defined path that will help a new person contribute. This motivated me to work on building pathways for new members to join the RSE Asia Association.  
+
+## The Backstory
+
+The inception of RSE Asia Association goes back to September 2021, when our idea of starting it got the support of the experts from the OLS-4 cohort. Back then we started off with a basic logo. We had set up the entire digital structure need to run the community. During cohort 5, we updated the logo.
+
+
+
+
+
