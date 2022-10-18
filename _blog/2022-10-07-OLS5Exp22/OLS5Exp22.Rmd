@@ -1,7 +1,7 @@
 ---
-title: "Place your title here"
+title: "My Experience of Participating in Open Life Science Cohort-5"
 description: |
-  Give a short description here about what this blog is about
+  During March to July 2022, I got the opportunity to participate in Open Life Science Cohort-5. In this duration, I worked on my project for enhancing the community of RSE Asia Association.
 author:
   - name: Jyoti Bhogal
     url: https://jyoti-bhogal.github.io/about-me/
