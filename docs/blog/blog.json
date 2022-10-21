@@ -1,8 +1,8 @@
 [
   {
     "path": "blog/2022-10-07-OLS5Exp22/",
-    "title": "Place your title here",
-    "description": "Give a short description here about what this blog is about",
+    "title": "My Experience of Participating in Open Life Science Cohort-5",
+    "description": "During March to July 2022, I got the opportunity to participate in Open Life Science Cohort-5. In this duration, I worked on my project for enhancing the community of RSE Asia Association.",
     "author": [
       {
         "name": "Jyoti Bhogal",
@@ -17,9 +17,9 @@
       "Open Science",
       "Experience Blog"
     ],
-    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "contents": "\r\nClick below for the slide.\r\nhttps://docs.google.com/presentation/d/1aYyBzvDkGMRzl1pMt0RJ4de772t-SwzGyXgmMkHrUWY/edit#slide=id.p\r\n\r\n\r\n\r\n\r\n\r\nProject Title and Motivation\r\nIn the OLS-5 cohort, I got the opportunity to work on my project titled ‘Building Pathways for Onboarding to Research Software Engineering (RSE) Asia Association and Adoption of Code of Conduct’. My mentor for the program was Malvika Sharan. There are several incidents when people want to contribute in a community activity, but the community does not have a well-defined path that will help a new person contribute. This motivated me to work on building pathways for new members to join the RSE Asia Association.\r\nThe Backstory\r\nThe inception of RSE Asia Association goes back to September 2021, when our idea of starting it got the support of the experts from the OLS-4 cohort. Back then we started off with a basic logo. We had set up the entire digital structure need to run the community. During cohort 5, we updated the logo.\r\nMilestones the RSE Asia Association Crossed During OLS-5\r\nLet’s have a look at the milestones in the journey that RSE Asia Association went through while OLS-5.\r\nMilestone 1\r\nThe selection into OLS-5 itself was a milestone. Following which, we started discussions around how to get our Association registered.\r\nWe wanted to register ourselves as an NGO. With the guidance from my mentor Malvika, I read several articles. I found out about the different types of NGOs that function here in India. After careful reading, understanding and discussions with my mentor, we finalized which type of NGO would be best for us to register as. At the moment, the registration is a work in progress.\r\nMilestone 2\r\nWhen it comes to community work, we had identified that a lot of people are enthusiastic about participating in community work, however many communities face an issue when it comes to a smooth process for people to join them. Hence, we decided to define clear pathways for people to join us, to contribute/learn for a specific time duration.\r\nMilestone 3\r\nThe RSE Asia Association also got listed as an ‘Observer Association’ at the International Council of RSE Associations.\r\nMilestone 4\r\nOn 8th July 2022, we conducted a workshop, where Isabela Presedo-Floyd and Mars Lee very graciously accepted our invitation to share their knowledge of how alt-texts are written. It was indeed a very exciting and engaging event where people did hands-on work!\r\nNext steps\r\nJyoti would continue with the formalities of getting the association registered legally. Saranjeet and Jyoti are planning to conduct more and more exciting events and workshops.\r\nStaying connected\r\nCome have a look at our activities!\r\nWe are absolutely active on Twitter. We send out all our updates, reminders and links to various forms via our twitter handle which is @RSE_Asia. Do check out our twitter page, look at our past and upcoming events, DM us to speak your thoughts!\r\nSpecial mentions and acknowledgements\r\nWe feel very grateful to the OLS team for giving us this chance to grow our RSE Asia Association!\r\nWe are extremely thankful to be a part of such a wonderful and supportive community that OLS is!\r\nAnd our contact details are shown herewith. You can get in touch with us via our twitter handle, our email address.\r\nYou can also visit our website, YouTube channel or our GitHub page.\r\nThank you!!!\r\n\r\n\r\n\r\n",
     "preview": "blog/2022-10-07-OLS5Exp22/preview.png",
-    "last_modified": "2022-10-06T15:47:41+05:30",
+    "last_modified": "2022-10-21T15:31:24+05:30",
     "input_file": {},
     "preview_width": 137,
     "preview_height": 71
@@ -43,7 +43,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "blog/2022-10-01-RSEAAExp22/preview.png",
-    "last_modified": "2022-10-06T15:34:58+05:30",
+    "last_modified": "2022-10-21T15:30:52+05:30",
     "input_file": {},
     "preview_width": 1183,
     "preview_height": 332
