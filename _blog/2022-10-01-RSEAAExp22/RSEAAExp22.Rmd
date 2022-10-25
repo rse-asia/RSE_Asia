@@ -68,3 +68,14 @@ You can check the slides in [this GitHub repo](https://github.com/MarsBarLee/202
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EPHJhLgbK5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Anne Steele
+
+[Anne](https://www.aleesteele.com/) is a community manager of [the Turing Way](https://the-turing-way.netlify.app/welcome).
+
+Anne's talk covered her career history, what she's learned through her career and the projects she's working on.
+Anne introduced the objectives of equality, diversity and inclusion in improving reproducibility and openness of research.
+
+In Japan, where I live, there is no Community Manager for Open Science like Anne.
+So it was an exciting opportunity for me.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKH8RuSCq4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
