@@ -79,3 +79,30 @@ In Japan, where I live, there is no Community Manager for Open Science like Anne
 So it was an exciting opportunity for me.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKH8RuSCq4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## About the part of "Unconference"
+
+The parts other than the keynote were held in an "Unconference" format.
+Here are the themes of the discussion that took place there.
+
+![Within the RSEAA Zoom Event, we were able to enter and leave rooms that were divided into different themes for the unconference.](zoomevent.png)
+
+- Computational Reproducibility
+- Quantify RSE outputs
+- Benchmarking domain-specific research workflow solutions at an international level
+- Hosting research software
+- #BridgingTheGap between #Biologists and #Programmers
+- What exactly does the most senior RSE look like?
+- Questions to ask your supervisor at your RSE performance review
+- What would a secure RSE position look like?
+- Let's discuss employment realities, as a student, as a grad, as a postgrad, as an ECR
+- RSE Silos
+- Software as first-class outputs
+- Justifying maintenance work
+- A Web Platform for RSEs
+- Actionable Items1 - Community Building
+- Actionable Items2 - Peer programming and collaboration
+
+What are your thoughts on each of the above themes?
+Probably all of them are exactly what you(==RSE) want to discuss with someone.
+I was very impressed to learn that there are places (communities) in the world where people can discuss these themes.
