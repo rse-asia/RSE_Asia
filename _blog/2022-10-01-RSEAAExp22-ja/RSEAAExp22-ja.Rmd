@@ -87,7 +87,7 @@ Anne は主に The Turing Way を通して再現性の改善や研究のオー�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKH8RuSCq4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## ストラテジーとポリシーのパネルディスカッションとアンカンファレンスについて
+## アンカンファレンスのパートについて
 
 キーノート以外のパートはアンカンファレンス形式で行われました。
 ここではそこで行われた議論のテーマを箇条書きします。
