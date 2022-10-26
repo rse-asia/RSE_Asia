@@ -106,3 +106,10 @@ Here are the themes of the discussion that took place there.
 What are your thoughts on each of the above themes?
 Probably all of them are exactly what you(==RSE) want to discuss with someone.
 I was very impressed to learn that there are places (communities) in the world where people can discuss these themes.
+
+## "Impressions about the RSEAA accessibility" and "a call for non-English-speaking RSEs participation"
+
+RSEAA had a great attention to accessibility.
+I am Japanese and I am not good at English.
+However, RSEAA had Zoom's Live Transcription feature, so I had no trouble listening to English.
+Many Japanese can read English, but cannot listen or speak.
