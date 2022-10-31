@@ -114,6 +114,10 @@ I am Japanese and I am not good at English.
 However, RSEAA had Zoom's Live Transcription feature, so I had no trouble listening to English.
 Many Japanese can read English, but cannot listen or speak.
 
+RSEAA is well prepared on accessibility and [Liz Hare](https://twitter.com/DogGeneticsLLC) has provided a [high level accessibility report for the conference](https://rse-aunz.github.io/RSEAUNZAccessibility.html).
+If you're avoiding joining the RSE community because you're not good at English, don't be afraid.
+The RSE community is a community that cares about inclusiveness.
+Please feel free to join to the RSE community!
 
 ## Further information about RSEAA and my gratitude for RSEAA organizaers
 
