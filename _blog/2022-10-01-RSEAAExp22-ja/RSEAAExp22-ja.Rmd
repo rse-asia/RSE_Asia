@@ -121,13 +121,14 @@ RSEAA はアクセシビリティに対する配慮が優れていました。
 私は日本人であり英語が得意ではありません。
 ですが RSEAA では Zoom の live transcription 機能が有効化されており、英語を聞きとることについては不自由がありませんでした。
 日本人の多くはリーディングはできますが、リスニングとスピーキングができません。
-RSEAA がアクセシビリティに関して準備した内容の詳細は[このリンク](https://rse-aunz.github.io/2022-Asia-Australia-unconference/#:~:text=Accessibility%20and%20Inclusivity)を参照してください。
 
-もしあなたが英語が苦手だからという理由で RSE コミュニティへの参加を避けているのであれば、恐れを感じる必要はありません。
-RSE コミュニティは包括性に対する配慮をしてくれるコミュニティです。
-ぜひ安心して参加してみてください。
+RSEAA はアクセシビリティについて十分に準備を整えており、[Liz Hare](https://twitter.com/DogGeneticsLLC) は RSEAA のために[ハイレベルなアクセシビリティレポート]((https://rse-aunz.github.io/2022-Asia-Australia-unconference/#:~:text=Accessibility%20and%20Inclusivity))を提供しています。
 
-## RSEAA の先とオーガナイザーへの感謝
+英語が苦手で RSE コミュニティへの参加を避けている場合でも、恐れる必要はありません。
+RSE コミュニティは、包括性を重視するコミュニティです。
+お気軽に RSE コミュニティに参加してください !
+
+## RSE についてのさらなる情報と RSEAA のオーガナイザーへの感謝
 
 ここまで読んでいただいて RSE コミュニティに興味を持っていただいた方は
 [International RSE Survey 2022](https://github.com/softwaresaved/international-survey-2022)
