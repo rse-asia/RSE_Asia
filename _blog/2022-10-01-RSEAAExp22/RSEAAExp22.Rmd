@@ -119,7 +119,7 @@ If you're avoiding joining the RSE community because you're not good at English,
 The RSE community is a community that cares about inclusiveness.
 Please feel free to join to the RSE community!
 
-## Further information about RSEAA and my gratitude for RSEAA organizaers
+## Further information about RSE and my gratitude for RSEAA organizaers
 
 If you are interested in the RSE community, please take a look at [International RSE Survey 2022](https://github.com/softwaresaved/international-survey-2022).
 It was just released during this RSEAA.
