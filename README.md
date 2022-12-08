@@ -16,6 +16,10 @@
 
 The RSE Asia Association was built as a project during [Open Life Science (Cohort-4)](https://openlifesci.org/ols-4/projects-participants/) by [Saranjeet Kaur](https://saranjeetkaur.github.io/About-Me/) and [Jyoti Bhogal](https://github.com/jyoti-bhogal). They launched the association online on Thursday, 14th October 2021. This day holds special significance as it is the first [International RSE Day](https://researchsoftware.org/council/intl-rse-day.html). The association also benefited from the work done during the [Open Life Science program (OLS-5)](https://openlifesci.org/ols-5/projects-participants/#) and the [Pilot Mentoring Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the [Society of Research Software Engineering](https://society-rse.org/).
 
+## Our Mission
+
+To promote and build the Research Software Engineering Community and Profession in the Asia region.
+
 ## Our activities
 
 We have conducted and continue to conduct various online community activities:
