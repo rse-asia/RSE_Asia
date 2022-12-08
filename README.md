@@ -18,7 +18,7 @@ The RSE Asia Association was built as a project during [Open Life Science (Cohor
 
 ## Our Mission
 
-To promote and build the Research Software Engineering Community and Profession in the Asia region.
+To promote and build the Research Software Engineering Community and Profession in the Asian region while also fostering global collaborations.
 
 ## Our activities
 
