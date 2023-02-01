@@ -9,7 +9,7 @@
 
 # RSE Asia
 
-![Updated_RSE_Asia_logo](https://user-images.githubusercontent.com/28556616/157861653-53523101-bf27-4ec5-bc41-9d8633b52559.jpg)
+![RSE_ASIA_logo](images/RSE_ASIA.png)
 
 
 ## About us
