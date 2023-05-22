@@ -1,8 +1,32 @@
 [
   {
+    "path": "blog/2022-10-01-RSEAAExp22/",
+    "title": "My experiece note of RSE Asia Australia Unconference 2022",
+    "description": "This is my experience note about RSE Asia Australia (RSEAA) Unconference 2022. RSEAA was held at Zoom Events from September 14 to 16.",
+    "author": [
+      {
+        "name": "Kozo Nishida",
+        "url": "https://github.com/kozo2"
+      }
+    ],
+    "date": "2022-10-18",
+    "categories": [
+      "Research Software Engineering",
+      "Community Building",
+      "Unconference",
+      "Experience Blog"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\nWhat is the RSEAA Unconference?\r\nAn unconference is a conference where all participants engage in oactive discussion rather than just listening to the speaker’s talk.\r\nThe RSEAA unconference had a mixed style of regular conference and unconference.\r\nThe regular style part had three keynote and a panel discussion.\r\nRecordings of the keynotes and panel discussion are available on YouTube.\r\n\r\n\r\n\r\n\r\n\r\n\r\nIn addition, it should be noted that the summary report is published at DOI (figshare) below.\r\n(It’s great, so please take a look.)\r\nMosbergen, Rowland (2022): Research Software Engineer Asia Australia Unconference Summary Report. figshare. Online resource. https://doi.org/10.6084/m9.figshare.21201989.v2\r\nThoughts on the keynotes\r\nRSEAA had three keynotes.\r\nI watched the Mars and Anne keynotes live.\r\n(I was unable to watch Jess’s keynote live.)\r\nHere are my thoughts on Mars and Anne’s keynote.\r\nMars Lee\r\nMars is a technical illustrator at Quansight.\r\nMars has a slightly different career path for RSE, and she introduced it in the keynote.\r\nI think Mars’ talk was a great talk that helped improve inclusivity of the RSE community.\r\nYou can check the slides in this GitHub repo.\r\n\r\n\r\nAnne Steele\r\nAnne is a community manager of the Turing Way.\r\nAnne’s talk covered her career history, what she’s learned through her career and the projects she’s working on.\r\nAnne introduced the objectives of equality, diversity and inclusion in improving reproducibility and openness of research.\r\nIn Japan, where I live, there is no Community Manager for Open Science like Anne.\r\nSo it was an exciting opportunity for me.\r\n\r\n\r\nAbout the part of “Unconference”\r\nThe parts other than the keynote were held in an “Unconference” format.\r\nHere are the themes of the discussion that took place there.\r\nWithin the RSEAA Zoom Event, we were able to enter and leave rooms that were divided into different themes for the unconference.Computational Reproducibility\r\nQuantify RSE outputs\r\nBenchmarking domain-specific research workflow solutions at an international level\r\nHosting research software\r\n#BridgingTheGap between #Biologists and #Programmers\r\nWhat exactly does the most senior RSE look like?\r\nQuestions to ask your supervisor at your RSE performance review\r\nWhat would a secure RSE position look like?\r\nLet’s discuss employment realities, as a student, as a grad, as a postgrad, as an ECR\r\nRSE Silos\r\nSoftware as first-class outputs\r\nJustifying maintenance work\r\nA Web Platform for RSEs\r\nActionable Items1 - Community Building\r\nActionable Items2 - Peer programming and collaboration\r\nWhat are your thoughts on each of the above themes?\r\nProbably all of them are exactly what you(==RSE) want to discuss with someone.\r\nI was very impressed to learn that there are places (communities) in the world where people can discuss these themes.\r\n“Impressions about the RSEAA accessibility” and “a call for non-English-speaking RSEs participation”\r\nRSEAA had a great attention to accessibility.\r\nI am Japanese and I am not good at English.\r\nHowever, RSEAA had Zoom’s Live Transcription feature, so I had no trouble listening to English.\r\nMany Japanese can read English, but cannot listen or speak.\r\nRSEAA is well prepared on accessibility and Liz Hare has provided a high level accessibility report for the conference.\r\nIf you’re avoiding joining the RSE community because you’re not good at English, don’t be afraid.\r\nThe RSE community is a community that cares about inclusiveness.\r\nPlease feel free to join to the RSE community!\r\nFurther information about RSE and my gratitude for RSEAA organizaers\r\nIf you are interested in the RSE community, please take a look at International RSE Survey 2022.\r\nIt was just released during this RSEAA.\r\nI think that looking at the survey results will help us understand the current situation and think about the future.\r\nFinally, I would like to thank all the organizers for running RSEAA.\r\n\r\n\r\n\r\n",
+    "preview": "blog/2022-10-01-RSEAAExp22/preview.png",
+    "last_modified": "2022-10-31T19:18:33+09:00",
+    "input_file": "RSEAAExp22.knit.md",
+    "preview_width": 1183,
+    "preview_height": 332
+  },
+  {
     "path": "blog/2022-10-07-OLS5Exp22/",
-    "title": "My Experience of Participating in Open Life Science Cohort-5",
-    "description": "During March to July 2022, I got the opportunity to participate in Open Life Science Cohort-5. In this duration, I worked on my project for enhancing the community of RSE Asia Association.",
+    "title": "Place your title here",
+    "description": "Give a short description here about what this blog is about",
     "author": [
       {
         "name": "Jyoti Bhogal",
@@ -17,35 +41,11 @@
       "Open Science",
       "Experience Blog"
     ],
-    "contents": "\r\nClick below for the slide.\r\nhttps://docs.google.com/presentation/d/1aYyBzvDkGMRzl1pMt0RJ4de772t-SwzGyXgmMkHrUWY/edit#slide=id.p\r\n\r\n\r\n\r\n\r\n\r\nProject Title and Motivation\r\nIn the OLS-5 cohort, I got the opportunity to work on my project titled ‘Building Pathways for Onboarding to Research Software Engineering (RSE) Asia Association and Adoption of Code of Conduct’. My mentor for the program was Malvika Sharan. There are several incidents when people want to contribute in a community activity, but the community does not have a well-defined path that will help a new person contribute. This motivated me to work on building pathways for new members to join the RSE Asia Association.\r\nThe Backstory\r\nThe inception of RSE Asia Association goes back to September 2021, when our idea of starting it got the support of the experts from the OLS-4 cohort. Back then we started off with a basic logo. We had set up the entire digital structure need to run the community. During cohort 5, we updated the logo.\r\nMilestones the RSE Asia Association Crossed During OLS-5\r\nLet’s have a look at the milestones in the journey that RSE Asia Association went through while OLS-5.\r\nMilestone 1\r\nThe selection into OLS-5 itself was a milestone. Following which, we started discussions around how to get our Association registered.\r\nWe wanted to register ourselves as an NGO. With the guidance from my mentor Malvika, I read several articles. I found out about the different types of NGOs that function here in India. After careful reading, understanding and discussions with my mentor, we finalized which type of NGO would be best for us to register as. At the moment, the registration is a work in progress.\r\nMilestone 2\r\nWhen it comes to community work, we had identified that a lot of people are enthusiastic about participating in community work, however many communities face an issue when it comes to a smooth process for people to join them. Hence, we decided to define clear pathways for people to join us, to contribute/learn for a specific time duration.\r\nMilestone 3\r\nThe RSE Asia Association also got listed as an ‘Observer Association’ at the International Council of RSE Associations.\r\nMilestone 4\r\nOn 8th July 2022, we conducted a workshop, where Isabela Presedo-Floyd and Mars Lee very graciously accepted our invitation to share their knowledge of how alt-texts are written. It was indeed a very exciting and engaging event where people did hands-on work!\r\nNext steps\r\nJyoti would continue with the formalities of getting the association registered legally. Saranjeet and Jyoti are planning to conduct more and more exciting events and workshops.\r\nStaying connected\r\nCome have a look at our activities!\r\nWe are absolutely active on Twitter. We send out all our updates, reminders and links to various forms via our twitter handle which is @RSE_Asia. Do check out our twitter page, look at our past and upcoming events, DM us to speak your thoughts!\r\nSpecial mentions and acknowledgements\r\nWe feel very grateful to the OLS team for giving us this chance to grow our RSE Asia Association!\r\nWe are extremely thankful to be a part of such a wonderful and supportive community that OLS is!\r\nAnd our contact details are shown herewith. You can get in touch with us via our twitter handle, our email address.\r\nYou can also visit our website, YouTube channel or our GitHub page.\r\nThank you!!!\r\n\r\n\r\n\r\n",
+    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "blog/2022-10-07-OLS5Exp22/preview.png",
-    "last_modified": "2022-10-21T15:31:24+05:30",
+    "last_modified": "2022-10-06T15:47:41+05:30",
     "input_file": {},
     "preview_width": 137,
     "preview_height": 71
-  },
-  {
-    "path": "blog/2022-10-01-RSEAAExp22/",
-    "title": "Place your title here",
-    "description": "Give a short description here about what this blog is about",
-    "author": [
-      {
-        "name": "Kozo Nishida",
-        "url": "https://github.com/kozo2"
-      }
-    ],
-    "date": "2022-09-14",
-    "categories": [
-      "Research Software Engineering",
-      "Community Building",
-      "Unconference",
-      "Experience Blog"
-    ],
-    "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "preview": "blog/2022-10-01-RSEAAExp22/preview.png",
-    "last_modified": "2022-10-21T15:30:52+05:30",
-    "input_file": {},
-    "preview_width": 1183,
-    "preview_height": 332
   }
 ]
