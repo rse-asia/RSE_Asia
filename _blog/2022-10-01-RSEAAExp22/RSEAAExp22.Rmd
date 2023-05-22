@@ -1,7 +1,7 @@
 ---
-title: "My experiece note of RSE Asia Australia Unconference 2022"
+title: "My experience note of RSE Asia Australia Unconference 2022"
 description: |
-  This is my experience note about RSE Asia Australia (RSEAA) Unconference 2022. RSEAA was held at Zoom Events from September 14 to 16.
+  This is my experience note about RSE Asia Australia (RSEAA) Unconference 2022. RSEAA was held as an online event from September 14 to 16, 2023.
 author:
   - name: Kozo Nishida
     url: https://github.com/kozo2
@@ -31,9 +31,9 @@ knitr::include_graphics("preview.png")
 
 ## What is the RSEAA Unconference?
 
-An unconference is a conference where all participants engage in oactive discussion rather than just listening to the speaker's talk.
+An unconference is a conference which is driven by the participants who engage in active discussions with optionally having presentations too.
 
-The RSEAA unconference had a mixed style of regular conference and unconference.
+The RSEAA 2022 unconference had a mixed style of regular conference and unconference.
 The regular style part had three keynote and a panel discussion.
 Recordings of the keynotes and panel discussion are available on YouTube.
 
@@ -52,11 +52,11 @@ Mosbergen, Rowland (2022): Research Software Engineer Asia Australia Unconferenc
 
 ## Thoughts on the keynotes
 
-RSEAA had three keynotes.
-I watched the Mars and Anne keynotes live.
+RSEAA 2022 had three keynotes.
+I watched the Mars's and Anne's keynotes live.
 (I was unable to watch Jess's keynote live.)
 
-Here are my thoughts on Mars and Anne's keynote.
+Here are my thoughts on Mars's and Anne's keynote.
 
 ### Mars Lee
 
@@ -76,22 +76,22 @@ Anne's talk covered her career history, what she's learned through her career an
 Anne introduced the objectives of equality, diversity and inclusion in improving reproducibility and openness of research.
 
 In Japan, where I live, there is no Community Manager for Open Science like Anne.
-So it was an exciting opportunity for me.
+So it was an exciting opportunity for me to know about this role.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKH8RuSCq4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## About the part of "Unconference"
+## About the "Unconference" part 
 
 The parts other than the keynote were held in an "Unconference" format.
 Here are the themes of the discussion that took place there.
 
-![Within the RSEAA Zoom Event, we were able to enter and leave rooms that were divided into different themes for the unconference.](zoomevent.png)
+![Within the RSEAA 2022 Zoom Event, we were able to enter and leave rooms that were divided into different themes for the unconference.](zoomevent.png)
 
 - Computational Reproducibility
 - Quantify RSE outputs
 - Benchmarking domain-specific research workflow solutions at an international level
 - Hosting research software
-- #BridgingTheGap between #Biologists and #Programmers
+- Bridging the gap between biologists and programmers
 - What exactly does the most senior RSE look like?
 - Questions to ask your supervisor at your RSE performance review
 - What would a secure RSE position look like?
@@ -100,8 +100,8 @@ Here are the themes of the discussion that took place there.
 - Software as first-class outputs
 - Justifying maintenance work
 - A Web Platform for RSEs
-- Actionable Items1 - Community Building
-- Actionable Items2 - Peer programming and collaboration
+- Actionable Items 1 - Community Building
+- Actionable Items 2 - Peer programming and collaboration
 
 What are your thoughts on each of the above themes?
 Probably all of them are exactly what you(==RSE) want to discuss with someone.
@@ -109,12 +109,12 @@ I was very impressed to learn that there are places (communities) in the world w
 
 ## "Impressions about the RSEAA accessibility" and "a call for non-English-speaking RSEs participation"
 
-RSEAA had a great attention to accessibility.
+RSEAA 2022 had a great attention to accessibility.
 I am Japanese and I am not good at English.
-However, RSEAA had Zoom's Live Transcription feature, so I had no trouble listening to English.
+However, RSEAA 2022 had Zoom's Live Transcription feature, so I had no trouble listening to English.
 Many Japanese can read English, but cannot listen or speak.
 
-RSEAA is well prepared on accessibility and [Liz Hare](https://twitter.com/DogGeneticsLLC) has provided a [high level accessibility report for the conference](https://rse-aunz.github.io/RSEAUNZAccessibility.html).
+RSEAA 2022 was well prepared on accessibility and [Liz Hare](https://twitter.com/DogGeneticsLLC) provided a [high level accessibility report for the conference](https://rse-aunz.github.io/RSEAUNZAccessibility.html).
 If you're avoiding joining the RSE community because you're not good at English, don't be afraid.
 The RSE community is a community that cares about inclusiveness.
 Please feel free to join to the RSE community!
@@ -122,7 +122,7 @@ Please feel free to join to the RSE community!
 ## Further information about RSE and my gratitude for RSEAA organizaers
 
 If you are interested in the RSE community, please take a look at [International RSE Survey 2022](https://github.com/softwaresaved/international-survey-2022).
-It was just released during this RSEAA.
+It was released during this RSEAA 2022.
 I think that looking at the survey results will help us understand the current situation and think about the future.
 
-Finally, I would like to thank all the organizers for running RSEAA.
+Finally, I would like to thank all the organizers for running RSEAA 2022.
