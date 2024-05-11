@@ -24,6 +24,6 @@ meta() %>%
   )
 ```
 
-[UPDATE]: This form is closed and is not accepting membership anymore. 
+**UPDATE**: This form is closed and is not accepting membership anymore. 
 
 To become a community member of the RSE Asia Association, please fill this short [membership form](). The community membership of the RSE Asia Association is free and open to all. People from all regions of the globe are welcome to join our community, irrespective of whether they belong to or are located in Asia.
