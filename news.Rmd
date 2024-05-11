@@ -29,9 +29,23 @@ meta() %>%
 
 ## Featured news
 
+- ["FAB23: A Journey to Bhutan's Fab Lab Conference"](https://www.software.ac.uk/blog/fab23-journey-bhutans-fab-lab-conference) is a blogpost by Saranjeet which documents her experiences of attending [FAB23 Thimphu, Bhutan](https://fab23.fabevent.org). This blogpost is featured by the Software Sustainability Institute (14 March 2024). 
+
+- Saranjeet attended the [seventh annual research software engineering conference (RSECon23)](https://rsecon23.society-rse.org) in Swansea, United Kingdom and documented her experiences in a blogpost on ["Exploring RSECon 2023: A Conference Recap"](https://www.software.ac.uk/blog/exploring-rsecon-2023-conference-recap), featured by the Software Sustainability Institute (11 March 2024).
+
+- The [56th meeting of the Asia Pacific Advanced network (APAN56)](https://apan56.apan.net) took place in Colombo, Sri Lanka and Saranjeet documented her experience on ["Exploring the APAN56 Conference in Colombo, Sri Lanka"](https://www.software.ac.uk/blog/exploring-apan56-conference-colombo-sri-lanka) in a blogpost which was featured by the Software Sustainability Institute. This conference particularly requested submissions on topics related to research software engineering in their [call for proposals](https://apan56.apan.net/call-for-proposals/) (29 February 2024).
+
+- Saranjeet served as a Community Manager (Asia) for the [Research Software Alliance](https://www.researchsoft.org) during 2023, supported by a [grant](https://zenodo.org/records/7275398) from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com). She wrote a blogpost on ["Advocating for Research Software Engineering in Asia: 2023 in Review"](https://www.researchsoft.org/blog/2023-12-21/) which was featured by the Research Software Alliance (20 December 2023).
+
+- The [Malaysian Open Science Platform (MOSP)](https://mosp.gov.my) was launched on 16 May 2023 and Saranjeet wrote a blogpost on ["Witnessing the Launch Ceremony of the Malaysia Open Science Platform (MOSP)"](https://www.software.ac.uk/blog/witnessing-launch-ceremony-malaysia-open-science-platform-mosp) which was featured by the Software Sustainability Institute (26 June 2023).
+
+- Saranjeet documented her experience of attending [APAN55, Kathmandu, Nepal](https://apan55.apan.net) in a blogpost [Attending an in-person Asia Pacific Advanced Network (APAN) meeting for the first time](https://www.software.ac.uk/blog/attending-person-asia-pacific-advanced-network-apan-meeting-first-time) which was featured by the [Software Sustainability Institute](https://www.software.ac.uk) (7 June 2023).
+
+- A blogpost ["Can National Research and Education Networks be a focal point for Research Software Engineers in some regions?"](https://www.researchsoft.org/blog/2023-04/) by Saranjeet was featured by the [Research Software Alliance](https://www.researchsoft.org) (17 April 2023).
+
 - The ["RSE Asia Association: A year in making"](https://zenodo.org/record/7044808#.Y0PglFJBxPZ) poster got an honourable mention by Oracle Research at [RSECon 2022](https://rsecon2022.society-rse.org/) (5-9 September 2022).
 
-- During [The Turing Way Book Dash 2022](https://twitter.com/turingway/status/1527633477394366464), [Saranjeet](https://saranjeetkaur.github.io/About-Me/) participated and documented her[personal story](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/rse-personal-story.html) about the formation of the RSE Asia Association. This story is now a part of [The Turing Way community handbook](https://the-turing-way.netlify.app/welcome.html) (16-20 May 2022).
+- During [The Turing Way Book Dash 2022](https://twitter.com/turingway/status/1527633477394366464), [Saranjeet](https://saranjeetkaur.github.io/About-Me/) participated and documented her [personal story](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/rse-personal-story.html) about the formation of the RSE Asia Association. This story is now a part of [The Turing Way community handbook](https://the-turing-way.netlify.app/welcome.html) (16-20 May 2022).
 
 - A [news item published by Australian Research Data Commons](https://ardc.edu.au/news/vive-la-difference-diversity-equity-and-inclusion-in-research-software-engineering/) highlights RSE Asia among other work presented during the “Vive la differénce” workshop organized by the Research Software Alliance (13 May 2022).
 
