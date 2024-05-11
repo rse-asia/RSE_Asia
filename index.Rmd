@@ -1,6 +1,6 @@
 ---
 title: "RSE Asia Association"
-image: "images/Updated_RSE_Asia_logo.jpg"
+image: "images/RSE_ASIA.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/RSE_Asia"

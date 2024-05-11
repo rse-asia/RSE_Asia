@@ -1,6 +1,6 @@
 name: "website_rse_asia"
 title: "RSE Asia Association"
-theme: theme.css
+#theme: theme.css
 description: |
   RSE Asia
 output_dir: "docs"
