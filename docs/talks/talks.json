@@ -1,8 +1,33 @@
 [
   {
+    "path": "talks/2023-08-21-APAN56/",
+    "title": "Navigating the Research Software Engineering Community Landscape in Asia",
+    "description": "Talk presented at the 56th meeting of the Asia Pacific Advanced Network (APAN56) during 21-25 August 2023 at Colombo, Sri Lanka.",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2023-08-21",
+    "categories": [
+      "Research Software Engineering",
+      "Asia Pacific",
+      "Community Building",
+      "Open Science",
+      "National Research and Education Network"
+    ],
+    "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
+    "preview": "talks/2023-08-21-APAN56/preview.png",
+    "last_modified": "2024-05-11T22:05:17+01:00",
+    "input_file": {},
+    "preview_width": 2060,
+    "preview_height": 1161
+  },
+  {
     "path": "talks/2023-07-16-FAB23/",
     "title": "Making research software reproducible and sustainable",
-    "description": "Talk presented at the FAB23 Conference at the Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan (July 16-28, 2023)",
+    "description": "Talk presented at the FAB23 Conference at the Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan (July 16-28, 2023).",
     "author": [
       {
         "name": "Saranjeet Kaur Bhogal",
@@ -19,8 +44,8 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-07-16-FAB23/preview.png",
-    "last_modified": "2024-05-11T21:26:24+01:00",
-    "input_file": "FAB23.knit.md",
+    "last_modified": "2024-05-11T22:05:42+01:00",
+    "input_file": {},
     "preview_width": 1838,
     "preview_height": 1037
   },
@@ -44,8 +69,8 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-03-15-APAN55/preview.png",
-    "last_modified": "2024-05-11T20:54:48+01:00",
-    "input_file": "APAN55.knit.md",
+    "last_modified": "2024-05-11T21:23:53+01:00",
+    "input_file": {},
     "preview_width": 2396,
     "preview_height": 1320
   },
