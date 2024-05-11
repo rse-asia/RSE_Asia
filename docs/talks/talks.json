@@ -1,5 +1,31 @@
 [
   {
+    "path": "talks/2023-09-13-RSEAA23/",
+    "title": "Strategy and Policy Panel Discussion",
+    "description": "Strategy and Policy Panel at RSE Asia Australia Unconference 2022.",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2023-09-13",
+    "categories": [
+      "Research Software Engineering",
+      "Community Building",
+      "Open Science",
+      "Panel Discussion",
+      "Strategy",
+      "Policy"
+    ],
+    "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
+    "preview": "talks/2023-09-13-RSEAA23/preview.png",
+    "last_modified": "2024-05-11T23:34:44+01:00",
+    "input_file": {},
+    "preview_width": 1450,
+    "preview_height": 808
+  },
+  {
     "path": "talks/2023-09-05-RSECon23/",
     "title": "Shaping the Landscape: The Emerging Research Software Engineering Community in Asia",
     "description": "Lightning talk presented alongside a poster session at RSECon23, Swansea University during 5-7 September 2023.",
