@@ -1,0 +1,15 @@
+Package: RSEAsia
+Title: Website for RSE Asia Association
+Version: 0.0.0.9000
+Authors@R: 
+    person("Saranjeet Kaur", "Bhogal", , "kaur.saranjeet3@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Website for RSE Asia Association.
+License: Unknown
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    distill,
+    postcards,
+    roxygen2
