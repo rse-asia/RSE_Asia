@@ -1,5 +1,30 @@
 [
   {
+    "path": "talks/2023-07-16-FAB23/",
+    "title": "Making research software reproducible and sustainable",
+    "description": "Talk presented at the FAB23 Conference at the Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan (July 16-28, 2023)",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2023-07-16",
+    "categories": [
+      "Research Software Engineering",
+      "Asia Pacific",
+      "Community Building",
+      "Open Science",
+      "Fab Labs"
+    ],
+    "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
+    "preview": "talks/2023-07-16-FAB23/preview.png",
+    "last_modified": "2024-05-11T21:26:24+01:00",
+    "input_file": "FAB23.knit.md",
+    "preview_width": 1838,
+    "preview_height": 1037
+  },
+  {
     "path": "talks/2023-03-15-APAN55/",
     "title": "Research Software Engineering (RSE) Asia Association: Journey and Future Plans",
     "description": "Talk presented at the 55th meeting of the Asia Pacific Advanced Network (APAN55) during the “Open and Sharing Data Working Group (OSDWG): Asia Pacific Open-Sharing Data and National Research and Education Network (NREN) Open Science” session in Kathmandu, Nepal.",
@@ -23,31 +48,6 @@
     "input_file": "APAN55.knit.md",
     "preview_width": 2396,
     "preview_height": 1320
-  },
-  {
-    "path": "talks/2023-07-16-FAB23/",
-    "title": "Making research software reproducible and sustainable",
-    "description": "Talk presented at the FAB23 Conference at the Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan (July 16-28, 2023)",
-    "author": [
-      {
-        "name": "Saranjeet Kaur Bhogal",
-        "url": "https://saranjeetkaur.github.io/About-Me/"
-      }
-    ],
-    "date": "2023-03-15",
-    "categories": [
-      "Research Software Engineering",
-      "Asia Pacific",
-      "Community Building",
-      "Open Science",
-      "Fab Labs"
-    ],
-    "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
-    "preview": "talks/2023-07-16-FAB23/preview.png",
-    "last_modified": "2024-05-11T21:08:58+01:00",
-    "input_file": "FAB23.knit.md",
-    "preview_width": 1838,
-    "preview_height": 1037
   },
   {
     "path": "talks/2022-09-14-RSEAA22/",
