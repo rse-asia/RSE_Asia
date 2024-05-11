@@ -1,5 +1,30 @@
 [
   {
+    "path": "talks/2023-09-05-RSECon23/",
+    "title": "Shaping the Landscape: The Emerging Research Software Engineering Community in Asia",
+    "description": "Lightning talk presented alongside a poster session at RSECon23, Swansea University during 5-7 September 2023.",
+    "author": [
+      {
+        "name": "Saranjeet Kaur Bhogal",
+        "url": "https://saranjeetkaur.github.io/About-Me/"
+      }
+    ],
+    "date": "2023-09-05",
+    "categories": [
+      "Research Software Engineering",
+      "Community Building",
+      "Open Science",
+      "Poster Presentation",
+      "Lightning Talk"
+    ],
+    "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
+    "preview": "talks/2023-09-05-RSECon23/preview.png",
+    "last_modified": "2024-05-11T23:04:08+01:00",
+    "input_file": {},
+    "preview_width": 775,
+    "preview_height": 1047
+  },
+  {
     "path": "talks/2023-08-21-APAN56/",
     "title": "Navigating the Research Software Engineering Community Landscape in Asia",
     "description": "Talk presented at the 56th meeting of the Asia Pacific Advanced Network (APAN56) during 21-25 August 2023 at Colombo, Sri Lanka.",
