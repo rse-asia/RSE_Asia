@@ -25,8 +25,6 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ![Blog Post](blog_ep_1_cover_image.png)
 
-# Enabling Open Science Through Research Code: Insights from Webinar Episode 1 - Conversations with Researchers Who Code
-
 On **October 10, 2024**, the first episode of the ‘Enabling Open Science Through Research Code’ community conversation took place. The topic for the first episode was ‘Conversations with Researchers Who Code’ focusing on the pivotal role of research software in enabling open science. The event was hosted by **RSSE Africa** and the **RSE Asia Association.** It aimed to bring together researchers from various disciplines to share their experiences of coding, collaboration, and the challenges they face as they navigate the world of open science. This episode was a part of the celebration for **International Research Software Engineer (RSE) Day**, bringing attention to the growing importance of RSEs in research.
 
 ### **Session Overview**
