@@ -1,13 +1,13 @@
 ---
-title: "Enabling Open Science Through Research Code: Insights from Webinar Episode 1 - Conversations with Researchers Who Code "
+title: "Enabling Open Science Through Research Code: Insights from Episode 1 - Conversations with Researchers Who Code "
 description: |
-  This is a blog sharing insights from Episode 1 of the webinar series 'Enabling Open Science Through Research Code'
+  This is a blog sharing insights from Episode 1 of the Community Conversation series 'Enabling Open Science Through Research Code'.
 author:
   - name: Jyoti Bhogal, Mireille Grobbelaar, Anelda van der Walt, Saranjeet Kaur Bhogal
     url: https://github.com/jyoti-bhogal
 url: https://rse-asia.github.io/RSE_Asia/
-preview: blog_ep_1_cover_image.png
-date: 10-30-2024
+preview: rse-meetup-series_landscape_cover.png
+date: 10-29-2024
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE,
                       out.extra="style='border:1px solid black;'")
 ```
 
-![Blog Post](blog_ep_1_cover_image.png)
+![Episode 1 banner](rse-meetup-series_landscape_cover.png)
 
 On **October 10, 2024**, the first episode of the ‘Enabling Open Science Through Research Code’ community conversation took place. The topic for the first episode was ‘Conversations with Researchers Who Code’ focusing on the pivotal role of research software in enabling open science. The event was hosted by **RSSE Africa** and the **RSE Asia Association.** It aimed to bring together researchers from various disciplines to share their experiences of coding, collaboration, and the challenges they face as they navigate the world of open science. This episode was a part of the celebration for **International Research Software Engineer (RSE) Day**, bringing attention to the growing importance of RSEs in research.
 
