@@ -6,7 +6,7 @@ author:
   - name: Jyoti Bhogal, Mireille Grobbelaar, Anelda van der Walt, Saranjeet Kaur Bhogal
     url: https://github.com/jyoti-bhogal
 url: https://rse-asia.github.io/RSE_Asia/
-preview: preview.png
+preview: blog_ep_1_cover_image.png
 date: 10-30-2024
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
@@ -22,6 +22,8 @@ knitr::opts_chunk$set(echo = FALSE,
                       out.width = "100%",
                       out.extra="style='border:1px solid black;'")
 ```
+
+![Blog Post](blog_ep_1_cover_image.png)
 
 This blog post has been originally hosted at [RSSE Africa Blog](https://rsse.africa/post/2024/10/open-science-episode1/).
 
