@@ -79,7 +79,7 @@ This episode will focus on ways to make your code contribute to your resumé. We
   
   X: https://x.com/marsbarlee
 
-## Resources
+## Educational Resources
 
 A useful open educational resource related to these topics are available from [CodeRefinery](https://coderefinery.org).
 

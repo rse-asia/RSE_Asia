@@ -1,0 +1,73 @@
+---
+title: "Episode 2: Enabling Reproducibility through Research Code"
+description: |
+  The second episode of the series "Enabling Open Science Through Research Code" jointly organised by RSE Asia Association and RSSE Africa.
+author:
+  - name: Jyoti Bhogal
+    url: https://github.com/jyoti-bhogal
+  - name: Saranjeet Kaur Bhogal
+    url: https://github.com/SaranjeetKaur
+url: https://rse-asia.github.io/RSE_Asia/
+preview: current_setup.jpg
+date: 10-22-2024
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Open Science, Coding]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![Current setup](current_setup.jpg)
+_"[Current Setup](https://www.flickr.com/photos/23208360@N07/4532962327)" by [Yutaka Tsutano](https://www.flickr.com/photos/23208360@N07) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse)._
+
+Do you spend a lot of time using programming to analyse your data, develop workflows, build models or create visualisations?
+
+This episode focused on steps to take, to ensure your code enables reproducibility in your research project. We explored a variety of topics ranging from easily implementable, small changes that can make a huge difference (such as having a good directory structure), to more complex practices like the use of containers to manage versions and dependencies.
+
+**14 November 2024 @ 8:30 - 10:00 am UTC [see in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Reproducibility+and+Research+Software&iso=20241114T0830&p1=1440&ah=1&am=30)**
+
+## Our Speakers
+
+- **[Kozo Nishida](https://orcid.org/0000-0001-8501-7319)**,
+  Project Researcher, _Tokyo University of Agriculture and Technology_
+  
+  I worked as a technical staff member at RIKEN for 11 years, during which I became familiar   with research software communities such as PyData and Bioconductor, and released several    research software packages. I am interested in contributing to the open science community.
+  
+- **[Peter van Heusden](https://www.linkedin.com/in/peter-van-heusden-030b082/)**,
+  Bioinformatician, _South African National Bioinformatics Institute / University of the      Western Cape_
+  
+  I am a bioinformatician with a computer science and computer systems infrastructure         background. My focus at SANBI is building tools to enhance genomic surveillance of some of   the world’s most deadly pathogens (such as M. tuberculosis). I do so by focusing on         translating bioinformatics from research to accessible, reproducible workflows applicable   to public health needs.
+  
+- **[Radovan Bast](https://bast.fr/)**,
+  Research Software Engineer, _UiT- University of Tromsø / CodeRefinery_
+
+  Radovan Bast is a research software engineer with a background in theoretical chemistry.    He has previously worked in France and Sweden, and he is currently based in Norway.         Radovan’s work is at the border between science, software, and computational support, and   he enjoys supporting multi-disciplinary research. Radovan now works as part of the          Norwegian Research Infrastructure Services at the University of Tromsø (UiT), Norway, and   leads the CodeRefinery project. At UiT he leads the high-performance computing group and    the research software engineering group. His goal is to make computing and programming      more accessible and usable through training.
+
+  Email: radovan.bast @ uit dot no
+
+## Educational Resources
+
+A useful open educational resource related to these topics are available from [CodeRefinery](https://coderefinery.org).
+
+Follow the CodeRefinery lesson on [Reproducible research](https://coderefinery.github.io/reproducible-research/)
+
+## Meetup Resources
+
+- View our [Recording](https://youtu.be/y0z324Jwn4Y?si=LrEpY7jLGng_BMzD):
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/y0z324Jwn4Y" title="Enabling open science through research code - Episode 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+- Access our [Resources Sheet](https://doi.org/10.5281/zenodo.14195614)
+
+- Blog post - _coming soon_
+
+## Stay Connected
+
+Follow our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/) to get the latest updates about this series
