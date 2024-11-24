@@ -1,7 +1,7 @@
 ---
 title: "Episode 2: Enabling Reproducibility through Research Code"
 description: |
-  The second episode of the series "Enabling Open Science Through Research Code" jointly organised by RSE Asia Association and RSSE Africa.
+  The second episode of the series "Enabling Open Science Through Research Code" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).
 url: https://rse-asia.github.io/RSE_Asia/
 preview: current_setup.jpg
 date: 10-22-2024

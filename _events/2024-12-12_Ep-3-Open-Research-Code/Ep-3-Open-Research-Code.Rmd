@@ -1,7 +1,7 @@
 ---
 title: "Episode 3: Opening Up Research Code"
 description: |
-  The third episode of the series "Enabling Open Science Through Research Code" jointly organised by RSE Asia Association and RSSE Africa.
+  The third episode of the series "Enabling Open Science Through Research Code" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).
 url: https://rse-asia.github.io/RSE_Asia/
 preview: publishing_CC.png
 date: 11-23-2024
