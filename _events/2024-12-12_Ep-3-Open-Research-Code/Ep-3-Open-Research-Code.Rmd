@@ -26,6 +26,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```
 
 ![Open Source Publishing](publishing_CC.png)
+_"[Fund-raising and self-publishing (the open source way), Part one](https://www.flickr.com/photos/47691521@N07/5041738449)" by [opensourceway](https://www.flickr.com/photos/47691521@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse)._
 
 Are you ready to get some credit for the coding you’ve been doing as part of your research?
 
