@@ -4,7 +4,7 @@ description: |
   The first RSE Asia Australia Unconference.
 url: https://rse-asia.github.io/RSE_Asia/
 preview: RSEAA22_banner.png
-date: 11-23-2024
+date: 05-01-2022
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
