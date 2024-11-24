@@ -11,7 +11,7 @@ listing: events
 library(metathis)
 meta() %>%
   meta_description(
-    "Calendar of events happening at the RSE Asia Association"
+    "Events happening at the RSE Asia Association"
   ) %>%
   meta_name("github-repo" = "rse-asia/RSE_Asia") %>%
   meta_viewport() %>%

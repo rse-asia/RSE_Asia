@@ -2,11 +2,6 @@
 title: "Episode 3: Opening Up Research Code"
 description: |
   The third episode of the series "Enabling Open Science Through Research Code" jointly organised by RSE Asia Association and RSSE Africa.
-author:
-  - name: Jyoti Bhogal
-    url: https://github.com/jyoti-bhogal
-  - name: Saranjeet Kaur Bhogal
-    url: https://github.com/SaranjeetKaur
 url: https://rse-asia.github.io/RSE_Asia/
 preview: publishing_CC.png
 date: 11-23-2024
