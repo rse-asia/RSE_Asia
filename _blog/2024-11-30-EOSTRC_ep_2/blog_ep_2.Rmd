@@ -6,7 +6,7 @@ author:
   - name: Jyoti Bhogal, Mireille Grobbelaar, Anelda van der Walt, Saranjeet Kaur Bhogal
     url: https://github.com/jyoti-bhogal
 url: https://rse-asia.github.io/RSE_Asia/
-preview: rse-meetup-series_landscape_cover.png
+preview: banner_episode_2.png
 date: 12-04-2024
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
