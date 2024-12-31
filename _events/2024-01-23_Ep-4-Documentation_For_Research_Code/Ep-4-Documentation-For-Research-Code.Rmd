@@ -3,7 +3,7 @@ title: "Episode 4: Documentation for Research Code"
 description: |
   The forth episode of the series "Enabling Open Science Through Research Code" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).
 url: https://rse-asia.github.io/RSE_Asia/
-preview: publishing_CC.png
+preview: Documentation_for_research_code.jpg
 date: 12-31-2024
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
