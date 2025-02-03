@@ -1,0 +1,41 @@
+---
+title: "Episode 5: Testing Research Code"
+description: |
+  The fifth episode of the series "Enabling Open Science Through Research Code" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).
+url: https://rse-asia.github.io/RSE_Asia/
+preview: testing_research_code.jpg
+date: 02-03-2025
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Open Science, Coding]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![Importance of code testing](testing_research_code.jpg)
+_"[A computer screen with a bunch of code](https://unsplash.com/photos/black-flat-screen-computer-monitor-g5_rxRjvKmg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)" by [Artturi Jalli](https://unsplash.com/@artturijalli?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) is licensed as free to use under the [Unsplash License](https://unsplash.com/license)._
+
+Have you ever written tests for your research code?
+
+In this episode we’ll explore why research code should include tests, what the purpose of tests are, different types of tests and how to design them, where to start with testing and finally how to automate testing.
+
+**20 February 2025 @ 8:30 - 10:00 am UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Testing+Research+Code&iso=20250220T0830&p1=1440&ah=1&am=30)**
+
+**[Register now](https://us06web.zoom.us/meeting/register/tZArd-GvqzkiGt13BRkCV_4mAIa0uRWeGgeE#/registration)**
+
+## Our Speakers
+
+Watch out for more updates!
+
+
+## Stay Connected
+
+Follow our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/) to get the latest updates about this series.

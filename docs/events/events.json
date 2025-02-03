@@ -1,5 +1,21 @@
 [
   {
+    "path": "events/2025-02-20_Ep-5-Testing_Research_Code/",
+    "title": "Episode 5: Testing Research Code",
+    "description": "The fifth episode of the series \"Enabling Open Science Through Research Code\" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).",
+    "author": [],
+    "date": "2025-02-03",
+    "categories": [
+      "Research Software Engineering",
+      "Open Science",
+      "Coding"
+    ],
+    "contents": "\n“A computer screen with a bunch of code” by Artturi Jalli is licensed as free to use under the Unsplash License.\nHave you ever written tests for your research code?\nIn this episode we’ll explore why research code should include tests, what the purpose of tests are, different types of tests and how to design them, where to start with testing and finally how to automate testing.\n20 February 2025 @ 8:30 - 10:00 am UTC (see in your local time)\nRegister now\nOur Speakers\nWatch out for more updates!\nStay Connected\nFollow our LinkedIn page to get the latest updates about this series.\n\n\n\n",
+    "preview": "events/2025-02-20_Ep-5-Testing_Research_Code/testing_research_code.jpg",
+    "last_modified": "2025-02-03T15:16:50+05:30",
+    "input_file": "Ep-5-Testing-Research-Code.knit.md"
+  },
+  {
     "path": "events/2025-01-23_Ep-4-Documentation_For_Research_Code/",
     "title": "Episode 4: Documentation for Research Code",
     "description": "The forth episode of the series \"Enabling Open Science Through Research Code\" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).",
