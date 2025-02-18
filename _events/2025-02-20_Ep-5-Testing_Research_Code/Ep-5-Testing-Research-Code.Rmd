@@ -33,8 +33,25 @@ In this episode we’ll explore why research code should include tests, what the
 
 ## Our Speakers
 
-Watch out for more updates!
+- **[Abhishek Dasgupta](https://www.linkedin.com/in/abhidg/)**,
+  Senior Research Software Engineer, Oxford Research Software Engineering Group, _University of Oxford_
+  
+  "I am a Research Software Engineer with the University of Oxford RSE group, interested in software development productivity, best practices, and reproducibility of research software through training and outreach. I am particularly interested in improving code testing, and improving productivity through the use of type checkers, linters and through deeper knowledge of the ecosystem of tools that are available to improve research software. Prior to my current role as a research software engineer, I did my DPhil in Computer Science, before moving to a postdoctoral position in the Department of Politics and International Relations at Oxford."
+ 
+  Email: abhishek dot dasgupta @ dtc dot ox do ac dot uk
 
+- **[Saranjeet Kaur Bhogal](https://www.linkedin.com/in/saranjeet-k-48ab769b/)**,
+  Research Software Engineer, _Imperial College London_
+  
+  Saranjeet Kaur Bhogal is a Research Software Engineer at Imperial College London. In 2023, she was selected an International Fellow of the Software Sustainability Institute. Her academic background includes an MPhil in Statistics. Throughout her career, she has been involved with various software engineering communities. In 2021, she participated in the Open Life Science program, where she co-founded the Research Software Engineering (RSE) Asia Association. She has represented the RSE Asia community at events in Bhutan, Nepal, Sri Lanka, and the UK.
+  
+  Email: kaur dot saranjeet3 @ gmail dot com
+  
+- **[Sheena O'Connell](https://www.linkedin.com/in/sheena-o-connell-0bb72527/)**, Founder, _Prelude_
+  
+  "I’m a software engineer and technical leader who has spent the last 5+ years reimagining how we teach coding. I’ve built alternative education systems, focusing on effective teaching practices and organizational structures. I founded the Guild of Educators to support tech educators and recently founded Prelude, offering technical training and consulting for educators and organizations. I’m active in the global Python and Django communities, organizing events like PyCon Africa and DjangoCon Africa. I’m a Django Software Foundation member and the co-chair of the Python Software Foundation’s Education and Outreach workgroup."
+  
+  Email: sheena @ prelude dot tech
 
 ## Stay Connected
 
