@@ -1,5 +1,5 @@
 ---
-title: "Enabling Open Science Through Research Code: Insights from Episode 1 - Conversations with Researchers Who Code "
+title: "Enabling Open Science Through Research Code: Insights from Episode 1 - Conversations with Researchers Who Code"
 description: |
   This is a blog sharing insights from Episode 1 of the Community Conversation series 'Enabling Open Science Through Research Code'.
 author:
