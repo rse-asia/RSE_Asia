@@ -1,5 +1,22 @@
 [
   {
+    "path": "events/2025-03-20-Ep-6-Research_Software_Funding/",
+    "title": "Episode 6: Research Software Funding",
+    "description": "The sixth episode of the series \"Enabling Open Science Through Research Code\" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).",
+    "author": [],
+    "date": "2025-03-14",
+    "categories": [
+      "Research Software Engineering",
+      "Open Science",
+      "Coding",
+      "Funding"
+    ],
+    "contents": "\n“Colorful programming php and html code on a monitor” by Cronislaw.\nIn the last episode of the series on ‘Enabling Open Science through Research Code’, we will explore opportunities related to funding for research software-related work.\n20 March 2025 @ 8:30 - 10:00 am UTC (see in your local time)\nRegister now\nOur Speakers\nCarlos Martinez-Ortiz,\nScientific Community Manager, Netherlands eScience Center\nCarlos is a Community Manager at the Netherlands eScience Center. His work focuses on topics related to software sustainability at the eScience Center, advancing its goal to empower researchers by collaboratively designing sustainable software, and building digital skills and expertise.\nColette Bos,\nProgramme Director Netherlands eScience Center\nColette holds a PhD in research policy/research sociology and has extensive experience in research policy, research funding, impact of science evaluations and open science. She has worked at the Netherlands eScience Center for two years as Programme Director where she is responsible for the project portfolio of the center.\nGemma Turon Rodrigo, Executive Director, Ersilia Open Source Initiative\nTrained as a molecular biologist, Gemma completed a PhD in colorectal cancer and stem cells at IRB Barcelona in 2019, before taking a one-year break to focus on working and volunteering in the third sector. This shifted her scientific interest to global health and neglected diseases, and the existing barriers to tackle some of the most urgent health issues in developing countries. With Ersilia, she aims to explore new ways of community building and engagement in the scientific arena, at the intersection between academia, biotech start-ups and NPOs.\nJoseph Wafula, Professor and Lead, African Open Science Platform East Africa Node\nStay Connected\nFollow our LinkedIn page to get the latest updates about this series.\n\n\n\n",
+    "preview": "events/2025-03-20-Ep-6-Research_Software_Funding/software_funding.jpg",
+    "last_modified": "2025-03-14T23:40:51+07:00",
+    "input_file": "Ep-6-Research_Software_Funding.knit.md"
+  },
+  {
     "path": "events/2025-02-20_Ep-5-Testing_Research_Code/",
     "title": "Episode 5: Testing Research Code",
     "description": "The fifth episode of the series \"Enabling Open Science Through Research Code\" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).",

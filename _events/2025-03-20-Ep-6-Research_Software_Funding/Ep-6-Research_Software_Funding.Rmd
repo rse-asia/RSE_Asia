@@ -1,0 +1,52 @@
+---
+title: "Episode 6: Research Software Funding"
+description: |
+  The sixth episode of the series "Enabling Open Science Through Research Code" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).
+url: https://rse-asia.github.io/RSE_Asia/
+preview: software_funding.jpg
+date: 03-14-2025
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Open Science, Coding, Funding]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![Funding for Resrarch Software](software_funding.jpg)
+_"[Colorful programming php and html code on a monitor](https://stock.adobe.com/az/contributor/205173064/cronislaw?load_type=author&prev_url=detail&asset_id=107962078)" by [Cronislaw](https://stock.adobe.com/az/contributor/205173064/cronislaw?load_type=author&prev_url=detail)._
+
+In the last episode of the series on 'Enabling Open Science through Research Code', we will explore opportunities related to funding for research software-related work. 
+
+**20 March 2025 @ 8:30 - 10:00 am UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Research+Software+Funding&iso=20250320T0830&p1=1440&ah=1&am=30)**
+
+**[Register now](https://us06web.zoom.us/meeting/register/tZwodO2pqD0rGtUTKdPjxP2j2X1gFioPn2bo#/registration)**
+
+## Our Speakers
+
+- **[Carlos Martinez-Ortiz](https://bsky.app/profile/neocarlitos.bsky.social)**,
+  Scientific Community Manager, _Netherlands eScience Center_
+  
+  Carlos is a Community Manager at the [Netherlands eScience Center](https://www.esciencecenter.nl/). His work focuses on topics related to software sustainability at the eScience Center, advancing its goal to empower researchers by collaboratively designing sustainable software, and building digital skills and expertise.
+
+- **[Colette Bos](https://www.linkedin.com/in/colettebos/)**,
+  Programme Director _Netherlands eScience Center_
+  
+  Colette holds a PhD in research policy/research sociology and has extensive experience in research policy, research funding, impact of science evaluations and open science. She has worked at the [Netherlands eScience Center](https://www.esciencecenter.nl/) for two years as Programme Director where she is responsible for the project portfolio of the center.
+  
+- **[Gemma Turon Rodrigo](https://www.linkedin.com/in/gemma-turon/)**, Executive Director, _Ersilia Open Source Initiative_
+  
+  Trained as a molecular biologist, Gemma completed a PhD in colorectal cancer and stem cells at IRB Barcelona in 2019, before taking a one-year break to focus on working and volunteering in the third sector. This shifted her scientific interest to global health and neglected diseases, and the existing barriers to tackle some of the most urgent health issues in developing countries. With [Ersilia](https://www.ersilia.io/), she aims to explore new ways of community building and engagement in the scientific arena, at the intersection between academia, biotech start-ups and NPOs.
+  
+- **[Joseph Wafula](https://www.linkedin.com/in/joseph-wafula-768a2371/)**, Professor and Lead, _African Open Science Platform East Africa Node_
+
+## Stay Connected
+
+Follow our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/) to get the latest updates about this series.
