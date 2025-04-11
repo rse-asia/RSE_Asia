@@ -3,7 +3,7 @@ title: "Enabling Open Science Through Research Code: Insights from Episode 5 - T
 description: |
   This is a blog sharing insights from Episode 5 of the Community Conversation series 'Enabling Open Science Through Research Code'.
 author:
-  - name: Anelda van der Walt, Jyoti Bhogal, Saranjeet Kaur Bhogal, Abhishek Dasgupta, Sheena O’Connell, Mireille Grobbelaar
+  - name: Anelda van der Walt, Saranjeet Kaur Bhogal, Abhishek Dasgupta, Sheena O’Connell, Mireille Grobbelaar, Jyoti Bhogal
     url: https://github.com/jyoti-bhogal
 url: https://rse-asia.github.io/RSE_Asia/
 preview: banner_episode_5.png
