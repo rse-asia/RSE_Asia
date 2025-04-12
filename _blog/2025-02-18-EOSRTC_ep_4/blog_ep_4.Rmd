@@ -97,7 +97,7 @@ Great research code deserves great documentation. It makes work reproducible, fo
 
 📢 **Explore More:**
 
-Access our [Resource Sheet](%20https://doi.org/10.5281/zenodo.14833913), which contains numerous valuable resources shared by the panellists, facilitators, and participants. 
+Access our [Resource Sheet](https://doi.org/10.5281/zenodo.14833913), which contains numerous valuable resources shared by the panellists, facilitators, and participants. 
 
 View the [session recording](https://youtu.be/6GJZ8mO4t9Q) on YouTube.
 
