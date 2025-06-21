@@ -21,3 +21,5 @@ knitr::opts_chunk$set(echo = FALSE,
 ```
 
 ![*Banner of RSE Asia Australia conference 2025 - Connecting with Community.*](rsaa25_launch.png)
+
+For more information about the conferene, please visit [rseaa.org](https://rseaa.org/) and follow us at [Research Software Asia Australia 2025](https://www.linkedin.com/company/rseaa).
