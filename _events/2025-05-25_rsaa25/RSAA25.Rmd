@@ -1,0 +1,25 @@
+---
+title: "RSE Asia Australia Conference 2025 (RSAA25)"
+description: |
+  The fourth annual RSE Asia Australia (Un)Conference.
+url: https://rse-asia.github.io/RSE_Asia/
+preview: rsaa25_launch.png
+date: 05-28-2025
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Community Building]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![*Banner of RSE Asia Australia conference 2025 - Connecting with Community.*](rsaa25_launch.png)
+
+For more information about the conferene, please visit [rseaa.org](https://rseaa.org/) and follow us at [Research Software Asia Australia 2025](https://www.linkedin.com/company/rseaa).
