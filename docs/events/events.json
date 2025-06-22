@@ -1,22 +1,5 @@
 [
   {
-    "path": "events/2025-05-25_rsaa25/",
-    "title": "RSE Asia Australia Conference 2025 (RSAA25)",
-    "description": "The fourth annual RSE Asia Australia (Un)Conference.",
-    "author": [],
-    "date": "2025-05-28",
-    "categories": [
-      "Research Software Engineering",
-      "Community Building"
-    ],
-    "contents": "\nBanner of RSE Asia Australia conference 2025 - Connecting with Community.Here’s a recording of the Ask Me Anything session we had on 12th June 2025 to address queries.\nRSAA25 and Internship Ask Me AnythingFor more information about the conferene, please visit rseaa.org and follow us at Research Software Asia Australia 2025.\n\n\n\n",
-    "preview": "events/2025-05-25_rsaa25/rsaa25_launch.png",
-    "last_modified": "2025-06-22T16:09:14+05:30",
-    "input_file": "RSAA25.knit.md",
-    "preview_width": 1600,
-    "preview_height": 900
-  },
-  {
     "path": "events/2025-03-20-Ep-6-Research_Software_Funding/",
     "title": "Episode 6: Research Software Funding",
     "description": "The sixth episode of the series \"Enabling Open Science Through Research Code\" jointly organised by [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and [RSSE Africa](https://rsse.africa).",
