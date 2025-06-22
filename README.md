@@ -34,7 +34,9 @@ We have conducted and continue to conduct various online community activities:
 We follow the Code of Conduct of the [Society of Research Software Engineering](https://society-rse.org/).
 
 ## Contact Us
-Twitter handle: [RSE_Asia](https://twitter.com/RSE_Asia/), Website: https://rse-asia.github.io/RSE_Asia/, E-mail: rse.asia.association@gmail.com 
+Website: https://rse-asia.github.io/RSE_Asia/ 
+E-mail: mailto:rse.asia.association@gmail.com
+LinkedIn: https://www.linkedin.com/company/rse-asia-association/
 
 ## Contributors ✨
 
