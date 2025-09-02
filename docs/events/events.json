@@ -83,6 +83,25 @@
     "input_file": {}
   },
   {
+    "path": "events/2022-07-08-Alt_Text_SPEC/",
+    "title": "Writing alt-text for scientific diagrams",
+    "description": "In this event, we will discuss how to write effective alt-text for scientific diagrams. We will cover best practices, common pitfalls, and tools that can help you create accessible content.",
+    "author": [],
+    "date": "2022-07-08",
+    "categories": [
+      "Research Software Engineering",
+      "Alt-text",
+      "Accessibility",
+      "Illustration"
+    ],
+    "contents": "\nWorkshop hosts:\nMars Lee is a technical illustrator who contributes to data science software and open-source Python projects such as NumPy. She grew up in Singapore and rollerskates. 🛼\nIsabela Presedo-Floyd (she/her) is a UX/UI designer in theory and professional question-asker in practice. She helps build open-source scientific software with an emphasis on improving the accessibility of communities and their tools.\nWhen: Friday, 8th July 2022, 13:00 UTC\nWhere: Online\n\n\n\n",
+    "preview": "events/2022-07-08-Alt_Text_SPEC/Alt-Text_Workshop_RSE_Asian_and_SPEC.png",
+    "last_modified": "2025-09-02T13:55:42+01:00",
+    "input_file": "alt_text_spec.knit.md",
+    "preview_width": 1080,
+    "preview_height": 1080
+  },
+  {
     "path": "events/2022-05-01_RSEAA22/",
     "title": "RSE Asia Australia Unconference 2022 (RSEAA22)",
     "description": "The first RSE Asia Australia Unconference.",

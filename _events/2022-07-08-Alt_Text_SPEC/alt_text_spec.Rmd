@@ -1,0 +1,30 @@
+---
+title: "Writing alt-text for scientific diagrams"
+description: |
+  In this event, we will discuss how to write effective alt-text for scientific diagrams. We will cover best practices, common pitfalls, and tools that can help you create accessible content.
+url: https://rse-asia.github.io/RSE_Asia/
+preview: Alt-Text_Workshop_RSE_Asian_and_SPEC.png 
+date: 07-08-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Alt-text, Accessibility, Illustration]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+# Workshop hosts:
+
+- Mars Lee is a technical illustrator who contributes to data science software and open-source Python projects such as NumPy. She grew up in Singapore and rollerskates. 🛼
+- Isabela Presedo-Floyd (she/her) is a UX/UI designer in theory and professional question-asker in practice. She helps build open-source scientific software with an emphasis on improving the accessibility of communities and their tools.
+
+When: Friday, 8th July 2022, 13:00 UTC
+
+Where: Online
