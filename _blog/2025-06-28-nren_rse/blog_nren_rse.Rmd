@@ -6,8 +6,8 @@ author:
   - name: Saranjeet Kaur Bhogal
     url: https://github.com/SaranjeetKaur
 url: https://rse-asia.github.io/RSE_Asia/
-preview: 
-date: 06-28-2025
+preview: APAN55_RSEAsia_Nepal.png
+date: 04-17-2023
 base_url: https://rse-asia.github.io/RSE_Asia/
 twitter:
   creator: "@RSE_Asia"
