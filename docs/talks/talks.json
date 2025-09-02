@@ -1,5 +1,210 @@
 [
   {
+    "path": "talks/2025-06-06_epcc/",
+    "title": "Halò Scotland! Speaking at EPCC in the Edinburgh Sunshine",
+    "description": "An invited talk on 'Research Study on the Research Soware Engineering (RSEng) Landscape in Asia' at the EPCC, University of Edinburgh, in-person in May 2025.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2025-06-06",
+    "categories": [
+      "Research Software",
+      "Talk",
+      "Open Science",
+      "Open Source",
+      "SSI",
+      "EPCC",
+      "Edinburgh",
+      "Scotland",
+      "United Kingdom",
+      "In Person"
+    ],
+    "contents": "\nMy Talk at EPCC, University of Edinburgh🔑 Talk Resources:\nSlides: Bhogal, J. (2025, May 16). Research Study on the Research Software Engineering (RSEng) Landscape in Asia. Zenodo. https://doi.org/10.5281/zenodo.15450346\nRecording: The University of Edinburgh - Media\nFeatured Blog: EPCC News\n\n\n\n",
+    "preview": "talks/2025-06-06_epcc/epcc_jyoti_talk_title_slide.jpeg",
+    "last_modified": "2025-09-02T13:33:08+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2025-04-10_sca2025/",
+    "title": "Advancing DEI in Research Software through the Research Software Engineering (RSEng) Asia Association",
+    "description": "A Presentation Talk on 'Advancing DEI in Research Software through the Research Software Engineering (RSEng) Asia Association' at the SuperComputing Asia 2025 meeting online in March 2025.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2025-04-10",
+    "categories": [
+      "Research Software",
+      "Conference",
+      "Talk",
+      "Open Science",
+      "Open Source",
+      "DEI",
+      "HPC",
+      "WHPC",
+      "Singapore",
+      "Online",
+      "Remote"
+    ],
+    "contents": "\nMy Presentation Talk at SCA25🔑 Talk Resources:\nSlides: Bhogal, J. (2025, March 12). Advancing DEI in Research Software through the Research Software Engineering (RSEng) Asia Association. Zenodo. https://doi.org/10.5281/zenodo.15043541\nRecording: Coming soon!\n\n\n\n",
+    "preview": "talks/2025-04-10_sca2025/SCA2025_WHPC_Panel_Speaker_Images.png",
+    "last_modified": "2025-09-02T13:32:47+01:00",
+    "input_file": {},
+    "preview_width": 2214,
+    "preview_height": 1340
+  },
+  {
+    "path": "talks/2025-03-31_apan59/",
+    "title": "Building Bridges: Advancing Research Software Engineering and Open Science in Asia",
+    "description": "A Presentation Talk on 'Building Bridges: Advancing Research Software Engineering and Open Science in Asia' at the Asia-Pacific Advanced Network's APAN59 meeting online in March 2025.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2025-03-31",
+    "categories": [
+      "Research Software",
+      "Conference",
+      "Talk",
+      "APAN",
+      "Open Science",
+      "Open Source",
+      "Yokohama",
+      "Japan",
+      "Online",
+      "Remote"
+    ],
+    "contents": "\nMy Presentation Talk at APAN59🔑 Talk Resources:\nSlides: Bhogal, J. (2025, March 3). Building Bridges: Advancing Research Software Engineering and Open Science in Asia. Zenodo. https://doi.org/10.5281/zenodo.15180196\nRecording: Coming soon!\n\n\n\n",
+    "preview": "talks/2025-03-31_apan59/APAN59_slide_main_page.png",
+    "last_modified": "2025-09-02T13:32:30+01:00",
+    "input_file": {},
+    "preview_width": 960,
+    "preview_height": 540
+  },
+  {
+    "path": "talks/2024-10-26_pycon_india_2024/",
+    "title": "Accelerating India's Open Science Journey with Python",
+    "description": "A Lightning Talk on 'Accelerating India's Open Science Journey with Python' at the PyCon India 2024 Conference.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2024-10-26",
+    "categories": [
+      "Python",
+      "Conference",
+      "Talk",
+      "Open Science",
+      "Lightning Talk",
+      "Accessibility",
+      "Open Source",
+      "Bengaluru",
+      "India",
+      "In Person"
+    ],
+    "contents": "\nMy Lightning Talk at PyCon India 2024🔑 Talk Resources:\nSlides: Jyoti Bhogal, J. (2024, September 22). Accelerating India’s Open Science Journey with Python. Zenodo. https://doi.org/10.5281/zenodo.13826028\nRecording:\n\n\n\n\n",
+    "preview": "talks/2024-10-26_pycon_india_2024/lit_talk_title.jpeg",
+    "last_modified": "2025-09-02T13:31:17+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "talks/2024-09-02_rsecon24_rse_worldwide_session/",
+    "title": "RSE Worldwide Session 2024: RSE Asia Association",
+    "description": "A Lightning Talk on 'RSE Worldwide Session 2024: RSE Asia Association' at the RSECon24 online in September 2024.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2024-09-30",
+    "categories": [
+      "Research Software",
+      "Conference",
+      "Talk",
+      "Lightning Talk",
+      "Open Science",
+      "Open Source",
+      "RSE Asia",
+      "New Castle",
+      "United Kingdom",
+      "Online",
+      "Remote"
+    ],
+    "contents": "\nMy Lightning Talk at RSECon24🔑 Talk Resources:\nSlides: Bhogal, J. (2024, September 2). RSECon24: RSE Worldwide Session 2024 - RSE Asia Association. Zenodo. https://doi.org/10.5281/zenodo.15211579\nRecording:\n\n\n\n\n",
+    "preview": "talks/2024-09-02_rsecon24_rse_worldwide_session/talk_preview.png",
+    "last_modified": "2025-09-02T13:30:33+01:00",
+    "input_file": {},
+    "preview_width": 2861,
+    "preview_height": 1574
+  },
+  {
+    "path": "talks/2024-10-05_rseaa24_strategy_policy_panel/",
+    "title": "RSE Asia Australia 2024 (RSEAA24) Unconference: Strategy and Policy Panel",
+    "description": "A panel discussion on 'Strategy and Policy' at the RSEAA24 unconference online in September 2024.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2024-09-30",
+    "categories": [
+      "Research Software",
+      "Conference",
+      "Talk",
+      "Panel",
+      "Open Science",
+      "Open Source",
+      "RSE Asia",
+      "Online",
+      "Remote"
+    ],
+    "contents": "\nPanel discussion at RSEAA24\n\n\n",
+    "preview": "talks/2024-10-05_rseaa24_strategy_policy_panel/RSEAA24_panel.png",
+    "last_modified": "2025-09-02T13:30:56+01:00",
+    "input_file": {},
+    "preview_width": 1920,
+    "preview_height": 1080
+  },
+  {
+    "path": "talks/2025-03-30_apan58/",
+    "title": "What is Research Software and Why Should we Think About its Sustainability?",
+    "description": "A Presentation Talk on 'What is Research Software and Why Should we Think About its Sustainability?' at the Asia-Pacific Advanced Network's APAN58 meeting in August 2024.",
+    "author": [
+      {
+        "name": "Jyoti Bhogal",
+        "url": "https://jyoti-bhogal.github.io/about-me/"
+      }
+    ],
+    "date": "2024-08-27",
+    "categories": [
+      "Research Software",
+      "Conference",
+      "Talk",
+      "APAN",
+      "Open Science",
+      "Open Source",
+      "Online",
+      "Remote"
+    ],
+    "contents": "\nMy Presentation Talk at APAN58🔑 Talk Resources:\nSlides: Jyoti Bhogal. (2024, August 27). What is Research Software and Why Should we Think About its Sustainability?. Zenodo.https://doi.org/10.5281/zenodo.13377699\nRecording: APAN58 : Asia Pacific Open and Sharing Data WG, 27th August 2024, Part 1 (Clip from 00:00 to 14:55)\n\n\n\n\n",
+    "preview": "talks/2025-03-30_apan58/APAN58_talk_image_1_software_sustainability_methods.png",
+    "last_modified": "2025-09-02T13:32:01+01:00",
+    "input_file": {},
+    "preview_width": 1600,
+    "preview_height": 730
+  },
+  {
     "path": "talks/2023-09-13-RSEAA23/",
     "title": "Strategy and Policy Panel Discussion",
     "description": "Strategy and Policy Panel at RSE Asia Australia Unconference 2022.",
@@ -20,7 +225,7 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-09-13-RSEAA23/preview.png",
-    "last_modified": "2024-12-31T17:43:56+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1450,
     "preview_height": 808
@@ -45,7 +250,7 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-09-05-RSECon23/preview.png",
-    "last_modified": "2024-12-31T17:43:56+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 775,
     "preview_height": 1047
@@ -70,7 +275,7 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-08-21-APAN56/preview.png",
-    "last_modified": "2024-12-31T17:43:56+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 2060,
     "preview_height": 1161
@@ -95,7 +300,7 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-07-16-FAB23/preview.png",
-    "last_modified": "2024-12-31T17:43:56+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1838,
     "preview_height": 1037
@@ -120,7 +325,7 @@
     ],
     "contents": "\nClick below for the slide.\n\n\n\n\n\n\n\n\n",
     "preview": "talks/2023-03-15-APAN55/preview.png",
-    "last_modified": "2024-12-31T17:43:56+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 2396,
     "preview_height": 1320
@@ -146,7 +351,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-09-14-RSEAA22/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1655,
     "preview_height": 857
@@ -171,7 +376,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-09-05-RSECon22/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 291,
     "preview_height": 732
@@ -195,7 +400,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-07-27-ExpTalkJuliaCon22/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1140,
     "preview_height": 622
@@ -220,7 +425,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-07-18-OLS5Graduation2022/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1128,
     "preview_height": 627
@@ -245,7 +450,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-04-19-VldReSA22/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1421,
     "preview_height": 796
@@ -268,7 +473,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-04-04-lightningCW22/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1597,
     "preview_height": 893
@@ -291,7 +496,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-03-11-WorkshopAPAN2022/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1596,
     "preview_height": 891
@@ -314,7 +519,7 @@
     ],
     "contents": "\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-03-09-PanelAPAN2022/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1201,
     "preview_height": 675
@@ -338,7 +543,7 @@
     ],
     "contents": "\r\nClick below for the graduation video.\r\n\r\n\r\nClick below for the slide.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2022-01-19-OLS4Graduation2022/preview.png",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {},
     "preview_width": 1312,
     "preview_height": 681
@@ -361,7 +566,7 @@
     ],
     "contents": "\r\nRSE Asia Association launched on 14th October 2021.\r\nClick below for the Launch video.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "talks/2021-10-14-RSEAsiaLaunch2021/preview.jpg",
-    "last_modified": "2024-10-30T17:17:39+05:30",
+    "last_modified": "2025-09-01T22:25:46+01:00",
     "input_file": {}
   }
 ]

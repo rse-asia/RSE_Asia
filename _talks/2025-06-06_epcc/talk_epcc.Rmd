@@ -1,0 +1,35 @@
+---
+title: "Halò Scotland! Speaking at EPCC in the Edinburgh Sunshine"
+description: |
+  An invited talk on 'Research Study on the Research Soware Engineering (RSEng) Landscape in Asia' at the EPCC, University of Edinburgh, in-person in May 2025.
+author:
+  - name: Jyoti Bhogal
+    url: https://jyoti-bhogal.github.io/about-me/
+url: https://jyoti-bhogal.github.io/about-me/
+preview: epcc_jyoti_talk_title_slide.jpeg
+date: 06-06-2025
+base_url: https://jyoti-bhogal.github.io/about-me/
+twitter:
+  creator: "@Jyoti_Bhogal1"
+categories: [Research Software, Talk, Open Science, Open Source, SSI, EPCC, Edinburgh, Scotland, United Kingdom, In Person] 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![My Talk at EPCC, University of Edinburgh](epcc_jyoti_talk_title_slide.jpeg)
+
+🔑 **Talk Resources:** 
+
+1. **Slides:** Bhogal, J. (2025, May 16). Research Study on the Research Software Engineering (RSEng) Landscape in Asia. Zenodo. https://doi.org/10.5281/zenodo.15450346 
+
+2. **Recording:** [The University of Edinburgh - Media](https://media.ed.ac.uk/media/1_p5zlw3k3?kalturaStartTime=1610) 
+
+3. **Featured Blog:** [EPCC News](https://www.epcc.ed.ac.uk/whats-happening/articles/investigating-research-software-engineering-landscape-asia)

@@ -1,0 +1,28 @@
+---
+title: "RSE Asia Australia 2024 (RSEAA24) Unconference: Strategy and Policy Panel"
+description: |
+  A panel discussion on 'Strategy and Policy' at the RSEAA24 unconference online in September 2024.
+author:
+  - name: Jyoti Bhogal
+    url: https://jyoti-bhogal.github.io/about-me/
+url: https://jyoti-bhogal.github.io/about-me/
+preview: RSEAA24_panel.png
+date: 09-30-2024
+base_url: https://jyoti-bhogal.github.io/about-me/
+twitter:
+  creator: "@Jyoti_Bhogal1"
+categories: [Research Software, Conference, Talk, Panel, Open Science, Open Source, RSE Asia, Online, Remote] 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![Panel discussion at RSEAA24](RSEAA24_panel.png)
+

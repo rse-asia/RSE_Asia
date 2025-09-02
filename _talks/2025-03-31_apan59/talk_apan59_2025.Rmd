@@ -1,0 +1,33 @@
+---
+title: "Building Bridges: Advancing Research Software Engineering and Open Science in Asia"
+description: |
+  A Presentation Talk on 'Building Bridges: Advancing Research Software Engineering and Open Science in Asia' at the Asia-Pacific Advanced Network's APAN59 meeting online in March 2025.
+author:
+  - name: Jyoti Bhogal
+    url: https://jyoti-bhogal.github.io/about-me/
+url: https://jyoti-bhogal.github.io/about-me/
+preview: APAN59_slide_main_page.png
+date: 03-31-2025
+base_url: https://jyoti-bhogal.github.io/about-me/
+twitter:
+  creator: "@Jyoti_Bhogal1"
+categories: [Research Software, Conference, Talk, APAN, Open Science, Open Source, Yokohama, Japan, Online, Remote] 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![My Presentation Talk at APAN59](APAN59_slide_main_page.png)
+
+🔑 **Talk Resources:** 
+
+1. **Slides:** Bhogal, J. (2025, March 3). Building Bridges: Advancing Research Software Engineering and Open Science in Asia. Zenodo. [https://doi.org/10.5281/zenodo.15180196](https://doi.org/10.5281/zenodo.15180196)
+
+2. **Recording:** Coming soon!

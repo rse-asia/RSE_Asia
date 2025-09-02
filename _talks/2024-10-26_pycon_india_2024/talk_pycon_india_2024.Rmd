@@ -1,0 +1,35 @@
+---
+title: "Accelerating India's Open Science Journey with Python"
+description: |
+  A Lightning Talk on 'Accelerating India's Open Science Journey with Python' at the PyCon India 2024 Conference.
+author:
+  - name: Jyoti Bhogal
+    url: https://jyoti-bhogal.github.io/about-me/
+url: https://jyoti-bhogal.github.io/about-me/
+preview: lit_talk_title.jpeg
+date: 10-26-2024
+base_url: https://jyoti-bhogal.github.io/about-me/
+twitter:
+  creator: "@Jyoti_Bhogal1"
+categories: [Python, Conference, Talk, Open Science, Lightning Talk, Accessibility, Open Source, Bengaluru, India, In Person]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+  
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+![My Lightning Talk at PyCon India 2024](lit_talk_title.jpeg)
+
+🔑 **Talk Resources:** 
+
+1. Slides: Jyoti Bhogal, J. (2024, September 22). Accelerating India's Open Science Journey with Python. Zenodo. https://doi.org/10.5281/zenodo.13826028 
+
+2. Recording:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lX896C6QUsE?si=3RwkwLRfNdqWATzb&amp;start=1060" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
