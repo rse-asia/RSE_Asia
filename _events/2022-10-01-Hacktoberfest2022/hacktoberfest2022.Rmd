@@ -1,0 +1,32 @@
+---
+title: "Hacktoberfest 2022"
+description: |
+  Open-source community contributing hours during Hacktoberfest 2022.
+
+url: https://rse-asia.github.io/RSE_Asia/
+preview: hacktoberfest2022.png
+date: 10-01-2022
+base_url: https://rse-asia.github.io/RSE_Asia/
+twitter:
+  creator: "@RSE_Asia"
+categories: [Research Software Engineering, Open Source, Hacktoberfest]
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      out.width = "100%",
+                      out.extra="style='border:1px solid black;'")
+```
+
+## Details
+
+RSE Asia is participating in the month-long Hacktoberfest 2022 celebration and we are hosting Contributing Hours on each weekday of October 2022, from 8:30 - 9:30 hours UTC.
+
+Are you newbie to open source and want some support to make your 1st contribution? Or you want to know more about us and contribute to our work? 
+
+Then register for our Hacktoberfest 2022 Contributing Hours. 
+
+Everyone is welcome to join, irrespective of your experience level with open source and your geographical location. 

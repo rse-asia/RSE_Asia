@@ -100,6 +100,24 @@
     "input_file": {}
   },
   {
+    "path": "events/2022-10-01-Hacktoberfest2022/",
+    "title": "Hacktoberfest 2022",
+    "description": "Open-source community contributing hours during Hacktoberfest 2022.",
+    "author": [],
+    "date": "2022-10-01",
+    "categories": [
+      "Research Software Engineering",
+      "Open Source",
+      "Hacktoberfest"
+    ],
+    "contents": "\nDetails\nRSE Asia is participating in the month-long Hacktoberfest 2022 celebration and we are hosting Contributing Hours on each weekday of October 2022, from 8:30 - 9:30 hours UTC.\nAre you newbie to open source and want some support to make your 1st contribution? Or you want to know more about us and contribute to our work?\nThen register for our Hacktoberfest 2022 Contributing Hours.\nEveryone is welcome to join, irrespective of your experience level with open source and your geographical location.\n\n\n\n",
+    "preview": "events/2022-10-01-Hacktoberfest2022/hacktoberfest2022.png",
+    "last_modified": "2025-09-02T14:37:16+01:00",
+    "input_file": {},
+    "preview_width": 695,
+    "preview_height": 673
+  },
+  {
     "path": "events/2022-07-08-Alt_Text_SPEC/",
     "title": "Writing alt-text for scientific diagrams",
     "description": "In this event, we will discuss how to write effective alt-text for scientific diagrams. We will cover best practices, common pitfalls, and tools that can help you create accessible content.",
