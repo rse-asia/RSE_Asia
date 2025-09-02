@@ -22,12 +22,7 @@ To promote and build the Research Software Engineering Community and Profession 
 
 ## Our activities
 
-We have conducted and continue to conduct various online community activities:
-- Celebrated one year of our launch on the Second International RSE Day, which was on the second Thursday of the month of October 2022.
-- Participated in [Hacktoberfest 2022](https://twitter.com/RSE_Asia/status/1575544127219200000?s=20&t=eTrlKiUu2VveIobfhMH9Og) during the month of October 2022.
-- Formed a working group in 2022.
-- Conducted an online workshop for teaching alt text skills (2022).
-- At our launch event we conducted activities for contributing to [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/). The launch event was fully online.
+Please see the details on our [Events](https://rse-asia.github.io/RSE_Asia/events.html) page.
 
 ## Code of Conduct
 
