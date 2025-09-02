@@ -83,6 +83,23 @@
     "input_file": {}
   },
   {
+    "path": "events/2023-10-26-Community_Call_Pieter_van_der_Hijden/",
+    "title": "The Quest for the Data Workbench",
+    "description": "RSE Asia Community Call: Guest - Pieter van der Hijden.",
+    "author": [],
+    "date": "2023-10-26",
+    "categories": [
+      "Research Software Engineering",
+      "Alt-text",
+      "Accessibility",
+      "Illustration"
+    ],
+    "contents": "\nCommunity call: Guest - Pieter van der Hijden\nPieter van der Hijden is an international management consultant specializing in “ICT for Sustainable Development Goals (SDGs).” His expertise lies in gaming and simulation, digital making (including fab labs and STEM learning), and e-learning (distance learning, Moodle). Pieter is based in Amsterdam, The Netherlands, and operates from his own consultancy, Sofos Consultancy. He has set up two fab labs in Suriname and does volunteer work in the global fab lab network, especially around Fablabs & SDGs.\nDuring this Community Call, Pieter will share his insights on “The Quest for the Data Workbench: How to bridge the gap between the Sustainable Development Goals (SDGs) and the Fablab/Maker Movement?”\nMore information\nLearn more about Pieter van der Hijden on his LinkedIn profile: Pieter van der Hijden\nExplore the Fab Foundation: Fab Foundation\nWhen: Thursday, 26th October 2023, 8:00 AM - 9:00 AM UTC\nWhere: Online\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-09-02T14:18:51+01:00",
+    "input_file": "community_call_pieter.knit.md"
+  },
+  {
     "path": "events/2022-07-08-Alt_Text_SPEC/",
     "title": "Writing alt-text for scientific diagrams",
     "description": "In this event, we will discuss how to write effective alt-text for scientific diagrams. We will cover best practices, common pitfalls, and tools that can help you create accessible content.",
