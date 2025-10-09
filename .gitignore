@@ -5,3 +5,10 @@
 /resources/
 public/
 assets/jsconfig.json
+_blog/
+_events/
+_talks/
+
+.Rproj.user
+.Rhistory
+docs/
