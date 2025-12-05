@@ -56,4 +56,28 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title: "Connect with us"
+      subtitle: ""
+      text: |
+        <p align="center">
+          <a href="https://github.com/rse-asia/RSE_Asia" target="_blank" title="GitHub">
+            <i class="fab fa-github fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="mailto:rse.asia.association@gmail.com" target="_blank" title="Email">
+            <i class="fas fa-envelope fa-2x" style="margin: 0 15px;"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" title="LinkedIn">
+            <i class="fab fa-linkedin fa-2x" style="margin: 0 15px;"></i>
+          </a>        
+        </p>
+    design:
+      background:
+        color: "#ffffff"
+        text_color_light: false
+      spacing:
+        padding: ["3rem", "1rem"]  
+  
 ---
