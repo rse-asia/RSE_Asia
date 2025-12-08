@@ -67,6 +67,8 @@ In general, I have observed that RSEng is gaining recognition in broader convers
 **Acknowledgements:**
 _This blog post has benefitted from the suggestions and feedback by [Michelle Barker](https://www.linkedin.com/in/michelledbarker/) and [Paula Andrea Martinez](https://www.linkedin.com/in/pambio/)._
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:

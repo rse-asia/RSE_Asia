@@ -94,6 +94,8 @@ With that, I am concluding this blog until next time …
 
 ![*Wat Pho, also known as the Temple of the Reclining Buddha*](wat_pho_temple_1.jpg)
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:

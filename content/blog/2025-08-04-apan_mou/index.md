@@ -35,6 +35,8 @@ The MoU outlines several key areas of collaboration between RSE Asia and APAN. W
 
 To stay updated on what’s next, follow our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)!
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
