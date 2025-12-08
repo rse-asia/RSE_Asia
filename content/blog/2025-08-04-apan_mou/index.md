@@ -1,0 +1,46 @@
+---
+title: "RSE Asia signs its first MoU"
+subtitle: "This blog shares the exciting news of RSE Asia signing its first Memorandum of Understanding (MoU) with the Asia Pacific Advanced Network (APAN) to promote Research Software Engineering (RSE) in the Asia-Pacific region."
+date: 2025-09-02
+authors:
+  - "Jyoti Bhogal"
+categories:
+  - Research Software Engineering
+  - National Research and Education Network 
+  - NREN
+  - Community Building
+  - MoU
+summary: "This blog shares the exciting news of RSE Asia signing its first Memorandum of Understanding (MoU) with the Asia Pacific Advanced Network (APAN) to promote Research Software Engineering (RSE) in the Asia-Pacific region."
+image:
+  preview_only: true
+  filename: "RSE_Asia_APAN_MoU.png"  # This is the image file placed in static/media/
+draft: false
+---
+
+![*Image: RSE Asia and APAN signing the MoU.*](RSE_Asia_APAN_MoU.png)
+
+At the 60th meeting of the [Asia Pacific Advanced Network (APAN60)](https://apan60.apan.net/) in Hong Kong, the RSE Asia Association officially signed its first-ever Memorandum of Understanding (MoU) with the [Asia Pacific Advanced Network (APAN)](https://apan.net/). At the signing, the RSE Asia Association was represented by our Co-Founder Jyoti Bhogal and the Asia Pacific Advanced Network was represented by the Chair of the APAN Board of Directors, Prof. Dr. Shinji Shimojo.
+
+## What is APAN?
+
+The Asia Pacific Advanced Network (APAN) is the international partnership of the National Research and Education Networks NRENs connecting communities across the Asia-Pacific region. APAN provides a platform for collaboration, knowledge sharing, and the development of advanced networking technologies to support research and education.
+
+## What does this MoU mean for RSE Asia?
+
+This collaboration marks an exciting step forward for our volunteer-driven community, committed to raising awareness and building capacity in research software engineering (RSE) across Asia. With APAN’s extensive network of research and education stakeholders primarily focused around the Asia-Pacific and RSE Asia’s growing grassroots community, this collaboration opens up new opportunities to support researchers and software engineers alike within the region.
+
+## Next steps
+
+The MoU outlines several key areas of collaboration between RSE Asia and APAN. We’re excited to begin this journey together and look forward to co-developing initiatives that benefit the research software engineering community in Asia!
+
+To stay updated on what’s next, follow our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)!
+
+### **Learn More About Us**
+
+For more information and to join upcoming events, visit:
+
+#### RSE Asia
+
+-   Website: <https://rse-asia.github.io/RSE_Asia/>
+-   For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
+-   To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
