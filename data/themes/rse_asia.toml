@@ -1,0 +1,18 @@
+# Theme metadata
+name = "rse_asia"
+
+[light]
+  # Primary
+  primary = "#510633"
+
+  # Menu
+  menu_primary = "#6a1f4d"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#6b0344"
+
+  link = "#b77395"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(202,192,193)"

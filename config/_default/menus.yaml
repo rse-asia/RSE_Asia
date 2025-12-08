@@ -25,3 +25,13 @@ main:
   - name: Contact
     url: contact
     weight: 80
+
+  - name: "<i class='fab fa-github fa-2x'></i>"
+    url: https://github.com/rse-asia/RSE_Asia
+    weight: 90
+  - name: "<i class='fas fa-envelope fa-2x'></i>"
+    url: mailto:rse.asia.association@gmail.com
+    weight: 100
+  - name: "<i class='fab fa-linkedin fa-2x'></i>"
+    url: https://www.linkedin.com/company/rse-asia-association/
+    weight: 110
