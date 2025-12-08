@@ -127,6 +127,8 @@ RSE コミュニティは、包括性を重視するコミュニティです。
 
 最後に、RSEAA を運営してくださった主催者の皆様に感謝いたします。
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:

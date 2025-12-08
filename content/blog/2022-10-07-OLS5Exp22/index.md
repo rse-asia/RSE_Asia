@@ -73,6 +73,8 @@ And our contact details are shown herewith. You can get in touch with us via our
 You can also visit our website, YouTube channel or our GitHub page.
 Thank you!!!
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
