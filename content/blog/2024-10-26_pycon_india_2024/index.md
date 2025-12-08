@@ -99,6 +99,8 @@ Saptak also recommended several excellent learning resources, such as [Adrian Ro
 
 The PyCon India 2024 concluded with the DevSprints, marking an incredibly immersive learning experience for me. The Closing Ceremony featured two beat-box artists who entertained us, adding a refreshing twist to the event. I also had the pleasure of meeting [Tanvi Agarwal](https://www.linkedin.com/in/tanvi-agarwal-sillystrokes/), a digital illustrator who provides live transcription of talks, which I found truly inspiring. A big thank you to the entire PyCon India volunteer organizing team for once again delivering a fantastic conference\!
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
