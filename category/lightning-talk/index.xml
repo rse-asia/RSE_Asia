@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lightning Talk | RSE Asia Association</title><link>https://rse-asia.github.io/RSE_Asia/category/lightning-talk/</link><atom:link href="https://rse-asia.github.io/RSE_Asia/category/lightning-talk/index.xml" rel="self" type="application/rss+xml"/><description>Lightning Talk</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://rse-asia.github.io/RSE_Asia/media/icon_hu11734318148517933569.png</url><title>Lightning Talk</title><link>https://rse-asia.github.io/RSE_Asia/category/lightning-talk/</link></image><item><title>Insights from My Experience at PyCon India 2024</title><link>https://rse-asia.github.io/RSE_Asia/blog/2024-10-26_pycon_india_2024/</link><pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2024-10-26_pycon_india_2024/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Jyoti Bhogal with the PyCon India 2024 Banner" srcset="
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/cover_image_Jyoti_conf_banner_hu4533281636997668804.webp 400w,
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/cover_image_Jyoti_conf_banner_hu17244280389917822082.webp 760w,
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/cover_image_Jyoti_conf_banner_hu17295497999774588961.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2024-10-26_pycon_india_2024/cover_image_Jyoti_conf_banner_hu4533281636997668804.webp"
+width="760"
+height="701"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The PyCon India 2024 conference, held from September 20-23 at the NIMHANS Convention Center in Bengaluru, brought together a vibrant mix of sessions designed for learning, engagement, and networking. I experienced a diverse lineup, including keynotes, technical talks, hands-on workshops, lightning talks, poster sessions, and open forums (birds of feather (BoF) sessions). Sponsor stalls added to the excitement, and the open spaces allowed for spontaneous interactions, adding to the conference&amp;rsquo;s lively atmosphere. Celebrating its 15th anniversary this year, PyCon India 2024 marked my second time attending, following my first experience at PyCon India 2023 in Hyderabad.&lt;/p>
+&lt;h2 id="lightning-talks">Lightning Talks&lt;/h2>
+&lt;p>I had the opportunity to present a Lightning Talk titled &lt;em>&amp;ldquo;Accelerating India&amp;rsquo;s Open Science Journey with Python.&amp;rdquo;&lt;/em> In my session, I introduced the audience to the concept of open science, highlighting its importance for India, exploring its four foundational pillars, and demonstrating how Python plays a vital role in advancing open science efforts. The talk was well-received, and you can view the slides on &lt;a href="https://zenodo.org/records/13826028" target="_blank" rel="noopener">Zenodo&lt;/a>.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="My Lightning Talk" srcset="
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/lightning_talk_collage_hu15859592698995382157.webp 400w,
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/lightning_talk_collage_hu10090254969128491612.webp 760w,
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/lightning_talk_collage_hu15857847507574625132.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2024-10-26_pycon_india_2024/lightning_talk_collage_hu15859592698995382157.webp"
+width="760"
+height="361"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Click below to view video:&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lX896C6QUsE?si=3RwkwLRfNdqWATzb&amp;amp;start=1060" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;h2 id="keynotes">Keynotes&lt;/h2>
+&lt;p>The conference featured four insightful keynotes:&lt;/p>
+&lt;ol>
+&lt;li>&lt;a href="https://kovidgoyal.net/" target="_blank" rel="noopener">Kovid Goyal&lt;/a> presented &lt;em>&amp;ldquo;Making Python Programs Fast,&amp;rdquo;&lt;/em> where he shared in-depth techniques to optimize Python performance using C language.&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/usha-rengaraju-b570b7a2/" target="_blank" rel="noopener">Usha Rengaraju&lt;/a> spoke on &lt;em>&amp;ldquo;AI for Autism,&amp;rdquo;&lt;/em> shedding light on neurodiversity and the potential of AI in autism research.&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/mars-lee/" target="_blank" rel="noopener">Mars Bar Lee&lt;/a> explored &lt;em>&amp;ldquo;How Open-Source Opened My Opportunities,&amp;rdquo;&lt;/em> highlighting how contributions to open-source projects can extend beyond code, such as her technical illustrations for NumPy.&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/dontusethiscode/" target="_blank" rel="noopener">James Powell&lt;/a> delivered a creative talk, &lt;em>&amp;ldquo;How Many Oranges?&amp;rdquo;&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;p>Each keynote brought valuable perspectives, and Mars Bar Lee’s emphasis on non-code contributions was particularly interesting. I got to meet Mars in-person, after having met online previously for a workshop on importance of alt text with images for improving digital accessibility.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="L-R: Mars, Unicorn, me, and NumPy comics" srcset="
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/Mars_Jyoti_Unicorn_NumPy_Comics_hu7434170445446112914.webp 400w,
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/Mars_Jyoti_Unicorn_NumPy_Comics_hu9277460117172359375.webp 760w,
+/RSE_Asia/blog/2024-10-26_pycon_india_2024/Mars_Jyoti_Unicorn_NumPy_Comics_hu3108070987124473988.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2024-10-26_pycon_india_2024/Mars_Jyoti_Unicorn_NumPy_Comics_hu7434170445446112914.webp"
+width="760"
+height="429"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="workshops">Workshops&lt;/h2>
+&lt;p>The first day had 3-hour workshops going on in three tracks. I attended two immersive workshops:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Chat with Tables: Developing Q&amp;amp;A system on Tabular data using Code Generative LLMs by &lt;a href="https://www.linkedin.com/in/abhijeet-kumar-1aa8b0138/" target="_blank" rel="noopener">Abhijeet Kumar&lt;/a>&lt;/p>
+&lt;p>Abhijeet conducted a workshop about Generative AI powered by Large Language Models (LLMs) that are revolutionizing text, image, and video generation, as well as coding through enterprise solutions like GitHub Copilot, Google’s Gemini Code Assist, IBM’s Watsonx, and Amazon’s Q Developer. Abhijeet&amp;rsquo;s workshop focused on leveraging code-generating LLMs to enable non-technical users to generate Python code by using natural language queries, bridging the gap for business users who lack programming skills but need quick data insights. This solution is valuable for business users who often require ad-hoc analysis of tabular data but rely heavily on data teams. Abhijeet demonstrated a workflow to query tabular data, generate insights from CSVs, and enhance natural language querying (NLQ) through techniques like few-shot prompting, pruning, and validation. Additionally, the session included setting up a streamlined process for building Q&amp;amp;A systems for tabular data and creating a Streamlit app, making data insights more accessible to non-technical analysts.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>From Zero to Backend Hero: Creating Full-Featured Apps with FastAPI by &lt;a href="https://www.linkedin.com/in/vivek-keshore/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&amp;amp;originalSubdomain=in" target="_blank" rel="noopener">Vivek Keshore&lt;/a>&lt;/p>
+&lt;p>Vivek started by interacting with the audience to gather basic information like what an API is, the different types of APIs, and the various types of calls. Vivek discussed the benefits of using FastAPI. He went on to discuss database design. Vivek discussed about implementation of Pydantic models and the development of user management APIs.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="pyladies-luncheon">PyLadies Luncheon&lt;/h2>
+&lt;p>The PyLadies Luncheon was a personal highlight during the conference. Women attendees gathered to share their experiences, openly discussing the challenges they face related to diversity and inclusivity in their workplaces and how they’ve overcome these obstacles over time. Hearing these stories and learning about the resilience and strategies of others was truly inspiring and energizing for me.&lt;/p>
+&lt;h2 id="sponsor-stalls">Sponsor Stalls&lt;/h2>
+&lt;p>The conference featured several sponsor stalls, and one that stood out to me was the &lt;a href="https://www.linkedin.com/company/npci/" target="_blank" rel="noopener">National Payments Corporation of India (NPCI)&lt;/a>, an umbrella organization for retail payments and settlement systems in India. I was intrigued to learn how their payments ecosystem is entirely open-source, with data storage managed on-premises instead of on Cloud platforms. Additionally, they introduced me to UPI payments that can be made via phone call or SMS, allowing transactions without an internet connection.&lt;/p>
+&lt;h2 id="devsprints">DevSprints&lt;/h2>
+&lt;p>The DevSprint was a one-day event featuring around 20 different projects. The day began with core contributors providing an overview of their respective projects, allowing participants to choose any project they were interested in contributing to. Among the various projects, I found myself particularly drawn to Django and NumPy.&lt;/p>
+&lt;p>I opted to join the &lt;a href="https://github.com/numpy/numpy" target="_blank" rel="noopener">NumPy&lt;/a> DevSprint, facilitated by technical illustrator Mars Bar Lee and NumPy core contributor &lt;a href="https://github.com/seberg" target="_blank" rel="noopener">Sebastian Berg&lt;/a>. They introduced all the contributors to the NumPy project, outlining various ways to engage with the community through community calls, mailing lists, and comics, as well as how to contribute effectively. If you&amp;rsquo;re interested in contributing to NumPy, you can refer to the &lt;a href="https://github.com/numpy/numpy/blob/main/CONTRIBUTING.rst" target="_blank" rel="noopener">Contributing Guidelines&lt;/a> for more information.&lt;/p>
+&lt;p>I had the opportunity to attend an open session led by &lt;a href="https://www.linkedin.com/in/saptaks/" target="_blank" rel="noopener">Saptak S.&lt;/a>, where participants discussed the nuances of digital accessibility, particularly in website development. The discussion covered essential points such as ensuring adequate contrast between text and background colors, structuring headings (H1, H2, H3, etc.) correctly, and guidelines for including appropriate details in the alt text for images. I discovered several valuable online resources to check and test webpage accessibility, including:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.a11yproject.com/checklist/" target="_blank" rel="noopener">A11y Project&lt;/a>: A checklist for assessing accessibility levels.&lt;/li>
+&lt;li>&lt;a href="https://www.deque.com/axe/devtools/" target="_blank" rel="noopener">axe DevTools&lt;/a>: A tool that evaluates whether a website complies with accessibility guidelines, available as an extension for Chrome, Firefox, and MS Edge browsers.&lt;/li>
+&lt;li>&lt;a href="https://wave.webaim.org/" target="_blank" rel="noopener">WAVE&lt;/a>: A tool that highlights areas of a website that are well or poorly designed regarding accessibility. WAVE also offers extensions for Chrome, Firefox, and MS Edge browsers.&lt;/li>
+&lt;li>&lt;a href="https://www.buttoncheatsheet.com/" target="_blank" rel="noopener">The Button Cheat Sheet&lt;/a>: A resource to determine if buttons on a website&amp;rsquo;s UI are designed effectively.&lt;/li>
+&lt;li>&lt;a href="https://webaim.org/projects/million/" target="_blank" rel="noopener">The WebAIM Million&lt;/a>: The 2024 report on the accessibility of the top 1,000,000 home pages.&lt;/li>
+&lt;/ul>
+&lt;p>We discussed key considerations for developers when creating digitally accessible web pages. For instance, keyboard navigation is crucial for individuals with visual impairments or otherwise while working with a document by using only the keyboard, necessitating a logical heading structure (e.g., H1 followed by H2, and so on). It’s important to avoid jumping from say, H1 to H4, as this can confuse users.&lt;/p>
+&lt;p>In terms of coding practices, developers should specify the document language by adding the ‘lang’ attribute. This helps indicate which programming language is being used for different sections of the website. Additionally, tools like &lt;a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank" rel="noopener">JAWS&lt;/a> provide voice assistance to help developers ensure accessibility standards are met.&lt;/p>
+&lt;p>During Continuous Integration (CI), it’s essential for developers to incorporate these accessibility guidelines into their workflows.&lt;/p>
+&lt;p>Saptak also recommended several excellent learning resources, such as &lt;a href="https://adrianroselli.com/tag/accessibility" target="_blank" rel="noopener">Adrian Roselli’s&lt;/a> articles on accessibility issues, conference talks from experts in digital accessibility, and a helpful site for determining whether to use a carousel post: &lt;a href="https://shouldiuseacarousel.com/" target="_blank" rel="noopener">Should I Use a Carousel?&lt;/a>&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>The PyCon India 2024 concluded with the DevSprints, marking an incredibly immersive learning experience for me. The Closing Ceremony featured two beat-box artists who entertained us, adding a refreshing twist to the event. I also had the pleasure of meeting &lt;a href="https://www.linkedin.com/in/tanvi-agarwal-sillystrokes/" target="_blank" rel="noopener">Tanvi Agarwal&lt;/a>, a digital illustrator who provides live transcription of talks, which I found truly inspiring. A big thank you to the entire PyCon India volunteer organizing team for once again delivering a fantastic conference!&lt;/p>
+&lt;h3 id="learn-more-about-us">&lt;strong>Learn More About Us&lt;/strong>&lt;/h3>
+&lt;p>For more information and to join upcoming events, visit:&lt;/p>
+&lt;h4 id="rse-asia">RSE Asia&lt;/h4>
+&lt;ul>
+&lt;li>Website: &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">https://rse-asia.github.io/RSE_Asia/&lt;/a>&lt;/li>
+&lt;li>For the latest news, events, activities, and opportunities, follow us on our &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">LinkedIn page&lt;/a>&lt;/li>
+&lt;li>To join the RSE Asia community, please fill out our short &lt;a href="https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit" target="_blank" rel="noopener">Community Membership Form&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
