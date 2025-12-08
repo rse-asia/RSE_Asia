@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: RSE Asia Association # Website name
+subtitle: Our website is under migration. Watch out this space for more soon!
 baseURL: 'https://example.com/' # Website URL
 
 ############################
