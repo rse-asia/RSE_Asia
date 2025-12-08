@@ -3,7 +3,7 @@ title: "Enabling Open Science Through Research Code: Insights from Episode 5 - T
 subtitle: "This is a blog sharing insights from Episode 5 of the Community Conversation series 'Enabling Open Science Through Research Code'."
 date: 2025-03-20
 authors:
-  - "Jyoti Bhogal"
+  - "Anelda van der Walt, Saranjeet Kaur Bhogal, Abhishek Dasgupta, Sheena O’Connell, Mireille Grobbelaar, Jyoti Bhogal"
 categories:
   - Research Software Engineering
   - Open Science
