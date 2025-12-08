@@ -9,7 +9,7 @@
 
 # RSE Asia
 
-![RSE_ASIA_logo](images/RSE_ASIA.png)
+![RSE_ASIA_logo](RSE_ASIA.png)
 
 
 ## About us
