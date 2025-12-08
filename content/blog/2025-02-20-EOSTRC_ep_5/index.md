@@ -1,0 +1,155 @@
+---
+title: "Enabling Open Science Through Research Code: Insights from Episode 5 - Testing Research Code"
+subtitle: "This is a blog sharing insights from Episode 5 of the Community Conversation series 'Enabling Open Science Through Research Code'."
+date: 2025-03-20
+authors:
+  - "Jyoti Bhogal"
+categories:
+  - Research Software Engineering
+  - Open Science
+  - Coding
+  - Community Building
+  - Experience Blog
+  - Software Testing
+summary: "This is a blog sharing insights from Episode 5 of the Community Conversation series 'Enabling Open Science Through Research Code'."
+image:
+  preview_only: true
+  filename: "banner_episode_5.png"
+draft: false
+---
+
+![Episode 5 banner](banner_episode_5.png)
+
+## **Introduction**
+
+In the world of research software development, **ensuring that code runs correctly and produces reliable results is crucial**. However, **software testing is often overlooked,** particularly in academic settings where researchers may lack formal training in programming best practices. This challenge was a central theme in the recent discussion during episode 5 of our six-part series *"Enabling Open Science Through Research Code",* where experts from diverse backgrounds shared their experiences and insights on making software testing accessible and effective.
+
+During the session, panellists emphasised that while research software development is often self-taught, adopting best practices such as software testing can improve both individual efficiency and collaboration. One of the mantras that continuously came up in the different episodes is that 
+
+> We should be our own best collaborators first.
+
+Episode 5 once again showed how *good coding practices can benefit the coder as much as other contributors, collaborators, and users*. This post summarises the discussion, highlighting practical tips for beginners and more advanced strategies for experienced developers.
+
+Our wonderful speakers included:
+
+* [Abhishek Dasgupta](https://orcid.org/0000-0003-4420-0656), Senior Research Software Engineer at Oxford Research Software Engineering group, University of Oxford, UK  
+* [Saranjeet Kaur Bhogal](https://www.linkedin.com/in/saranjeet-k-48ab769b/), Research Software Engineer at Imperial College London, UK and co-founder of the RSE Asia Association  
+* [Sheena O'Connell](https://www.linkedin.com/in/sheena-o-connell-0bb72527/), Software developer, founder and trainer at Prelude, South Africa
+
+## **Tips, Tools, and Practices for Novices**
+
+If you're new to coding or research software development, software testing may seem like an advanced topic. However, as our panellists suggest, starting with simple practices can make a big difference in the reliability of your code.
+
+### **1\. Start with Assertions**
+
+* Assertions are a lightweight way to check that your code behaves as expected. Sheena shared an example from her experience, explaining how beginners often overlook errors that could easily be caught by using `assert` statements in Python.  
+* Assertions act as built-in sanity checks and can help catch errors early before they lead to misleading research results.
+
+### **2\. Use Smoke Testing**
+
+* Simply running your code from start to finish to ensure it doesn’t crash is an easy way to catch obvious issues. Sheena described this as a useful technique for those who may not yet have structured testing frameworks in place.  
+* Automated tools like `nbval` can help validate Jupyter Notebooks by checking that expected outputs remain consistent, an approach that Abhishek recommended.
+
+### **3\. Learn Basic Unit Testing**
+
+* Unit tests check individual functions or small sections of code. Abhishek stressed that even a simple test like `assert 2 + 3 == 5` is a great first step.  
+* In Python, `pytest` is a lightweight and easy-to-use testing framework, whereas in R, `testthat` provides a simple way to implement tests within research code.
+
+### **4\. Keep Code Modular**
+
+* Writing functions instead of long scripts makes it easier to test individual components. As Sheena pointed out, “Untested code is brittle.” Structuring code into reusable functions makes adding tests more straightforward.
+
+### **5\. Automate Where Possible**
+
+* Using GitHub Actions or other Continuous Integration (CI) tools can automate testing whenever you update your code. Abhishek mentioned that CI is a great way to ensure code works across multiple platforms, which is particularly helpful when collaborating with researchers using different operating systems.  
+* For R users, the {`usethis}` package simplifies the workflow setup, automating repetitive tasks (for both R packages as well as non-package projects), as suggested by Saranjeet. She also recommended using the {`fusen}` package for anyone new to R package development (and also for experienced developers while they are prototyping functions) as it involves writing the function as well as its documentation and unit tests in the same file, avoiding the risk of forgetting crucial steps. 
+
+![Testing Software, ](testing_software.jpg)
+[Image Credits:Torsten Zelger](https://www.softwaretestpro.com/category/cartoon/)
+
+## **Approaches to Software Testing for Experienced Developers**
+
+For those already familiar with software development, a more structured approach to testing can improve reproducibility and collaboration. The panellists discussed key strategies for advanced users, including:
+
+### **1. Different Types of Testing**
+
+* **Unit Testing**: Ensures small, isolated parts of the code work as expected.  
+* **Integration Testing**: Checks if different parts of the system function correctly together. Abhishek highlighted the importance of this, noting that end-to-end validation is often overlooked in research projects.  
+* **Regression Testing**: Ensures new changes don’t break existing functionality, an approach Sheena described as essential for long-term code maintenance.  
+* **Property-Based Testing**: Uses tools like `hypothesis` in Python to test code with a range of inputs, uncovering unexpected behaviours. Abhishek noted this as particularly useful for numerical research software.
+
+### **2. Version Control and CI/CD**
+
+* **Git and GitHub/GitLab**: Version control helps track changes, making it easier to debug issues. Sheena emphasised that "researchers who don't use version control end up with folders full of files like `final_version_revised_final_final.py`, which is a nightmare to maintain."  
+* **Continuous Integration (CI)**: Running tests automatically on GitHub ensures all code changes are validated before being merged. Abhishek explained that setting up CI allows researchers to avoid relying on manual testing across different machines.
+
+### **3. Cross-Platform Testing**
+
+* Researchers often work across different operating systems. Automating tests in cloud environments ensures compatibility with Windows, macOS, and Linux.  
+* Tools like `tox` or `nox` (Python) allow testing across multiple versions of a language. Abhishek highlighted that CI workflows, once set up, eliminate the need to manually ask colleagues to test code on different platforms.
+
+### **4. Automating Data Validations**
+
+* Data quality is critical in research. Sheena introduced `pandera` in Python, a tool that helps verify data integrity and data schemas before analysis.  
+* Statistical validation using libraries like `scipy.stats` can confirm that distributions match expected properties, an approach recommended for data-intensive projects.
+
+### **5. Balancing Testing with Research Deadlines**
+
+* Writing tests may seem like extra work, but it prevents time-consuming debugging later. Abhishek acknowledged that "getting 100% test coverage is impractical for most research projects, but basic integration tests should be a minimum."  
+* Using automated tools like R’s `targets` package helps manage computational workflows efficiently, only re-running necessary parts of the code. Saranjeet recommended this as a time-saving approach for researchers handling large datasets.
+
+## **Conclusion**
+
+Software testing is not just for professional developers—it is an essential practice for research reproducibility and collaboration. While beginners can start with simple assertions and unit tests, advanced users can implement continuous integration, property-based testing, and automated data validation to ensure code reliability.
+
+As Anelda concluded, 
+
+> Testing is not just about making research more open; it’s about being your own best > collaborator. 
+
+By integrating these testing strategies into research software development, we can move toward a more open, transparent, and reliable scientific ecosystem.
+
+📢 **Explore More:**
+
+Access our [Resource Sheet](https://zenodo.org/records/14961866), which contains numerous valuable resources shared by the panellists, facilitators, and participants. 
+
+View the [session recording](https://www.youtube.com/watch?v=Q_x5SFrkol4&t=9s) on YouTube.
+
+*The first draft of this blog post was created with ChatGPT from the edited video transcript.*
+
+### **Looking Ahead**
+
+The next episode in the series, **"Research Software Funding"** will take place on **March 20, 2025, at 08:30 UTC.** Be sure to register [here](https://us06web.zoom.us/meeting/register/tZwodO2pqD0rGtUTKdPjxP2j2X1gFioPn2bo#/registration) and join the conversation\!
+
+This series is an excellent opportunity to learn, connect, and grow as we work together to enable open science \- one line of code at a time.
+
+*This meetup series is a collaboration between Talarify, RSSE Africa, RSE Asia, AREN, and ReSA.* 
+
+------------------------------------------------------------------------
+
+### **Learn More About Us**
+
+For more information and to join upcoming events, visit:
+
+#### RSSE Africa
+
+- Website: <https://rsse.africa>
+- Sign up for our newsletter: <https://talarify.us14.list-manage.com/subscribe?u=35d5db26d3b108b9ef9b9ac43&id=55e9f5a692>
+- Join our LinkedIn group, where you can also share information with the broader community: <https://www.linkedin.com/groups/12903402/>
+
+#### RSE Asia
+
+- Website: <https://rse-asia.github.io/RSE_Asia/>
+- For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
+
+#### AREN
+
+- Website: <https://africanrn.org/>
+- Sign up: <https://docs.google.com/forms/d/e/1FAIpQLSeeFkD5A4D9l6ncQWjKBiI-GqBOzL-JMe7Fx3ijUYEjHjDUoQ/viewform>
+
+#### ReSA
+
+- Website: <https://www.researchsoft.org/>
+- Sign up for the newsletter: <https://www.researchsoft.org/news/>
+- The [Amsterdam Declaration on Funding Research Software Sustainability](https://ogyaqy.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjc3ODEyOSxcImxcIjoxMzM1MDk5NDcxNDA4Njc3OTMsXCJyXCI6MTMzNTA5OTQ4NTg4OTUwNzkzfSIsInMiOiJiMTU2Y2FhYzI3YjQyZjI1In0)
+    - Become a signatory: <https://adore.software/sign/>
