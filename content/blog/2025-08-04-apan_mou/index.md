@@ -13,7 +13,7 @@ categories:
 summary: "This blog shares the exciting news of RSE Asia signing its first Memorandum of Understanding (MoU) with the Asia Pacific Advanced Network (APAN) to promote Research Software Engineering (RSE) in the Asia-Pacific region."
 image:
   preview_only: true
-  filename: "RSE_Asia_APAN_MoU.png"  # This is the image file placed in static/media/
+  filename: "RSE_Asia_APAN_MoU.png"
 draft: false
 ---
 
