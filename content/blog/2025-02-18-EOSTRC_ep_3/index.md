@@ -3,7 +3,7 @@ title: "Enabling Open Science through Research Code: Insights from Episode 3 - O
 subtitle: "This is a blog sharing insights from Episode 3 of the Community Conversation series 'Enabling Open Science Through Research Code'"
 date: 2025-02-18
 authors:
-  - "Jyoti Bhogal"
+  - "Anelda van der Walt, Jyoti Bhogal"
 categories:
   - Research Software Engineering
   - Open Science
