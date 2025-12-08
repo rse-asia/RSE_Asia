@@ -1,0 +1,98 @@
+---
+title: "Enabling Open Science Through Research Code: Insights from Episode 1 - Conversations with Researchers Who Code"
+subtitle: "This is a blog sharing insights from Episode 1 of the Community Conversation series 'Enabling Open Science Through Research Code'"
+date: 2024-10-29
+authors:
+  - "Jyoti Bhogal, Mireille Grobbelaar, Anelda van der Walt, Saranjeet Kaur Bhogal"
+categories:
+  - Research Software Engineering
+  - Open Science
+  - Coding
+  - Community Building
+  - Experience Blog
+  - Software Testing
+summary: "This is a blog sharing insights from Episode 1 of the Community Conversation series 'Enabling Open Science Through Research Code'."
+image:
+  preview_only: true
+  filename: "banner_episode_1.png"
+draft: false
+---
+
+![Episode 1 banner](banner_episode_1.png)
+
+On **October 10, 2024**, the first episode of the ‘Enabling Open Science Through Research Code’ community conversation took place. The topic for the first episode was ‘Conversations with Researchers Who Code’ focusing on the pivotal role of research software in enabling open science. The event was hosted by **RSSE Africa** and the **RSE Asia Association.** It aimed to bring together researchers from various disciplines to share their experiences of coding, collaboration, and the challenges they face as they navigate the world of open science. This episode was a part of the celebration for **International Research Software Engineer (RSE) Day**, bringing attention to the growing importance of RSEs in research.
+
+### **Session Overview**
+
+The session kicked off with facilitators [**Anelda van der Walt**](https://www.linkedin.com/in/aneldavanderwalt/) and [**Saranjeet Kaur**](https://www.linkedin.com/in/saranjeet-k-48ab769b/) welcoming participants and introducing the co-facilitators [**Jyoti Bhogal**](https://www.linkedin.com/in/jyoti-bhogal/) and [**Mireille Grobbelaar**](https://www.linkedin.com/in/mireille-grobbelaar/). This diverse team set the stage for a lively discussion with four distinguished speakers: [**Dr. Biandri Joubert**](https://www.linkedin.com/in/biandri-joubert-phd-8270763b/), [**Dr. Gaurav Bhalerao**](https://www.linkedin.com/in/gauravbhalerao/), [**Mahmoud Abdelrazek**](https://www.linkedin.com/in/razekmh/)**,** and [**Prasad Sutar**](https://www.linkedin.com/in/prasadsutar11/). The session had around 30 participants from all across the world.
+
+### **Introductions & Open Science Insights**
+
+After a warm welcome, the conversation shifted to the core topic: **open science** and the importance of research software and systems as described in the **UNESCO Open Science Recommendations**. The facilitators invited the speakers to share their academic backgrounds, work experiences, and current roles, giving the audience a sense of the various pathways that lead them into the world of research software coding.
+
+Some of the key questions posed to the speakers included:
+
+- What did you study, and where?\
+- Do you have postgraduate qualifications?\
+- What is your current role, and how does coding feature in your work?
+
+This introduction provided a backdrop to understand how the speakers’ careers evolved, and how their coding skills were developed to support their research or that of others at the organisation where they work.
+
+### **Panel Discussion: The Life of a Researcher Who Codes**
+
+The heart of the session was a **panel discussion** where the speakers delved deeper into the realities of research coding. Some highlights from the discussion include:
+
+- **Dr. Gaurav Bhalerao** explained how coding forms an integral part of his day-to-day activities, particularly in structuring large datasets for neuroscience research. He also shared the challenges of balancing coding with research responsibilities.\
+- **Mahmoud Abdelrazek** talked about his work in geospatial analysis and how his team collaborates on coding projects. He highlighted the collaborative nature of his work, where coding is not only a personal skill but also a shared responsibility within his research group.\
+- **Dr. Biandri Joubert** touched on the challenges of being the sole programmer in her group and how she overcomes the feeling of isolation by participating in coding communities and seeking support from platforms like the **Carpentries**.\
+- **Prasad Sutar** discussed his experience with developing software that is used by others and the importance of ensuring that his coding practices align with both the research objectives and software quality standards.
+
+The panel also explored whether all researchers should learn to code. They agreed that even if a researcher doesn’t need to code regularly, learning basic coding concepts is valuable. This foundational knowledge enables researchers to read and understand code at a high level, helping them grasp the algorithms or logic applied to address specific problem statements. A valuable analogy, comparing coding to medical training was suggested during the meetup. Just as it’s beneficial for everyone to learn basic first-aid, it’s useful for researchers to grasp fundamental coding concepts. Some may advance to become paramedics, equivalent to those using coding more regularly, while a few specialize deeply - similar to neurosurgeons or expert programmers. What are your thoughts? Should coding become a core skill for all researchers, or is it more practical to foster collaboration with coding specialists when needed?
+
+The panel also explored topics like the amount of time spent coding, the collaborative nature of research software projects, and the availability of support and training for researchers.
+
+### **Learning and Community Support**
+
+An essential part of the discussion revolved around the resources and communities that help researchers improve their coding skills. **Dr. Gaurav Bhalerao** recommended resources such as **Carpentries lessons** and online coding tutorials like **p5.js** for those starting out. The speakers emphasized the importance of continuous learning and staying connected with the global community through platforms like **RLadies**, **Quarto**, and others. To know about more resources please see the section **Resources and Links**.
+
+### **Q&A and Wrap-Up**
+
+The session concluded with a **Q&A** where participants posed questions about the pain points of learning to code, transitioning into a coding role from other fields, and how to stay updated with coding trends while maintaining research quality. One insightful comment came from **Dr. Biandri Joubert**, who emphasized that code that runs doesn’t always mean it’s correct, highlighting the critical need for combining coding skills with sound statistical knowledge.
+
+The facilitators wrapped up the event by sharing **resources from partners**, including RSSE Africa, RSE Asia, AREN, and ReSA, all of which provide platforms for collaboration, learning, and advocacy for the Research Software Engineering community.
+
+### **Resources and Links**
+
+- To access the wealth of resources shared in the session, visit our collection at [Zenodo](https://zenodo.org/records/13946139).
+
+For those who missed this enlightening conversation, a [recording of Episode 1](https://www.youtube.com/watch?v=UmSHhDVRGig) is available on the **RSSE Africa website**. Please remember to [register for **Episode 2**](https://us06web.zoom.us/meeting/register/tZcpcu-ppjstGNJwEt1aKRjR6r2aC7Q4qE9Y#/registration) of the series. The conversation continues, highlighting the essential role of research software engineering in advancing open science globally.
+
+------------------------------------------------------------------------
+
+### **Learn More About Us**
+
+For more information and to join upcoming events, visit:
+
+#### RSSE Africa
+
+- Website: <https://rsse.africa>
+- Sign up for our newsletter: <https://talarify.us14.list-manage.com/subscribe?u=35d5db26d3b108b9ef9b9ac43&id=55e9f5a692>
+- Join our LinkedIn group, where you can also share information with the broader community: <https://www.linkedin.com/groups/12903402/>
+
+#### RSE Asia
+
+- Website: <https://rse-asia.github.io/RSE_Asia/>
+- For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
+
+#### AREN
+
+- Website: <https://africanrn.org/>
+- Sign up: <https://docs.google.com/forms/d/e/1FAIpQLSeeFkD5A4D9l6ncQWjKBiI-GqBOzL-JMe7Fx3ijUYEjHjDUoQ/viewform>
+
+#### ReSA
+
+- Website: <https://www.researchsoft.org/>
+- Sign up for the newsletter: <https://www.researchsoft.org/news/>
+- The [Amsterdam Declaration on Funding Research Software Sustainability](https://ogyaqy.clicks.mlsend.com/ty/c/eyJ2Ijoie1wiYVwiOjc3ODEyOSxcImxcIjoxMzM1MDk5NDcxNDA4Njc3OTMsXCJyXCI6MTMzNTA5OTQ4NTg4OTUwNzkzfSIsInMiOiJiMTU2Y2FhYzI3YjQyZjI1In0)
+    - Become a signatory: <https://adore.software/sign/>
