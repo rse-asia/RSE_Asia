@@ -13,7 +13,7 @@ categories:
 summary: "This blog explores the author's thoughts on the potential role of National Research and Education Networks (NRENs) in promoting the growth of a Research Software Engineering (RSE) community in Asia-Pacific."
 image:
   preview_only: true
-  filename: "APAN55_RSEAsia_Nepal.png"  # This is the image file placed in static/media/
+  filename: "APAN55_RSEAsia_Nepal.png"
 draft: false
 ---
 

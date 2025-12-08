@@ -19,7 +19,7 @@ categories:
 summary: "In this blog, I walk you through my visit to the EPCC, University of Edinburgh where I was invited for a talk for my work towards the RSE Asia Association!"
 image:
   preview_only: true
-  filename: "epcc_jyoti_talk_title_slide.jpeg"  # This is the image file placed in static/media/
+  filename: "epcc_jyoti_talk_title_slide.jpeg" 
 draft: false
 ---
 
