@@ -83,6 +83,8 @@ The appreciative feedback encourages me to keep taking my research work further.
 
 1. Bhogal, J. (2025, March 3). Building Bridges: Advancing Research Software Engineering and Open Science in Asia. Zenodo. [https://doi.org/10.5281/zenodo.15180196](https://doi.org/10.5281/zenodo.15180196)
 
+------------------------------------------------------------------------
+
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
