@@ -1,6 +1,6 @@
 ---
 title: "Strategy and Policy Panel Discussion"
-subtitle: "Strategy and Policy Panel at RSE Asia Australia Unconference 2022."
+subtitle: "Strategy and Policy Panel at RSE Asia Australia Unconference 2023."
 date: 2023-09-13
 authors:
   - "Saranjeet Kaur Bhogal"
@@ -11,7 +11,7 @@ categories:
   - Panel Discussion
   - Strategy
   - Policy
-summary: "Strategy and Policy Panel at RSE Asia Australia Unconference 2022."
+summary: "Strategy and Policy Panel at RSE Asia Australia Unconference 2023."
 image:
   preview_only: true
   filename: "preview.png"
