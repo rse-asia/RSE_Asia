@@ -26,9 +26,9 @@ draft: false
 
 🔑 **Talk Resources:**
 
-1. Slides: Jyoti Bhogal, J. (2024, September 22). Accelerating India's Open Science Journey with Python. Zenodo. https://doi.org/10.5281/zenodo.13826028 
+1. **Slides:** Jyoti Bhogal, J. (2024, September 22). Accelerating India's Open Science Journey with Python. Zenodo. https://doi.org/10.5281/zenodo.13826028 
 
-2. Recording:
+2. **Recording:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lX896C6QUsE?si=3RwkwLRfNdqWATzb&amp;start=1060" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ------------------------------------------------------------------------
