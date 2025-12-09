@@ -1,5 +1,5 @@
 ---
-title: Funding for Research Software
+title: "Episode 6: Funding for Research Software"
 
 event: Enabling Research Code through Open Science (Joint series)
 event_url: https://example.org
