@@ -1,6 +1,6 @@
 ---
 title: "Accelerating India's Open Science Journey with Python"
-subtitle: " A Lightning Talk on 'Accelerating India's Open Science Journey with Python' at the PyCon India 2024 Conference."
+subtitle: "A Lightning Talk on 'Accelerating India's Open Science Journey with Python' at the PyCon India 2024 Conference."
 date: 2024-10-26
 authors:
   - "Jyoti Bhogal"
@@ -15,7 +15,7 @@ categories:
   - Bengaluru
   - India
   - In Person
-summary: " A Lightning Talk on 'Accelerating India's Open Science Journey with Python' at the PyCon India 2024 Conference."
+summary: "A Lightning Talk on 'Accelerating India's Open Science Journey with Python' at the PyCon India 2024 Conference."
 image:
   preview_only: true
   filename: "lit_talk_title.jpeg"
