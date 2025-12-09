@@ -18,20 +18,23 @@ main:
     weight: 50
   - name: Blogs
     url: blog
-    weight: 60        
+    weight: 60
+  - name: Get Involved
+    url: membership
+    weight: 70
   - name: Publications
     url: publication
-    weight: 70
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
 
   - name: "<i class='fab fa-github fa-2x'></i>"
     url: https://github.com/rse-asia/RSE_Asia
-    weight: 90
+    weight: 100
   - name: "<i class='fas fa-envelope fa-2x'></i>"
     url: mailto:rse.asia.association@gmail.com
-    weight: 100
+    weight: 101
   - name: "<i class='fab fa-linkedin fa-2x'></i>"
     url: https://www.linkedin.com/company/rse-asia-association/
-    weight: 110
+    weight: 112
