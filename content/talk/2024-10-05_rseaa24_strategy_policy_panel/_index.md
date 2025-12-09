@@ -23,6 +23,10 @@ draft: false
 
 ![Panel discussion at RSEAA24](RSEAA24_panel.png)
 
+🔑 **Talk Resources:**
+
+1. Slides: [Policy Panel Dicussion Document](https://docs.google.com/document/u/1/d/e/2PACX-1vQbwKTEiroaypgqbEqUQrmHBCsiBPaHUhsS8lJG9vIpgvt3lVlc8E0f8p7Cx62yWmAi-uXTOvqt4Abg/pub).
+
 ------------------------------------------------------------------------
 
 ### **Learn More About Us**
