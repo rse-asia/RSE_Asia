@@ -1,25 +1,23 @@
 ---
-title: "Navigating the Research Software Engineering Community Landscape in Asia"
-subtitle: "Talk presented at the 56th meeting of the Asia Pacific Advanced Network (APAN56) during 21-25 August 2023 at Colombo, Sri Lanka."
-date: 2023-08-21
+title: "Making research software reproducible and sustainable"
+subtitle: "Talk presented at the FAB23 Conference at the Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan (July 16-28, 2023)."
+date: 2023-07-16
 authors:
-  - "Saranjeet Kaur Bhogal"
+  - "Jyoti Bhogal"
 categories:
   - Research Software Engineering
   - Asia Pacific
   - Community Building
   - Open Science
-  - National Research and Education Network
-summary: "Talk presented at the 56th meeting of the Asia Pacific Advanced Network (APAN56) during 21-25 August 2023 at Colombo, Sri Lanka."
+  - Fab Labs
+summary: "Talk presented at the FAB23 Conference at the Jigme Namgyel Wangchuck Super FabLab, Thimphu, Bhutan (July 16-28, 2023)."
 image:
   preview_only: true
   filename: "preview.png"
 draft: false
 ---
 
-![Talk at APAN56 Conference](preview.png)
-
-------------------------------------------------------------------------
+![Talk at FAB23 Conference](preview.png)
 
 ### **Learn More About Us**
 
