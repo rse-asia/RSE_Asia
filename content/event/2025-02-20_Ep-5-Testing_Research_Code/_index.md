@@ -21,17 +21,17 @@ publishDate: '2017-01-01T00:00:00Z'
 authors:
     - "Jyoti Bhogal"
     - "Saranjeet Kaur Bhogal"
-tags:
-    - Research Software Engineering
-    - Open Science
-    - Software Testing
-    - Community Building
+tags: []
+#    - "Research Software Engineering"
+#    - "Open Science"
+#    - "Software Testing"
+#    - "Community Building"
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [Importance of code testing](https://unsplash.com/photos/black-flat-screen-computer-monitor-g5_rxRjvKmg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)" by [Artturi Jalli](https://unsplash.com/@artturijalli?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).'
+  caption: 'Image credit: [Colorful programming php and html code on a monitor](https://stock.adobe.com/az/contributor/205173064/cronislaw?load_type=author&prev_url=detail&asset_id=107962078) by [Cronislaw](https://stock.adobe.com/az/contributor/205173064/cronislaw?load_type=author&prev_url=detail).'
   focal_point: Right
 
 url_code: ''
