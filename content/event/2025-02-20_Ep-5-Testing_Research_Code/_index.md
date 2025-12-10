@@ -18,9 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors:
-    - "Jyoti Bhogal"
-    - "Saranjeet Kaur Bhogal"
+authors: []
 tags: []
 #    - "Research Software Engineering"
 #    - "Open Science"
@@ -53,6 +51,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+![Importance of code testing](testing_research_code.jpg)
+_"[A computer screen with a bunch of code](https://unsplash.com/photos/black-flat-screen-computer-monitor-g5_rxRjvKmg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)" by [Artturi Jalli](https://unsplash.com/@artturijalli?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) is licensed as free to use under the [Unsplash License](https://unsplash.com/license)._
 
 Have you ever written tests for your research code?
 
