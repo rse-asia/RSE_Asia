@@ -1,18 +1,16 @@
 ---
-title: "Hacktoberfest 2022"
+title: "Writing alt-text for scientific diagrams"
 
 event: 
 event_url: https://example.org
 
 location: Online
 
-summary: "Open-source community contributing hours during Hacktoberfest 2022."
-abstract: "Open-source community contributing hours during Hacktoberfest 2022."
-
+summary: "A workshop on writing effective alt-text for scientific diagrams."
+abstract: In this event, we will discuss how to write effective alt-text for scientific diagrams. We will cover best practices, common pitfalls, and tools that can help you create accessible content.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-01T08:30:00Z'
-date_end: '2022-10-31T09:30:00Z'
+date: '2022-07-08T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -48,18 +46,17 @@ slides:
 projects:
 ---
 
-![Hacktoberfest 2022](hacktoberfest2022.png)
-_Image: Hacktoberfest 2022_
+![Alt-text Workshop](Alt-Text_Workshop_RSE_Asian_and_SPEC.png)
+_Image: Alt-text Workshop._
 
-## Details
+# Workshop hosts:
 
-RSE Asia is participating in the month-long Hacktoberfest 2022 celebration and we are hosting Contributing Hours on each weekday of October 2022, from 8:30 - 9:30 hours UTC.
+- Mars Lee is a technical illustrator who contributes to data science software and open-source Python projects such as NumPy. She grew up in Singapore and rollerskates. 🛼
+- Isabela Presedo-Floyd (she/her) is a UX/UI designer in theory and professional question-asker in practice. She helps build open-source scientific software with an emphasis on improving the accessibility of communities and their tools.
 
-Are you newbie to open source and want some support to make your 1st contribution? Or you want to know more about us and contribute to our work?
+When: Friday, 8th July 2022, 13:00 UTC
 
-Then register for our Hacktoberfest 2022 Contributing Hours.
-
-Everyone is welcome to join, irrespective of your experience level with open source and your geographical location. 
+Where: Online
 
 ### **Learn More About Us**
 
