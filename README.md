@@ -22,7 +22,7 @@ To promote and build the Research Software Engineering Community and Profession 
 
 ## Our activities
 
-Please see the details on our [Events](https://rse-asia.github.io/RSE_Asia/events.html) page.
+Please see the details on our [Events](https://rse-asia.github.io/RSE_Asia/event) page.
 
 ## Code of Conduct
 
