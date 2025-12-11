@@ -45,12 +45,18 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '
+      <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #343a40; padding: 8px 0;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
+          © {year} Research Software Engineering Asia Association. This work is
+          <a href="/license" style="color: white; text-decoration: underline;">licensed</a> under CC BY 4.0 International.
+        </div>
+      </section>'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      share_alike: false
+      allow_commercial: false      
 
 # Localization
 
