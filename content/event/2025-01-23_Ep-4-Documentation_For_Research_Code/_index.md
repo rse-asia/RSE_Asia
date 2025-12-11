@@ -25,8 +25,9 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [Colorful programming php and html code on a monitor](https://stock.adobe.com/az/contributor/205173064/cronislaw?load_type=author&prev_url=detail&asset_id=107962078) by [Cronislaw](https://stock.adobe.com/az/contributor/205173064/cronislaw?load_type=author&prev_url=detail).'
-  focal_point: Right
+  preview_only: true
+  filename: "Documentation_for_research_code.jpg"  # This is the image file placed in static/media/
+draft: false  
 
 url_code: ''
 url_pdf: ''

@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Events
+cms_exclude: true
 
 # Listing view
 view: compact
