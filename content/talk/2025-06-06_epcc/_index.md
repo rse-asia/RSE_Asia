@@ -1,6 +1,6 @@
 ---
 title: "Halò Scotland! Speaking at EPCC in the Edinburgh Sunshine"
-subtitle: "An invited talk on 'Research Study on the Research Soware Engineering (RSEng) Landscape in Asia' at the EPCC, University of Edinburgh, in-person in May 2025."
+subtitle: "An invited talk on 'Research Study on the Research Software Engineering (RSEng) Landscape in Asia' at the EPCC, University of Edinburgh, in-person in May 2025."
 date: 2025-06-06
 authors:
   - "Jyoti Bhogal"
@@ -15,7 +15,7 @@ categories:
   - Scotland
   - United Kingdom
   - In Person
-summary: "An invited talk on 'Research Study on the Research Soware Engineering (RSEng) Landscape in Asia' at the EPCC, University of Edinburgh, in-person in May 2025."
+summary: "An invited talk on 'Research Study on the Research Software Engineering (RSEng) Landscape in Asia' at the EPCC, University of Edinburgh, in-person in May 2025."
 image:
   preview_only: true
   filename: "epcc_jyoti_talk_title_slide.jpeg"
