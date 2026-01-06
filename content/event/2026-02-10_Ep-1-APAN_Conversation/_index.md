@@ -1,5 +1,5 @@
 ---
-title: "Episode 1: What is APAN?"
+title: "Episode 1: Connecting NRENs and Research Software in Asia"
 
 event: Research Software and NRENs in Asia (Joint series)
 event_url: https://example.org
