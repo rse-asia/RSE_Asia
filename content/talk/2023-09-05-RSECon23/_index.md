@@ -13,11 +13,11 @@ categories:
 summary: "Lightning talk presented alongside a poster session at RSECon23, Swansea University during 5-7 September 2023."
 image:
   preview_only: true
-  filename: "preview.png"
+  filename: "preview.jpg"
 draft: false
 ---
 
-![My Lightning Talk at RSECon23](preview.png)
+![My Lightning Talk at RSECon23](preview.jpg)
 
 ------------------------------------------------------------------------
 
