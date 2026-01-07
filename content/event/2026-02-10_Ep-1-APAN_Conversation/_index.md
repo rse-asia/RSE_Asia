@@ -1,7 +1,7 @@
 ---
 title: "Episode 1: Connecting NRENs and Research Software in Asia"
 
-event: Research Software and NRENs in Asia (Joint series)
+event: Research Software and NRENs in Asia
 event_url: https://example.org
 
 location: Online
@@ -55,10 +55,10 @@ In the first episode of the series 'Research Software and NRENs in Asia', we wil
 
 **[Register now]()**
 
-## Our Speaker
+## Invited Guest
 
 - **[Liana Jacinta Jaganathan](https://www.linkedin.com/in/lianajacinta/)**,
-  General Manager, _Asia Pacific Advanced Network (APAN)_
+  General Manager, _Asia Pacific Advanced Network (APAN)_, Malaysia
   
   Liana was appointed as General Manager of APAN effective 1st April 2023. She has been part of the Malaysian Research and Education Network(MYREN) for 14 years with a background in network engineering, community and capacity building. She also co-founded Global Support Services, an entity under Wirahswasta to provide secretariat services to APAN since 2020. 
 
