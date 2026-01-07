@@ -26,7 +26,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "featured.jpg"  # This is the image file placed in static/media/
+  filename: "rs_nren_series_banner_episode_2.png"  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -48,6 +48,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+![Open Data Sharing and Research Software](rs_nren_series_banner_episode_2.png)
 
 In the second episode of the series 'Research Software and NRENs in Asia', we will explore the role of research software in environmental research, with a focus on open sharing. We will discuss about how research software can be used to address environmental challenges in Southeast Asia. The session will also highlight the importance of open data sharing and collaboration among researchers and institutions in the region.
 

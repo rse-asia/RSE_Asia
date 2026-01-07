@@ -26,7 +26,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "featured.jpg"  # This is the image file placed in static/media/
+  filename: "featured.jpg"
 draft: false  
 
 url_code: ''
@@ -48,6 +48,9 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+![Importance of funding for research software](featured.jpg)
+_"A computer screen with a bunch of code" image is licensed as free to use under the [Unsplash License](https://unsplash.com/license)._
 
 In the last episode of the series on 'Enabling Open Science through Research Code', we will explore opportunities related to funding for research software-related work. 
 

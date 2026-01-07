@@ -26,7 +26,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "featured.jpg"  # This is the image file placed in static/media/
+  filename: "rs_nren_series_banner_episode_1.png"  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -48,6 +48,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+![APAN and Research Software](rs_nren_series_banner_episode_1.png)
 
 In the first episode of the series 'Research Software and NRENs in Asia', we will explore the role of National Research and Education Networks (NRENs) in supporting research software development and sustainability in the Asian region. 
 
