@@ -26,7 +26,7 @@ sections:
         color: "#ffffff"
         text_color_light: false
       spacing:
-        padding: ["3rem", "1rem"]    
+        padding: ["3rem", "5rem"]    
 
   - block: markdown
     content:
@@ -66,7 +66,7 @@ sections:
         color: "#ffffff"
         text_color_light: false      
       spacing:
-        padding: ["3rem", "1rem"]  
+        padding: ["3rem", "5rem"]  
         
 
   
@@ -89,18 +89,18 @@ sections:
       view: card
       columns: '1'
   
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest Preprints
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article'
+  #   design:
+  #     view: citation
+  #     columns: '1'
 
   - block: markdown
     content:
@@ -132,6 +132,6 @@ sections:
         color: "#ffffff"
         text_color_light: false
       spacing:
-        padding: ["3rem", "1rem"]  
+        padding: ["3rem", "5rem"]  
   
 ---
