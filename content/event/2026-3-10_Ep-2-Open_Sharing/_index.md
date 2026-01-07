@@ -59,7 +59,7 @@ In the second episode of the series 'Research Software and NRENs in Asia', we wi
 
 ## Invited Guest
 
-- **[Dr. Veerachai Tanpipat](https://www.linkedin.com/in/lianajacinta/)**,
+- **[Dr. Veerachai Tanpipat](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/)**,
   Senior Expert, _Hydro Informatics Institute_, Thailand
   
   Dr. Veerachai Tanpipat is a remote sensing engineer and geographer. His work has focused on wildfires, transboundary haze, and flooding throughout Southeast Asia. Currently, he is an advisor to the Director-General of Thailand’s Pollution Control Department, a founding member of the Upper ASEAN Wildland Fire Special Research Unit, Senior Expert Faculty Member of Forestry at Kasetsart University, Co-Chair of APAN Disaster Mitigation Working Group, and Chairperson of APAN Open and Sharing Data Working Group. 
