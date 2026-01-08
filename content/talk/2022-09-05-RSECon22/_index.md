@@ -1,7 +1,7 @@
 ---
-title: "Shaping the Landscape: The Emerging Research Software Engineering Community in Asia"
-subtitle: "Lightning talk presented alongside a poster session at RSECon23, Swansea University during 5-7 September 2023."
-date: 2023-09-05
+title: "RSE Asia Association: A year in making"
+subtitle: "Poster presentation and lightning talk on 'RSE Asia Association: A year in making' presented at RSECon 2022."
+date: 2022-09-05
 authors:
   - "Saranjeet Kaur Bhogal"
 categories:
@@ -10,16 +10,14 @@ categories:
   - Open Science
   - Poster Presentation
   - Lightning Talk
-summary: "Lightning talk presented alongside a poster session at RSECon23, Swansea University during 5-7 September 2023."
+summary: "Poster presentation and lightning talk on 'RSE Asia Association: A year in making' presented at RSECon 2022."
 image:
   preview_only: true
-  filename: "preview.jpg"
+  filename: "preview.png"
 draft: false
 ---
 
-![My Lightning Talk at RSECon23](preview.jpg)
-
-------------------------------------------------------------------------
+![Poster on 'RSE Asia Association: A year in making'](preview.png)
 
 ### **Learn More About Us**
 
