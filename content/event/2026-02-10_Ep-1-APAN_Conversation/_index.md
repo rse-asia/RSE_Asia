@@ -59,16 +59,28 @@ In the first episode of the series 'Research Software and NRENs in Asia', we wil
 
 ## Invited Guest
 
-- **[Liana Jacinta Jaganathan](https://www.linkedin.com/in/lianajacinta/)**,
+- **[Liana Jacinta](https://www.linkedin.com/in/lianajacinta/)**,
   General Manager, _Asia Pacific Advanced Network (APAN)_, Malaysia
   
-  Liana was appointed as General Manager of APAN effective 1st April 2023. She has been part of the Malaysian Research and Education Network(MYREN) for 14 years with a background in network engineering, community and capacity building. She also co-founded Global Support Services, an entity under Wirahswasta to provide secretariat services to APAN since 2020. 
+  Liana Jacinta is a senior executive specialising in industry–academic 
+  partnerships, large-scale conference delivery, and international stakeholder 
+  engagement. She provides operational leadership at Global Support Services, 
+  where her team developed ORBIT, a customisable event and engagement platform 
+  supporting high-impact conferences and complex, multi-stakeholder programmes.
+  <br> </br>
+  As General Manager of the Asia Pacific Advanced Network (APAN), Liana leads 
+  initiatives that enhance organisational visibility, expand memberships and 
+  strategic partnerships, and deliver sustainable revenue growth. She provides 
+  operational oversight across finance, administration, human resources, and 
+  IT, ensuring efficient, agile, and commercially sound service delivery.
+  <br> </br>
+  With a strong focus on execution, collaboration, and value creation, Liana 
+  actively champions working groups and cross-sector partnerships that 
+  translate innovation and research into real-world outcomes.
 
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
-
-#### RSE Asia
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
