@@ -2,7 +2,7 @@
 title: "Episode 1: Connecting NRENs and Research Software in Asia"
 
 event: Research Software and NRENs in Asia
-event_url: https://example.org
+event_url: https://rse-asia.github.io/RSE_Asia/event/2026-02-10_ep-1-apan_conversation/
 
 location: Online
 
@@ -55,11 +55,11 @@ In the first episode of the series 'Research Software and NRENs in Asia', we wil
 
 **11 February 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+1%3A+Connecting+NRENs+and+Research+Software+in+Asia&iso=20260211T07&p1=1440&ah=1)**
 
-**[Register now](https://forms.gle/KSwzop3cJMFCaHCS7)**
+**[Register now](https://us05web.zoom.us/meeting/register/yfSNzuG-TI2vduE7jvgh1Q)**
 
 ## Invited Guest
 
-- **[Liana Jacinta](https://www.linkedin.com/in/lianajacinta/)**,
+- **[Liana Jacinta Jaganathan](https://www.linkedin.com/in/lianajacinta/)**,
   General Manager, _Asia Pacific Advanced Network (APAN)_, Malaysia
   
   Liana Jacinta is a senior executive specialising in industry–academic 
