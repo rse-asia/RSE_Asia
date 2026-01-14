@@ -53,9 +53,9 @@ projects:
 
 In the first episode of the series 'Research Software and NRENs in Asia', we will explore the role of National Research and Education Networks (NRENs) in supporting research software development and sustainability in the Asian region. 
 
-**11 February 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
+**11 February 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+1%3A+Connecting+NRENs+and+Research+Software+in+Asia&iso=20260211T07&p1=1440&ah=1)**
 
-**[Register now]()**
+**[Register now](https://forms.gle/KSwzop3cJMFCaHCS7)**
 
 ## Invited Guest
 
