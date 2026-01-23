@@ -55,7 +55,7 @@ In the second episode of the series 'Research Software and NRENs in Asia', we wi
 
 **11 March 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
 
-**[Register now]()**
+**[Register now](https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg)**
 
 ## Invited Guest
 
