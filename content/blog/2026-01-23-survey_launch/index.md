@@ -7,6 +7,8 @@ authors:
 categories:
   - Research Software Engineering
   - Community Building
+  - Survey
+  - Asia
 summary: "This blog post announces the launch of the first-ever survey focused on the Research Software Engineering (RSE) community in Asia."
 image:
   preview_only: true
@@ -18,11 +20,13 @@ draft: false
 
 We’re excited to announce the launch of the **first-ever survey focused on the Research Software Engineering (RSE) community in Asia**. The survey opened on **26th January 2026** and will remain **open until 31 March 2026**.
 
+To share your experience, please [**respond to the survey**](https://forms.gle/CikekgVVTCq5fJhx6).
+
 The purpose of this survey is to better understand the research software engineering community in Asia. We often call these people **Research Software Engineers (RSEs)**, but in practice, they might work under many different job titles \- including doctoral researchers and postdoctoral researchers who develop software as a part of their research, software developers, bioinformaticians, and more. If you write, maintain, or support research software, then this survey is for you\! Your formal job title *does not* have to be Research Software Engineer.
 
 Across Asia, the contributions of people who build research software are still not well recognised or documented. By collecting this data, we hope to build a clearer picture of the community, its roles, challenges, and needs, and use that evidence to support meaningful change.
 
-The survey takes about 20-30 minutes to complete. We really appreciate the time you dedicate to responding to it. As a small thank-you for your time, at the end of the survey period, participants who complete the survey and agree to enter into a raffle, stand a chance to win a £10 prize. There will be five such prizes.
+The survey takes about 20-30 minutes to complete. We really appreciate the time you dedicate to responding to it. As a small thank-you for your time, at the end of the survey period, participants who complete the survey and agree to enter into a raffle, stand a **chance to win a £10 prize**. There will be five such prizes.
 
 By sharing your experience, you’re contributing to and helping shape a more supportive future for the research software engineering community in the Asian region.
 
