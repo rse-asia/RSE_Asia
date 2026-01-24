@@ -7,7 +7,6 @@ authors:
 categories:
   - Research Software Engineering
   - Community Building
-  - SSI Fellowship
 summary: "This blog post announces the launch of the first-ever survey focused on the Research Software Engineering (RSE) community in Asia."
 image:
   preview_only: true
