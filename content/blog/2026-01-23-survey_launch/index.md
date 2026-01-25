@@ -20,7 +20,7 @@ draft: false
 
 We’re excited to announce the launch of the **first-ever survey focused on the Research Software Engineering (RSE) community in Asia**. The survey opened on **26th January 2026** and will remain **open until 31 March 2026**.
 
-To share your experience, please [**respond to the survey**](https://forms.gle/CikekgVVTCq5fJhx6).
+[**Respond to the survey here**](https://forms.gle/CikekgVVTCq5fJhx6)
 
 The purpose of this survey is to better understand the research software engineering community in Asia. We often call these people **Research Software Engineers (RSEs)**, but in practice, they might work under many different job titles \- including doctoral researchers and postdoctoral researchers who develop software as a part of their research, software developers, bioinformaticians, and more. If you write, maintain, or support research software, then this survey is for you\! Your formal job title *does not* have to be Research Software Engineer.
 
