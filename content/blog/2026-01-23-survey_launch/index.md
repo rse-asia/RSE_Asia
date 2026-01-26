@@ -18,7 +18,7 @@ draft: false
 
 ![*Image: *](survey_launch_banner.png)
 
-We’re excited to announce the launch of the **survey focused on the Research Software Engineering (RSE) community in Asia**. The survey opened on **26th January 2026** and will remain **open until 31 March 2026**.
+We’re excited to announce the launch of the **survey focused on the Research Software Engineering (RSE) community in Asia**. The survey will **remain open until 31 March 2026**.
 
 [**Respond to the survey here**](https://forms.gle/CikekgVVTCq5fJhx6)
 
