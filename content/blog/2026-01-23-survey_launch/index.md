@@ -1,6 +1,6 @@
 ---
 title: "Survey Launch: Research Software Engineering Landscape in Asia"
-subtitle: "This blog post announces the launch of the first-ever survey focused on the Research Software Engineering (RSE) community in Asia."
+subtitle: "This blog post announces the launch of the survey focused on the Research Software Engineering (RSE) community in Asia."
 date: 2026-01-23
 authors:
   - "Jyoti Bhogal"
@@ -9,7 +9,7 @@ categories:
   - Community Building
   - Survey
   - Asia
-summary: "This blog post announces the launch of the first-ever survey focused on the Research Software Engineering (RSE) community in Asia."
+summary: "This blog post announces the launch of the survey focused on the Research Software Engineering (RSE) community in Asia."
 image:
   preview_only: true
   filename: "survey_launch_banner.png"
@@ -18,7 +18,7 @@ draft: false
 
 ![*Image: *](survey_launch_banner.png)
 
-We’re excited to announce the launch of the **first-ever survey focused on the Research Software Engineering (RSE) community in Asia**. The survey opened on **26th January 2026** and will remain **open until 31 March 2026**.
+We’re excited to announce the launch of the **survey focused on the Research Software Engineering (RSE) community in Asia**. The survey opened on **26th January 2026** and will remain **open until 31 March 2026**.
 
 [**Respond to the survey here**](https://forms.gle/CikekgVVTCq5fJhx6)
 
