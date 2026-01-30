@@ -7,7 +7,7 @@ event_url: https://example.org
 location: Online
 
 summary: (Episode 3) Research Software and NRENs in Asia
-abstract: In the third episode of the series 'Research Software and NRENs in Asia', we will examine the role of libraries in research support for scientific software across the research lifecycle. Through a fireside chat format, the session will explore how libraries contribute to the development, maintenance, dissemination, and long-term sustainability of scientific software. The discussion will also highlight capacity building, professional development, and leadership within libraries as they adapt to software-intensive research environments.
+abstract: In the third episode of the series 'Research Software and NRENs in Asia', we will examine the role of libraries in research support for scientific software across the research lifecycle. The session will explore how libraries contribute to the development, maintenance, dissemination, and long-term sustainability of scientific software. The discussion will also highlight capacity building, professional development, and leadership within libraries as they adapt to software-intensive research environments.
 
 
 # Talk start and end times.
@@ -52,7 +52,7 @@ projects:
 
 ![Research Software, Libraries, and Research Support](rs_nren_series_banner_episode_3.png)
 
-In the third episode of the series **‘Research Software and NRENs in Asia’**, we will focus on the changing role of libraries and information professionals in supporting research in software-intensive environments. Through an informal fireside chat, we will discuss how software and technical skills are becoming central to research support, how libraries are adapting to these changes, and how professionals can build confidence, capacity, and sustainable career pathways in this evolving landscape.
+In the third episode of the series **‘Research Software and NRENs in Asia’**, we will focus on the changing role of libraries and information professionals in supporting research. We will discuss how software and technical skills are becoming central to research support, how libraries are adapting to these changes, and how professionals can build confidence, capacity, and sustainable career pathways in this evolving landscape.
 
 The session will explore themes such as skills development, mentorship, experimentation, leadership, and lifelong learning, with particular relevance to library staff supporting research and teaching across institutions in Asia.
 
@@ -65,8 +65,7 @@ The session will explore themes such as skills development, mentorship, experime
 - **[Victoria Caplan](https://www.linkedin.com/in/victoria-f-caplan-62a48b8)**,
   Head of Research & Learning Support, _Hong Kong University of Science and Technology (HKUST)_, Hong Kong
 
-  Victoria is an experienced research and library professional whose work focuses on supporting researchers and educators in environments increasingly shaped by software, data, and digital tools. She has extensive experience in building capacity, mentoring professionals, and fostering confidence in technical and software-related skills within library and research support communities. Her work emphasises professional development, leadership, and sustainable career pathways for information professionals navigating the changing research landscape.
-
+  Victoria F. Caplan is the Head of Research & Learning Support at the Hong Kong University of Science & Technology Library (HKUST). A member of the Library’s senior management team, she oversees the Library’s work in promoting and providing information literacy instruction and information services to the HKUST community. After joining HKUST in 1992 as a cataloger, she soon found her métier in public services. From 1996-2002, she served in the Media Resources & Microforms section, and 2002-2012 as the Access Services Manager. Since becoming IICS Head in 2012, worked to develop library instruction and link users to HKUST collections via many services. She received her BA in East Asian Studies from Yale, her MSc from the University of Illinois at Champaign-Urbana, and an MPhil (Cultural Anthropology) from the University of Hong Kong.
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
