@@ -1,22 +1,32 @@
 ---
-title: "Episode 1: Connecting NRENs and Research Software in Asia"
+title: "Connecting Research Software to the Scholarly Record with DataCite"
 
-event: Research Software and NRENs in Asia
-event_url: https://rse-asia.github.io/RSE_Asia/event/2026-02-10_ep-1-apan_conversation/
+event: Community Webinar with DataCite
+event_url: https://example.org
 
 location: Online
 
-summary: (Episode 1) Research Software and NRENs in Asia
-abstract: In the first episode of the series 'Research Software and NRENs in Asia', we will explore the role of National Research and Education Networks (NRENs) in supporting research software development and sustainability in the Asian region. 
+summary: Community Webinar with DataCite
+abstract: DataCite’s vision is to connect research and advance knowledge by
+  supporting more than 30 types of research outputs, resources, and
+  activities—including code and research software. Through its open PID
+  infrastructure and rich, open metadata, DataCite enables research software
+  and code to receive DOIs, be persistently identified, and described with rich
+  metadata. These outputs can be linked to related research objects such as
+  datasets and articles, supporting open sharing, proper citation, and
+  long-term discoverability. Together, these capabilities strengthen research
+  visibility and contribute to a more connected research infrastructure. This
+  webinar will provide an overview of the DataCite global community and
+  services and showcase practical use cases related to research software.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-02-11T07:00:00Z'
-date_end: '2026-02-11T08:00:00Z'
+date: '2026-04-14T07:00:00Z'
+date_end: '2026-04-14T08:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-01T00:00:00Z'
+publishDate: '2026-02-22T00:00:00Z'
 
 authors: []
 tags: []
@@ -25,8 +35,8 @@ tags: []
 featured: false
 
 image:
-  preview_only: true
-  filename: "rs_nren_series_banner_episode_1.png"  # This is the image file placed in static/media/
+  preview_only: false
+  filename: ""  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -49,34 +59,26 @@ slides:
 projects:
 ---
 
-![APAN and Research Software](rs_nren_series_banner_episode_1.png)
 
-In the first episode of the series 'Research Software and NRENs in Asia', we will explore the role of National Research and Education Networks (NRENs) in supporting research software development and sustainability in the Asian region. 
+In this webinar, we will explore how DataCite's open PID infrastructure and
+rich metadata support the persistent identification and discoverability of
+research software. We will discuss practical use cases and demonstrate how
+these capabilities enhance research visibility and contribute to a more
+connected research infrastructure.
 
-**11 February 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+1%3A+Connecting+NRENs+and+Research+Software+in+Asia&iso=20260211T07&p1=1440&ah=1)**
+**14 April 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
 
-**[Register now](https://us05web.zoom.us/meeting/register/yfSNzuG-TI2vduE7jvgh1Q)**
+**[Register now]()**
 
 ## Invited Guest
 
-- **[Liana Jacinta Jaganathan](https://www.linkedin.com/in/lianajacinta/)**,
-  General Manager, _Asia Pacific Advanced Network (APAN)_, Malaysia
+- **[Mohamad Mostafa](https://www.linkedin.com/in/mohamad-mostafa/)**,
+  Community Specialist, _DataCite_, UAE
   
-  Liana Jacinta is a senior executive specialising in industry–academic 
-  partnerships, large-scale conference delivery, and international stakeholder 
-  engagement. She provides operational leadership at Global Support Services, 
-  where her team developed ORBIT, a customisable event and engagement platform 
-  supporting high-impact conferences and complex, multi-stakeholder programmes.
-  <br> </br>
-  As General Manager of the Asia Pacific Advanced Network (APAN), Liana leads 
-  initiatives that enhance organisational visibility, expand memberships and 
-  strategic partnerships, and deliver sustainable revenue growth. She provides 
-  operational oversight across finance, administration, human resources, and 
-  IT, ensuring efficient, agile, and commercially sound service delivery.
-  <br> </br>
-  With a strong focus on execution, collaboration, and value creation, Liana 
-  actively champions working groups and cross-sector partnerships that 
-  translate innovation and research into real-world outcomes.
+  Mohamad supports institutions and communities around the world in adopting
+  open research practices and values through DataCite membership, services,
+  and activities. He is also a member of the UNESCO Working Group on Open
+  Science Infrastructures.
 
 ### **Learn More About Us**
 
