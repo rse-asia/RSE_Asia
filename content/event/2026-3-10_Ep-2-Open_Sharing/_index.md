@@ -1,22 +1,32 @@
 ---
-title: "Episode 2: Research Software and Environmental Research in Asia"
+title: "Connecting Research Software to the Scholarly Record with DataCite"
 
-event: Research Software and NRENs in Asia
+event: Community Webinar with DataCite
 event_url: https://example.org
 
 location: Online
 
-summary: (Episode 2) Research Software and NRENs in Asia
-abstract: In the second episode of the series 'Research Software and NRENs in Asia', we will explore the role of research software in environmental research, with a focus on remote sensing, geospatial analysis, and open sharing. Our speaker, will share their experiences in utilising research software to address environmental challenges in Southeast Asia, including wildfire monitoring, transboundary haze management, and flood risk assessment. The talk will also highlight the importance of open data sharing and collaboration among researchers and institutions in the region.
+summary: Community Webinar with DataCite
+abstract: DataCite’s vision is to connect research and advance knowledge by
+  supporting more than 30 types of research outputs, resources, and
+  activities—including code and research software. Through its open PID
+  infrastructure and rich, open metadata, DataCite enables research software
+  and code to receive DOIs, be persistently identified, and described with rich
+  metadata. These outputs can be linked to related research objects such as
+  datasets and articles, supporting open sharing, proper citation, and
+  long-term discoverability. Together, these capabilities strengthen research
+  visibility and contribute to a more connected research infrastructure. This
+  webinar will provide an overview of the DataCite global community and
+  services and showcase practical use cases related to research software.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-11T07:00:00Z'
-date_end: '2026-03-11T08:00:00Z'
+date: '2026-04-14T07:00:00Z'
+date_end: '2026-04-14T08:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-01T00:00:00Z'
+publishDate: '2026-02-22T00:00:00Z'
 
 authors: []
 tags: []
@@ -25,8 +35,8 @@ tags: []
 featured: false
 
 image:
-  preview_only: true
-  filename: "rs_nren_series_banner_episode_2.png"  # This is the image file placed in static/media/
+  preview_only: false
+  filename: ""  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -49,20 +59,26 @@ slides:
 projects:
 ---
 
-![Open Data Sharing and Research Software](rs_nren_series_banner_episode_2.png)
 
-In the second episode of the series 'Research Software and NRENs in Asia', we will explore the role of research software in environmental research, with a focus on open sharing. We will discuss about how research software can be used to address environmental challenges in Southeast Asia. The session will also highlight the importance of open data sharing and collaboration among researchers and institutions in the region.
+In this webinar, we will explore how DataCite's open PID infrastructure and
+rich metadata support the persistent identification and discoverability of
+research software. We will discuss practical use cases and demonstrate how
+these capabilities enhance research visibility and contribute to a more
+connected research infrastructure.
 
-**11 March 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
+**14 April 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
 
-**[Register now](https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg)**
+**[Register now]()**
 
 ## Invited Guest
 
-- **[Dr. Veerachai Tanpipat](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/)**,
-  Senior Expert, _Hydro Informatics Institute_, Thailand
+- **[Mohamad Mostafa](https://www.linkedin.com/in/mohamad-mostafa/)**,
+  Community Specialist, _DataCite_, UAE
   
-  Dr. Veerachai Tanpipat is a remote sensing engineer and geographer. His work has focused on wildfires, transboundary haze, and flooding throughout Southeast Asia. Currently, he is an advisor to the Director-General of Thailand’s Pollution Control Department, a founding member of the Upper ASEAN Wildland Fire Special Research Unit, Senior Expert Faculty Member of Forestry at Kasetsart University, Co-Chair of APAN Disaster Mitigation Working Group, and Chairperson of APAN Open and Sharing Data Working Group. 
+  Mohamad supports institutions and communities around the world in adopting
+  open research practices and values through DataCite membership, services,
+  and activities. He is also a member of the UNESCO Working Group on Open
+  Science Infrastructures.
 
 ### **Learn More About Us**
 
