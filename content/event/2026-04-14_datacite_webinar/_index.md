@@ -9,7 +9,7 @@ location: Online
 summary: Community Webinar with DataCite
 abstract: DataCite’s vision is to connect research and advance knowledge by
   supporting more than 30 types of research outputs, resources, and
-  activities—including code and research software. Through its open PID
+  activities - including code and research software. Through its open PID
   infrastructure and rich, open metadata, DataCite enables research software
   and code to receive DOIs, be persistently identified, and described with rich
   metadata. These outputs can be linked to related research objects such as
@@ -35,8 +35,8 @@ tags: []
 featured: false
 
 image:
-  preview_only: false
-  filename: ""  # This is the image file placed in static/media/
+  preview_only: true
+  filename: "rse_asia_webinar_datacite.png"  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -59,6 +59,7 @@ slides:
 projects:
 ---
 
+![Community webinar with DataCite](rse_asia_webinar_datacite.png)
 
 In this webinar, we will explore how DataCite's open PID infrastructure and
 rich metadata support the persistent identification and discoverability of
@@ -68,7 +69,7 @@ connected research infrastructure.
 
 **14 April 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
 
-**[Register now]()**
+**[Register now](https://us06web.zoom.us/meeting/register/k8PBfge5QwKsg4jnbeXj1Q#/registration)**
 
 ## Invited Guest
 
