@@ -36,7 +36,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "rse_asia_webinar_datacite.png"  # This is the image file placed in static/media/
+  filename: "rse_asia_webinar_datacite_banner.png"  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -59,7 +59,7 @@ slides:
 projects:
 ---
 
-![Community webinar with DataCite](rse_asia_webinar_datacite.png)
+![Community webinar with DataCite](rse_asia_webinar_datacite_banner.png)
 
 In this webinar, we will explore how DataCite's open PID infrastructure and
 rich metadata support the persistent identification and discoverability of
