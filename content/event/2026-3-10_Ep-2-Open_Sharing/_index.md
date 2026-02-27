@@ -7,7 +7,14 @@ event_url: https://example.org
 location: Online
 
 summary: (Episode 2) Research Software and NRENs in Asia
-abstract: In the second episode of the series 'Research Software and NRENs in Asia', we will explore the role of research software in environmental research, with a focus on remote sensing, geospatial analysis, and open sharing. Our speaker, will share their experiences in utilising research software to address environmental challenges in Southeast Asia, including wildfire monitoring, transboundary haze management, and flood risk assessment. The talk will also highlight the importance of open data sharing and collaboration among researchers and institutions in the region.
+abstract: In the second episode of the series 'Research Software and NRENs in
+  Asia', we will explore the role of research software in environmental
+  research, with a focus on remote sensing, geospatial analysis, open science,
+  and open sharing. Our speaker, will share their experiences in utilising
+  research software to address environmental challenges in Southeast Asia,
+  including wildfire monitoring, transboundary haze management, and flood risk
+  assessment. The talk will also highlight the importance of open data sharing
+  and collaboration among researchers and institutions in the region.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,7 +58,12 @@ projects:
 
 ![Open Data Sharing and Research Software](rs_nren_series_banner_episode_2.png)
 
-In the second episode of the series 'Research Software and NRENs in Asia', we will explore the role of research software in environmental research, with a focus on open sharing. We will discuss about how research software can be used to address environmental challenges in Southeast Asia. The session will also highlight the importance of open data sharing and collaboration among researchers and institutions in the region.
+In the second episode of the series 'Research Software and NRENs in Asia', we
+will explore the role of research software in environmental research, with a
+focus on open science and open sharing. We will discuss about how research
+software can be used to address environmental challenges in Southeast Asia.
+The session will also highlight the importance of open data sharing and
+collaboration among researchers and institutions in the region.
 
 **11 March 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
 
@@ -62,7 +74,15 @@ In the second episode of the series 'Research Software and NRENs in Asia', we wi
 - **[Dr. Veerachai Tanpipat](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/)**,
   Senior Expert, _Hydro Informatics Institute_, Thailand
 
-  Dr. Veerachai Tanpipat is a remote sensing engineer and geographer. His work has focused on wildfires, transboundary haze, and flooding throughout Southeast Asia. Currently, he is an advisor to the Director-General of Thailand’s Pollution Control Department, a founding member of the Upper ASEAN Wildland Fire Special Research Unit, Senior Expert Faculty Member of Forestry at Kasetsart University, Co-Chair of APAN Disaster Mitigation Working Group, and Chairperson of APAN Open and Sharing Data Working Group. 
+  Dr. Veerachai Tanpipat is a remote sensing engineer and geographer. His work
+  has focused on wildfires, transboundary haze, and flooding throughout
+  Southeast Asia. Currently, he is an advisor to the Director-General of
+  Thailand’s Pollution Control Department, a founding member of the Upper ASEAN
+  Wildland Fire Special Research Unit, Senior Expert Faculty Member of Forestry
+  at Kasetsart University, Co-chair of APAN working groups Disaster Mitigation,
+  and Agriculture and is the Chair of the
+  [Open Science Collaborative and Resoruce (OSCR)](https://apan.net/elements/working-groups/oscr/)
+  working group.
 
 ### **Learn More About Us**
 
