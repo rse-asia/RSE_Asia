@@ -192,7 +192,7 @@ participants shared a bunch of useful resources for the community for shared
 progress. We have compiled it in the form of a Resource Sheet. Definitely,
 check it out\!
 
-***Resource sheet:*** [***Zenodo link***](https://docs.google.com/document/d/1_rr9OjIcZumh_U9Sz97Fh3TmZmAaT7s_f7boWlR7u2w/edit?tab=t.0#heading=h.mrjcpkv71a4)
+***Resource sheet:*** Bhogal, J., Jaganathan, L. J., & Bhogal, S. K. (2026). Resource Sheet: Episode 1: Connecting NRENs and Research Software in Asia. Zenodo. https://doi.org/10.5281/zenodo.18846080
 
 ------------------------------------------------------------------------
 
