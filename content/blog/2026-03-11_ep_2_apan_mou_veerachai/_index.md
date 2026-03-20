@@ -1,10 +1,9 @@
   
 ---
-title: "Research Software and NRENs in Asia: Episode 2 - Research Software and
-Environmental Research in Asia"
+title: "Episode 2 - Research Software and Environmental Research in Asia"
 subtitle: "This blog post summarises the second episode of the Research
 Software and NRENs in Asia series, featuring a conversation with Dr. Veerachai
-Tanpipat, Senior Expert at the Hydroinformatics Institute, Thailand."
+Tanpipat, Senior Expert at the *Hydroinformatics Institute*, Thailand."
 date: 2026-03-20
 authors:
   - "Jyoti Bhogal"
@@ -20,7 +19,9 @@ categories:
   - Research Infrastructure
   - National Research and Education Networks (NRENs)
   - Asia
-summary: "This blog post summarises the second episode of the Research Software and NRENs in Asia series, featuring a conversation with Dr. Veerachai Tanpipat, Senior Expert at the Hydroinformatics Institute, Thailand."
+summary: "This blog post summarises the second episode of the Research Software
+and NRENs in Asia series, featuring a conversation with Dr. Veerachai Tanpipat,
+Senior Expert at the *Hydroinformatics Institute*, Thailand."
 image:
   preview_only: true
   filename: "rs_nren_series_banner_episode_2.png"
@@ -41,104 +42,45 @@ as part of their Memorandum of Understanding (MoU) activities.
 
 The session featured
 [**Dr Veerachai Tanpipat (also known as Chai)**](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/), Senior Expert at the [*Hydroinformatics Institute*](https://www.linkedin.com/company/hydroinformatics-institute/) in Thailand and chair or co-chair of several APAN
-working groups. This includes being the Chair of the
+Working Groups (WGs). This includes being the Chair of the
 [Open Science Collaborative and Resource WG](https://apan.net/elements/working-groups/oscr/),
 and a co-chair of the Agriculture WG and the Disaster Mitigation WG. The
 discussion focused on environmental data sharing, disaster mitigation, the role
 of research software, and the challenges of building sustainable research
-infrastructure in a diverse region like Asia.
+infrastructure in a diverse region like Asia. The Agriculture WG focuses on
+using technology to support sustainable food production across the Asia-Pacific
+region. He emphasised how each of these is interrelated, and that in order to
+solve the problems in any of these areas, the researchers, as well as the
+software developer, should gain an understanding of the different disciplines.
 
 This blog summarises the key insights from the session.
 
 ## **Why This Series Exists**
 
-The [**Research Software and NRENs in Asia**](https://rse-asia.github.io/RSE_Asia/event/)
-conversation series aims to create a collaborative space where:
-
-- National Research and Education Networks (NRENs)  
-- Research software engineers  
-- Scientists and researchers  
-- Infrastructure specialists
-
-can come together to discuss shared challenges and opportunities.
-
 Asia has a rapidly growing research ecosystem, but the research software
 community remains relatively scattered. By connecting people across
 institutions and countries, this series helps build awareness of how research
 software, infrastructure, and open science practices intersect.
-
 The series also highlights how NRENs play a critical role in enabling
 large-scale research collaboration, particularly in data-intensive fields like
 environmental science.
 
-## **What is APAN?**
+## **APAN and Environmental Research**
 
-APAN is a long-standing collaboration of NRENs across the Asia-Pacific region.
-Founded in 1995, the network now connects around **20 economies**, spanning
-across the Asia Pacific and beyond, including Europe and the USA.
-
-APAN’s mission is to enable research collaboration by providing:
-
-- High-speed research networks  
-- Advanced computing infrastructure  
-- Data sharing platforms  
-- Collaborative research initiatives
-
-The network organises **two meetings every year**, usually attracting
-**200-400 participants** from academia, government, and industry.
-
-While the network infrastructure itself is critical, Dr. Tanpipat emphasised
-that **applications built on top of these networks are increasingly important**.
-Today, research collaborations depend not only on connectivity but also on
-software, data systems, and collaborative tools.
-
-## **Working Groups Across the APAN Ecosystem**
-
-APAN’s work is organised into specialised working groups that focus on
-different research domains and technologies.
-
-Some of the major working groups include:
-
-- Agriculture  
-- Disaster Mitigation  
-- Telemedicine  
-- Open Science Collaborative and Resources  
-- Cloud Computing  
-- Internet of Things (IoT)  
-- Security and Routing  
-- HPC and AI  
-- Research Platforms
-
-Among these, **Telemedicine** remains one of the most active communities, with
-doctors and researchers participating in long collaborative sessions across
-time zones, with live sessions on all five days of the biannual the APAN
-meetings.
-
-The **Agriculture working group** was one of the earliest groups in the APAN.
-It focuses on using technology to support sustainable food production across
-the Asia-Pacific region.
+The APAN is a long-standing collaboration of the NRENs across the Asia-Pacific
+region. While the network infrastructure itself is critical, Dr. Tanpipat
+emphasised that applications built on top of these networks are increasingly
+important. Today, research collaborations depend not only on connectivity but
+also on software, data systems, and collaborative tools.
 
 ## **Disaster Mitigation and Environmental Data Collaboration**
 
 One of the most interesting parts of the discussion centred on the
-**Disaster Mitigation working group**.
-
-Asia experiences frequent environmental disasters, including:
-
-- Floods  
-- Typhoons  
-- Earthquakes  
-- Wildfires  
-- Tsunamis
-
+**Disaster Mitigation working group**. Asia experiences frequent environmental
+disasters, including floods, typhoons, earthquakes, wildfires, and tsunamis.
 To respond effectively, researchers must combine data from multiple sources,
-including:
-
-- Satellite imagery  
-- Remote sensing data  
-- Ground sensors  
-- Weather models  
-- Hydrological measurements
+including satellite imagery, remote sensing data, ground sensors, weather
+models, and hydrological measurements.
 
 Historically, remote sensing data has been extremely large and difficult to
 move across networks. However, modern NREN infrastructure now allows large
@@ -162,12 +104,9 @@ international research networks.
 A central theme of the conversation was the role of **research software** in
 environmental research.
 
-Environmental science increasingly depends on software systems that:
-
-- Process large satellite datasets  
-- Integrate multiple data sources  
-- Run predictive models  
-- Generate dashboards for decision makers
+Environmental science increasingly depends on software systems that process
+large satellite datasets, integrate multiple data sources, run predictive
+models, and generate dashboards for decision makers.
 
 Dr Chai highlighted that many scientists understand the scientific models but
 may not have the programming expertise to build robust software systems. This
@@ -178,11 +117,10 @@ In some projects, computer science students from France have helped implement
 web applications for operational use by government agencies. These applications
 can support activities such as wildfire monitoring or flood forecasting.
 
-However, sustainability remains a major issue.
-
-A recurring problem is a **lack of documentation**. When students or short-term
-contributors leave a project without proper documentation, the software becomes
-difficult to maintain or extend.
+However, sustainability remains a major issue. A recurring problem is a
+**lack of documentation**. When students or short-term contributors leave a
+project without proper documentation, the software becomes difficult to
+maintain or extend.
 
 This challenge highlights the importance of good software engineering practices
 in research.
@@ -199,12 +137,9 @@ Dr Tanpipat summarised this with a familiar principle:
 No matter how sophisticated an algorithm may be, poor input data will produce
 unreliable results.
 
-Environmental datasets often come from multiple sources:
-
-- Satellite sensors  
-- Ground monitoring stations  
-- Citizen science contributions  
-- IoT sensors
+Environmental datasets often come from multiple sources, such as satellite
+sensors, ground monitoring stations, citizen science contributions, and IoT
+sensors.
 
 Each source has different levels of accuracy. For example, low-cost air-quality
 sensors may cost USD 20-30, while high-precision instruments can cost hundreds
@@ -271,14 +206,9 @@ code.
 Software engineers working in environmental research must understand the
 scientific context behind their tools.
 
-For example, understanding:
-
-- hydrology  
-- forestry  
-- weather systems  
-- GIS and remote sensing
-
-helps developers design better tools for real-world applications.
+For example, understanding hydrology, forestry, weather systems, and GIS and
+remote sensing helps developers design better tools for real-world
+applications.
 
 **3\. Systems Thinking**
 
@@ -377,5 +307,7 @@ rse.asia.association@gmail.com.
 For more information and to join upcoming events, visit:
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
-- For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
-- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- For the latest news, events, activities, and opportunities, follow us on our
+[LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
+- To join the RSE Asia community, please fill out our short
+[Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)

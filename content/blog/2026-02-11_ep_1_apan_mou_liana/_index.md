@@ -1,7 +1,6 @@
   
 ---
-title: "Research Software and NRENs in Asia: Episode 1 - Connecting NRENs and
-Research Software in Asia"
+title: "Episode 1 - Connecting NRENs and Research Software in Asia"
 subtitle: "This blog post summarizes the first episode of the Research Software
 and NRENs in Asia series, featuring a conversation with APAN’s General Manager,
 Liana Jacinta Jaganathan."
