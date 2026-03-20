@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Infrastructure | RSE Asia Association</title><link>https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/</link><atom:link href="https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/index.xml" rel="self" type="application/rss+xml"/><description>Research Infrastructure</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-uk</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://rse-asia.github.io/RSE_Asia/media/icon_hu8857581796160857555.png</url><title>Research Infrastructure</title><link>https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/</link></image><item><title>Research Software and NRENs in Asia: Episode 2 - Research Software and Environmental Research in Asia</title><link>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Episode 2 banner" srcset="
+/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/rs_nren_series_banner_episode_2_hu5982548089822679549.webp 400w,
+/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/rs_nren_series_banner_episode_2_hu972386631344627061.webp 760w,
+/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/rs_nren_series_banner_episode_2_hu2848133154433622471.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/rs_nren_series_banner_episode_2_hu5982548089822679549.webp"
+width="760"
+height="587"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>The second episode of the
+&lt;a href="https://rse-asia.github.io/RSE_Asia/event/" target="_blank" rel="noopener">&lt;strong>Research Software and NRENs in Asia&lt;/strong>&lt;/a>
+community conversation series brought together researchers, research software
+practitioners, and infrastructure experts to explore how research software
+supports environmental research across Asia. This series is organised by the
+&lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">&lt;strong>RSE Asia Association&lt;/strong>&lt;/a>
+in collaboration with the
+&lt;a href="https://www.linkedin.com/company/apan-net/" target="_blank" rel="noopener">&lt;strong>Asia Pacific Advanced Network (APAN)&lt;/strong>&lt;/a>
+as part of their Memorandum of Understanding (MoU) activities.&lt;/p>
+&lt;p>The session featured
+&lt;a href="https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/" target="_blank" rel="noopener">&lt;strong>Dr Veerachai Tanpipat (also known as Chai)&lt;/strong>&lt;/a>, Senior Expert at the &lt;a href="https://www.linkedin.com/company/hydroinformatics-institute/" target="_blank" rel="noopener">&lt;em>Hydroinformatics Institute&lt;/em>&lt;/a> in Thailand and chair or co-chair of several APAN
+working groups. This includes being the Chair of the
+&lt;a href="https://apan.net/elements/working-groups/oscr/" target="_blank" rel="noopener">Open Science Collaborative and Resource WG&lt;/a>,
+and a co-chair of the Agriculture WG and the Disaster Mitigation WG. The
+discussion focused on environmental data sharing, disaster mitigation, the role
+of research software, and the challenges of building sustainable research
+infrastructure in a diverse region like Asia.&lt;/p>
+&lt;p>This blog summarises the key insights from the session.&lt;/p>
+&lt;h2 id="why-this-series-exists">&lt;strong>Why This Series Exists&lt;/strong>&lt;/h2>
+&lt;p>The &lt;a href="https://rse-asia.github.io/RSE_Asia/event/" target="_blank" rel="noopener">&lt;strong>Research Software and NRENs in Asia&lt;/strong>&lt;/a>
+conversation series aims to create a collaborative space where:&lt;/p>
+&lt;ul>
+&lt;li>National Research and Education Networks (NRENs)&lt;/li>
+&lt;li>Research software engineers&lt;/li>
+&lt;li>Scientists and researchers&lt;/li>
+&lt;li>Infrastructure specialists&lt;/li>
+&lt;/ul>
+&lt;p>can come together to discuss shared challenges and opportunities.&lt;/p>
+&lt;p>Asia has a rapidly growing research ecosystem, but the research software
+community remains relatively scattered. By connecting people across
+institutions and countries, this series helps build awareness of how research
+software, infrastructure, and open science practices intersect.&lt;/p>
+&lt;p>The series also highlights how NRENs play a critical role in enabling
+large-scale research collaboration, particularly in data-intensive fields like
+environmental science.&lt;/p>
+&lt;h2 id="what-is-apan">&lt;strong>What is APAN?&lt;/strong>&lt;/h2>
+&lt;p>APAN is a long-standing collaboration of NRENs across the Asia-Pacific region.
+Founded in 1995, the network now connects around &lt;strong>20 economies&lt;/strong>, spanning
+across the Asia Pacific and beyond, including Europe and the USA.&lt;/p>
+&lt;p>APAN’s mission is to enable research collaboration by providing:&lt;/p>
+&lt;ul>
+&lt;li>High-speed research networks&lt;/li>
+&lt;li>Advanced computing infrastructure&lt;/li>
+&lt;li>Data sharing platforms&lt;/li>
+&lt;li>Collaborative research initiatives&lt;/li>
+&lt;/ul>
+&lt;p>The network organises &lt;strong>two meetings every year&lt;/strong>, usually attracting
+&lt;strong>200-400 participants&lt;/strong> from academia, government, and industry.&lt;/p>
+&lt;p>While the network infrastructure itself is critical, Dr. Tanpipat emphasised
+that &lt;strong>applications built on top of these networks are increasingly important&lt;/strong>.
+Today, research collaborations depend not only on connectivity but also on
+software, data systems, and collaborative tools.&lt;/p>
+&lt;h2 id="working-groups-across-the-apan-ecosystem">&lt;strong>Working Groups Across the APAN Ecosystem&lt;/strong>&lt;/h2>
+&lt;p>APAN’s work is organised into specialised working groups that focus on
+different research domains and technologies.&lt;/p>
+&lt;p>Some of the major working groups include:&lt;/p>
+&lt;ul>
+&lt;li>Agriculture&lt;/li>
+&lt;li>Disaster Mitigation&lt;/li>
+&lt;li>Telemedicine&lt;/li>
+&lt;li>Open Science Collaborative and Resources&lt;/li>
+&lt;li>Cloud Computing&lt;/li>
+&lt;li>Internet of Things (IoT)&lt;/li>
+&lt;li>Security and Routing&lt;/li>
+&lt;li>HPC and AI&lt;/li>
+&lt;li>Research Platforms&lt;/li>
+&lt;/ul>
+&lt;p>Among these, &lt;strong>Telemedicine&lt;/strong> remains one of the most active communities, with
+doctors and researchers participating in long collaborative sessions across
+time zones, with live sessions on all five days of the biannual the APAN
+meetings.&lt;/p>
+&lt;p>The &lt;strong>Agriculture working group&lt;/strong> was one of the earliest groups in the APAN.
+It focuses on using technology to support sustainable food production across
+the Asia-Pacific region.&lt;/p>
+&lt;h2 id="disaster-mitigation-and-environmental-data-collaboration">&lt;strong>Disaster Mitigation and Environmental Data Collaboration&lt;/strong>&lt;/h2>
+&lt;p>One of the most interesting parts of the discussion centred on the
+&lt;strong>Disaster Mitigation working group&lt;/strong>.&lt;/p>
+&lt;p>Asia experiences frequent environmental disasters, including:&lt;/p>
+&lt;ul>
+&lt;li>Floods&lt;/li>
+&lt;li>Typhoons&lt;/li>
+&lt;li>Earthquakes&lt;/li>
+&lt;li>Wildfires&lt;/li>
+&lt;li>Tsunamis&lt;/li>
+&lt;/ul>
+&lt;p>To respond effectively, researchers must combine data from multiple sources,
+including:&lt;/p>
+&lt;ul>
+&lt;li>Satellite imagery&lt;/li>
+&lt;li>Remote sensing data&lt;/li>
+&lt;li>Ground sensors&lt;/li>
+&lt;li>Weather models&lt;/li>
+&lt;li>Hydrological measurements&lt;/li>
+&lt;/ul>
+&lt;p>Historically, remote sensing data has been extremely large and difficult to
+move across networks. However, modern NREN infrastructure now allows large
+datasets to be transferred quickly for analysis.&lt;/p>
+&lt;p>International initiatives also support these efforts. For example, the
+&lt;a href="https://www.copernicus.eu/en" target="_blank" rel="noopener">&lt;strong>Copernicus programme&lt;/strong>&lt;/a> funded a satellite
+data centre in the Philippines to support environmental monitoring across
+ASEAN countries. The second phase of the project will focus more heavily on
+&lt;strong>applications and data analysis&lt;/strong>, rather than simply building infrastructure.&lt;/p>
+&lt;p>Similarly, high-performance computing infrastructure such as that supported by
+the &lt;a href="https://www.kisti.re.kr/eng/" target="_blank" rel="noopener">&lt;strong>Korea Institute of Science and Technology Information (KISTI)&lt;/strong>&lt;/a>
+helps provide computational resources for environmental research.&lt;/p>
+&lt;p>These collaborations enable near-real-time processing of disaster data across
+international research networks.&lt;/p>
+&lt;h2 id="the-role-of-research-software">&lt;strong>The Role of Research Software&lt;/strong>&lt;/h2>
+&lt;p>A central theme of the conversation was the role of &lt;strong>research software&lt;/strong> in
+environmental research.&lt;/p>
+&lt;p>Environmental science increasingly depends on software systems that:&lt;/p>
+&lt;ul>
+&lt;li>Process large satellite datasets&lt;/li>
+&lt;li>Integrate multiple data sources&lt;/li>
+&lt;li>Run predictive models&lt;/li>
+&lt;li>Generate dashboards for decision makers&lt;/li>
+&lt;/ul>
+&lt;p>Dr Chai highlighted that many scientists understand the scientific models but
+may not have the programming expertise to build robust software systems. This
+creates a strong need for collaboration between
+&lt;strong>domain scientists and software engineers&lt;/strong>.&lt;/p>
+&lt;p>In some projects, computer science students from France have helped implement
+web applications for operational use by government agencies. These applications
+can support activities such as wildfire monitoring or flood forecasting.&lt;/p>
+&lt;p>However, sustainability remains a major issue.&lt;/p>
+&lt;p>A recurring problem is a &lt;strong>lack of documentation&lt;/strong>. When students or short-term
+contributors leave a project without proper documentation, the software becomes
+difficult to maintain or extend.&lt;/p>
+&lt;p>This challenge highlights the importance of good software engineering practices
+in research.&lt;/p>
+&lt;h2 id="the-critical-importance-of-data-quality">&lt;strong>The Critical Importance of Data Quality&lt;/strong>&lt;/h2>
+&lt;p>Another key takeaway from the session was that
+&lt;strong>data quality is the foundation of reliable environmental research&lt;/strong>.&lt;/p>
+&lt;p>Dr Tanpipat summarised this with a familiar principle:&lt;/p>
+&lt;blockquote>
+&lt;p>Garbage in, garbage out.&lt;/p>
+&lt;/blockquote>
+&lt;p>No matter how sophisticated an algorithm may be, poor input data will produce
+unreliable results.&lt;/p>
+&lt;p>Environmental datasets often come from multiple sources:&lt;/p>
+&lt;ul>
+&lt;li>Satellite sensors&lt;/li>
+&lt;li>Ground monitoring stations&lt;/li>
+&lt;li>Citizen science contributions&lt;/li>
+&lt;li>IoT sensors&lt;/li>
+&lt;/ul>
+&lt;p>Each source has different levels of accuracy. For example, low-cost air-quality
+sensors may cost USD 20-30, while high-precision instruments can cost hundreds
+or thousands of dollars.&lt;/p>
+&lt;p>When researchers combine these datasets without understanding the differences
+in measurement accuracy, the resulting analysis can be misleading.&lt;/p>
+&lt;h2 id="challenges-in-data-sharing-and-open-science">&lt;strong>Challenges in Data Sharing and Open Science&lt;/strong>&lt;/h2>
+&lt;p>Despite growing interest in open science, sharing research data remains
+difficult.&lt;/p>
+&lt;p>Researchers often hesitate to share their datasets for several reasons:&lt;/p>
+&lt;ul>
+&lt;li>Fear that others may publish different results using the same data&lt;/li>
+&lt;li>Concerns about sensitive or confidential information&lt;/li>
+&lt;li>Institutional or national policies restricting access&lt;/li>
+&lt;li>Lack of incentives for sharing data&lt;/li>
+&lt;/ul>
+&lt;p>These concerns create barriers to implementing &lt;strong>FAIR data principles&lt;/strong>
+(Findable, Accessible, Interoperable, Reusable).&lt;/p>
+&lt;p>Dr Chai noted that funding agencies are increasingly requiring researchers to
+upload their datasets to public repositories. However, cultural change takes
+time, and many institutions are still adapting to these expectations.&lt;/p>
+&lt;h2 id="ai-synthetic-data-and-research-integrity">&lt;strong>AI, Synthetic Data, and Research Integrity&lt;/strong>&lt;/h2>
+&lt;p>The discussion also touched on the role of &lt;strong>AI and generative technologies&lt;/strong>
+in environmental research.&lt;/p>
+&lt;p>AI can help:&lt;/p>
+&lt;ul>
+&lt;li>Generate synthetic datasets for testing models&lt;/li>
+&lt;li>Accelerate code development&lt;/li>
+&lt;li>Support predictive modelling&lt;/li>
+&lt;/ul>
+&lt;p>However, there are also risks. AI-generated data may appear realistic, but
+could contain inaccuracies or fabricated information.&lt;/p>
+&lt;p>For this reason, researchers must clearly document:&lt;/p>
+&lt;ul>
+&lt;li>The origin of their data&lt;/li>
+&lt;li>Whether AI was used to generate or modify datasets&lt;/li>
+&lt;li>The limitations of the data&lt;/li>
+&lt;/ul>
+&lt;p>Metadata and documentation are essential for maintaining trust in research
+outputs.&lt;/p>
+&lt;h2 id="skills-for-future-researchers-and-research-software-engineers">&lt;strong>Skills for Future Researchers and Research Software Engineers&lt;/strong>&lt;/h2>
+&lt;p>For early-career researchers interested in working at the intersection of
+environmental science and research software, several skills are particularly
+valuable.&lt;/p>
+&lt;p>&lt;strong>1. Strong Programming Skills&lt;/strong>&lt;/p>
+&lt;p>Researchers should develop the ability to write efficient and maintainable
+code.&lt;/p>
+&lt;p>&lt;strong>2. Cross-disciplinary Understanding&lt;/strong>&lt;/p>
+&lt;p>Software engineers working in environmental research must understand the
+scientific context behind their tools.&lt;/p>
+&lt;p>For example, understanding:&lt;/p>
+&lt;ul>
+&lt;li>hydrology&lt;/li>
+&lt;li>forestry&lt;/li>
+&lt;li>weather systems&lt;/li>
+&lt;li>GIS and remote sensing&lt;/li>
+&lt;/ul>
+&lt;p>helps developers design better tools for real-world applications.&lt;/p>
+&lt;p>&lt;strong>3. Systems Thinking&lt;/strong>&lt;/p>
+&lt;p>Environmental systems are complex and interconnected. Researchers must develop
+the ability to connect information across disciplines.&lt;/p>
+&lt;p>&lt;strong>4. Continuous Learning&lt;/strong>&lt;/p>
+&lt;p>Environmental research evolves rapidly, and researchers must constantly update
+their knowledge.&lt;/p>
+&lt;h2 id="looking-ahead">&lt;strong>Looking Ahead&lt;/strong>&lt;/h2>
+&lt;p>The session highlighted both the &lt;strong>opportunities and challenges&lt;/strong> in building
+sustainable environmental research infrastructure in Asia.&lt;/p>
+&lt;p>Key priorities include:&lt;/p>
+&lt;ul>
+&lt;li>Improving access to high-quality environmental data&lt;/li>
+&lt;li>Encouraging open science practices&lt;/li>
+&lt;li>Strengthening collaborations between scientists and software engineers&lt;/li>
+&lt;li>Investing in sustainable research software development&lt;/li>
+&lt;li>Building cross-disciplinary skills among researchers&lt;/li>
+&lt;/ul>
+&lt;p>Environmental challenges such as climate change, extreme weather, and natural
+disasters will only grow in importance in the coming decades. Addressing them
+requires strong collaboration across countries, disciplines, and technologies.&lt;/p>
+&lt;p>As Dr. Chai concluded during the session:&lt;/p>
+&lt;blockquote>
+&lt;p>We are in different boats, but we are in the same storm.&lt;/p>
+&lt;/blockquote>
+&lt;p>Collaboration across the Asia-Pacific research ecosystem will be essential for
+building resilience and developing sustainable solutions.&lt;/p>
+&lt;h2 id="participate-in-the-rse-asia-landscape-survey">&lt;strong>Participate in the RSE Asia Landscape Survey&lt;/strong>&lt;/h2>
+&lt;p>To better understand the state of research in software engineering across the
+region, the &lt;strong>RSE Asia Association&lt;/strong> has launched a landscape survey. The
+survey aims to collect insights about career paths, challenges, and
+opportunities for research software professionals in Asia.&lt;/p>
+&lt;p>The survey is open until &lt;strong>31 March&lt;/strong>, and participants will be entered into a
+raffle for a &lt;strong>£10 prize&lt;/strong>.&lt;/p>
+&lt;h2 id="stay-connected-with-rse-asia">&lt;strong>Stay Connected with RSE Asia&lt;/strong>&lt;/h2>
+&lt;p>To receive updates about upcoming events and community activities, you can join
+the &lt;strong>RSE Asia community&lt;/strong> for free.&lt;/p>
+&lt;p>Future sessions in this series will continue exploring the intersection of
+research software, open science, and digital research infrastructure across
+Asia.&lt;/p>
+&lt;p>Recordings and additional resources from this session will also be shared
+through the RSE Asia channels.&lt;/p>
+&lt;h2 id="whats-next">&lt;strong>What’s next?&lt;/strong>&lt;/h2>
+&lt;p>In April, we will have a Community Webinar that features
+&lt;a href="https://www.linkedin.com/in/mohamad-mostafa/" target="_blank" rel="noopener">Mohamad Mostafa&lt;/a>, Community
+Specialist, DataCite, UAE.&lt;/p>
+&lt;p>Meanwhile, RSE Asia encourages community members to:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Participate in the ongoing
+&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform" target="_blank" rel="noopener">research software landscape survey in Asia&lt;/a>,
+which is open until 31st March 2026. You also stand a chance to win a cash
+prize of £10 for 5 participants based on a raffle.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Register for the community webinar on
+&lt;a href="https://rse-asia.github.io/RSE_Asia/event/2026-04-14_datacite_webinar/" target="_blank" rel="noopener">Connecting Research Software to the Scholarly Record with DataCite&lt;/a>, where we welcome &lt;a href="https://www.linkedin.com/in/mohamad-mostafa/" target="_blank" rel="noopener">Mohamad Mostafa&lt;/a>, Community Specialist, DataCite, UAE, with whom we will
+discuss how DataCite’s open PID infrastructure and rich metadata support the
+persistent identification and discoverability of research software.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Join the RSE Asia &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership&lt;/a>
+to get the latest news.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on
+LinkedIn for updates and opportunities.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
+&lt;p>If you were not able to join the meetup live or would like to revisit it, the
+&lt;em>&lt;strong>video recording&lt;/strong>&lt;/em> of the episode is coming soon. Throughout the meetup, the
+guest, the facilitators, and the participants shared a bunch of useful
+resources for the community for shared progress. We have compiled it in the
+form of a Resource Sheet. Definitely, check it out!&lt;/p>
+&lt;p>&lt;strong>Resource sheet:&lt;/strong> Zenodo link coming soon!&lt;/p>
+&lt;hr>
+&lt;h3 id="learn-more-about-us">&lt;strong>Learn More About Us&lt;/strong>&lt;/h3>
+&lt;p>If you have any questions about, please reach out to us at:
+&lt;a href="mailto:rse.asia.association@gmail.com">rse.asia.association@gmail.com&lt;/a>.
+For more information and to join upcoming events, visit:&lt;/p>
+&lt;ul>
+&lt;li>Website: &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">https://rse-asia.github.io/RSE_Asia/&lt;/a>&lt;/li>
+&lt;li>For the latest news, events, activities, and opportunities, follow us on our &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">LinkedIn page&lt;/a>&lt;/li>
+&lt;li>To join the RSE Asia community, please fill out our short &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership Form&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
