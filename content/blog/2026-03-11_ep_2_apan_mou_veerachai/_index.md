@@ -1,6 +1,6 @@
   
 ---
-title: "Episode 2 - Research Software and Environmental Research in Asia"
+title: "Research Software and Environmental Research in Asia"
 subtitle: "This blog post summarises the second episode of the Research
 Software and NRENs in Asia series, featuring a conversation with Dr. Veerachai
 Tanpipat, Senior Expert at the *Hydroinformatics Institute*, Thailand."
@@ -30,6 +30,14 @@ draft: false
 
 ![Episode 2 banner](rs_nren_series_banner_episode_2.png)
 
+Asia has a rapidly growing research ecosystem, but the research software
+community remains relatively scattered. By connecting people across
+institutions and countries, this series helps build awareness of how research
+software, infrastructure, and open science practices intersect.
+The series also highlights how NRENs play a critical role in enabling
+large-scale research collaboration, particularly in data-intensive fields like
+environmental science.
+
 The second episode of the
 [**Research Software and NRENs in Asia**](https://rse-asia.github.io/RSE_Asia/event/)
 community conversation series brought together researchers, research software
@@ -52,28 +60,15 @@ using technology to support sustainable food production across the Asia-Pacific
 region. He emphasised how each of these is interrelated, and that in order to
 solve the problems in any of these areas, the researchers, as well as the
 software developer, should gain an understanding of the different disciplines.
-
-This blog summarises the key insights from the session.
-
-## **Why This Series Exists**
-
-Asia has a rapidly growing research ecosystem, but the research software
-community remains relatively scattered. By connecting people across
-institutions and countries, this series helps build awareness of how research
-software, infrastructure, and open science practices intersect.
-The series also highlights how NRENs play a critical role in enabling
-large-scale research collaboration, particularly in data-intensive fields like
-environmental science.
-
-## **APAN and Environmental Research**
-
 The APAN is a long-standing collaboration of the NRENs across the Asia-Pacific
 region. While the network infrastructure itself is critical, Dr. Tanpipat
 emphasised that applications built on top of these networks are increasingly
 important. Today, research collaborations depend not only on connectivity but
 also on software, data systems, and collaborative tools.
 
-## **Disaster Mitigation and Environmental Data Collaboration**
+This blog summarises the key insights from the session.
+
+## **Disaster mitigation and environmental data collaboration**
 
 One of the most interesting parts of the discussion centred on the
 **Disaster Mitigation working group**. Asia experiences frequent environmental
@@ -100,7 +95,7 @@ provides computational resources for ASEAN environmental research at the
 These collaborations enable near-real-time processing of disaster data across
 international research networks.
 
-## **The Role of Research Software**
+## **The role of research software**
 
 A central theme of the conversation was the role of **research software** in
 environmental research.
@@ -129,7 +124,7 @@ maintain or extend.
 This challenge highlights the importance of good software engineering practices
 in research.
 
-## **The Critical Importance of Data Quality**
+## **The critical importance of data quality**
 
 Another key takeaway from the session was that
 **data quality is the foundation of reliable environmental research**.
@@ -152,17 +147,16 @@ or thousands of dollars.
 When researchers combine these datasets without understanding the differences
 in measurement accuracy, the resulting analysis can be misleading.
 
-## **Challenges in Data Sharing and Open Science**
+## **Challenges in data sharing and open science**
 
 Despite growing interest in open science, sharing research data remains
 difficult.
 
-Researchers often hesitate to share their datasets for several reasons:
-
-- Fear that others may publish different results using the same data  
-- Concerns about sensitive or confidential information  
-- Institutional or national policies restricting access  
-- Lack of incentives for sharing data
+Researchers often hesitate to share their datasets for several reasons like the
+fear that others may publish different results using the same data, concerns
+about sensitive or confidential information, Institutional or national policies
+restricting access, Lack of incentives for sharing data, and the effort
+required to prepare data for sharing (e.g., cleaning, documentation).
 
 These concerns create barriers to implementing **FAIR data principles**
 (Findable, Accessible, Interoperable, Reusable).
@@ -171,41 +165,36 @@ Dr Chai noted that funding agencies are increasingly requiring researchers to
 upload their datasets to public repositories. However, cultural change takes
 time, and many institutions are still adapting to these expectations.
 
-## **AI, Synthetic Data, and Research Integrity**
+## **AI, synthetic data, and research integrity**
 
 The discussion also touched on the role of **AI and generative technologies**
 in environmental research.
 
-AI can help:
-
-- Generate synthetic datasets for testing models  
-- Accelerate code development  
-- Support predictive modelling
+AI can help to generate synthetic datasets for testing models, accelerate code
+development, and Support predictive modelling.
 
 However, there are also risks. AI-generated data may appear realistic, but
 could contain inaccuracies or fabricated information.
 
-For this reason, researchers must clearly document:
-
-- The origin of their data  
-- Whether AI was used to generate or modify datasets  
-- The limitations of the data
+For this reason, researchers must clearly document the origin of their data,
+whether AI was used to generate or modify datasets, the limitations of the
+data.
 
 Metadata and documentation are essential for maintaining trust in research
 outputs.
 
-## **Skills for Future Researchers and Research Software Engineers**
+## **Skills for future researchers and research software engineers**
 
 For early-career researchers interested in working at the intersection of
 environmental science and research software, several skills are particularly
 valuable.
 
-**1\. Strong Programming Skills**
+**1\. Strong programming skills**
 
 Researchers should develop the ability to write efficient and maintainable
 code.
 
-**2\. Cross-disciplinary Understanding**
+**2\. Cross-disciplinary understanding**
 
 Software engineers working in environmental research must understand the
 scientific context behind their tools.
@@ -214,17 +203,17 @@ For example, understanding hydrology, forestry, weather systems, and GIS and
 remote sensing helps developers design better tools for real-world
 applications.
 
-**3\. Systems Thinking**
+**3\. Systems thinking**
 
 Environmental systems are complex and interconnected. Researchers must develop
 the ability to connect information across disciplines.
 
-**4\. Continuous Learning**
+**4\. Continuous learning**
 
 Environmental research evolves rapidly, and researchers must constantly update
 their knowledge.
 
-## **Looking Ahead**
+## **Looking ahead**
 
 The session highlighted both the **opportunities and challenges** in building
 sustainable environmental research infrastructure in Asia.
@@ -248,7 +237,7 @@ As Dr. Chai concluded during the session:
 Collaboration across the Asia-Pacific research ecosystem will be essential for
 building resilience and developing sustainable solutions.
 
-## **Participate in the RSE Asia Landscape Survey**
+## **Participate in the RSE Asia landscape survey**
 
 To better understand the state of research in software engineering across the
 region, the **RSE Asia Association** has launched a landscape survey. The
@@ -257,18 +246,6 @@ opportunities for research software professionals in Asia.
 
 The survey is open until **31 March**, and participants will be entered into a
 raffle for a **£10 prize**.
-
-## **Stay Connected with RSE Asia**
-
-To receive updates about upcoming events and community activities, you can join
-the **RSE Asia community** for free.
-
-Future sessions in this series will continue exploring the intersection of
-research software, open science, and digital research infrastructure across
-Asia.
-
-Recordings and additional resources from this session will also be shared
-through the RSE Asia channels.
 
 ## **What’s next?**
 
@@ -304,7 +281,7 @@ form of a Resource Sheet. Definitely, check it out\!
 
 ------------------------------------------------------------------------
 
-### **Learn More About Us**
+### **Learn more about us**
 
 If you have any questions about, please reach out to us at:
 rse.asia.association@gmail.com.
