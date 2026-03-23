@@ -94,7 +94,8 @@ ASEAN countries. The second phase of the project will focus more heavily on
 
 Similarly, high-performance computing infrastructure such as that supported by
 the [**Korea Institute of Science and Technology Information (KISTI)**](https://www.kisti.re.kr/eng/)
-helps provide computational resources for environmental research.
+provides computational resources for ASEAN environmental research at the
+[National Research and Innovation Agency (BRIN)](https://www.brin.go.id/en).
 
 These collaborations enable near-real-time processing of disaster data across
 international research networks.
@@ -114,8 +115,11 @@ creates a strong need for collaboration between
 **domain scientists and software engineers**.
 
 In some projects, computer science students from France have helped implement
-web applications for operational use by government agencies. These applications
-can support activities such as wildfire monitoring or flood forecasting.
+web applications for operational use by
+[government agencies and NGOs](https://wildlandfire.thairen.net.th/landfirealertsmap_thailand/).
+These applications can support activities such as wildfire monitoring or flood
+forecasting which is looked after by the
+[National Hydroinformatics Centre of Thailand](https://www.thaiwater.net/).
 
 However, sustainability remains a major issue. A recurring problem is a
 **lack of documentation**. When students or short-term contributors leave a
@@ -132,7 +136,7 @@ Another key takeaway from the session was that
 
 Dr Tanpipat summarised this with a familiar principle:
 
-> Garbage in, garbage out.
+> “Garbage In, Garbage Out, GIGO."
 
 No matter how sophisticated an algorithm may be, poor input data will produce
 unreliable results.
