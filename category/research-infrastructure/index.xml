@@ -64,7 +64,8 @@ ASEAN countries. The second phase of the project will focus more heavily on
 &lt;strong>applications and data analysis&lt;/strong>, rather than simply building infrastructure.&lt;/p>
 &lt;p>Similarly, high-performance computing infrastructure such as that supported by
 the &lt;a href="https://www.kisti.re.kr/eng/" target="_blank" rel="noopener">&lt;strong>Korea Institute of Science and Technology Information (KISTI)&lt;/strong>&lt;/a>
-helps provide computational resources for environmental research.&lt;/p>
+provides computational resources for ASEAN environmental research at the
+&lt;a href="https://www.brin.go.id/en" target="_blank" rel="noopener">National Research and Innovation Agency (BRIN)&lt;/a>.&lt;/p>
 &lt;p>These collaborations enable near-real-time processing of disaster data across
 international research networks.&lt;/p>
 &lt;h2 id="the-role-of-research-software">&lt;strong>The Role of Research Software&lt;/strong>&lt;/h2>
@@ -78,8 +79,11 @@ may not have the programming expertise to build robust software systems. This
 creates a strong need for collaboration between
 &lt;strong>domain scientists and software engineers&lt;/strong>.&lt;/p>
 &lt;p>In some projects, computer science students from France have helped implement
-web applications for operational use by government agencies. These applications
-can support activities such as wildfire monitoring or flood forecasting.&lt;/p>
+web applications for operational use by
+&lt;a href="https://wildlandfire.thairen.net.th/landfirealertsmap_thailand/" target="_blank" rel="noopener">government agencies and NGOs&lt;/a>.
+These applications can support activities such as wildfire monitoring or flood
+forecasting which is looked after by the
+&lt;a href="https://www.thaiwater.net/" target="_blank" rel="noopener">National Hydroinformatics Centre of Thailand&lt;/a>.&lt;/p>
 &lt;p>However, sustainability remains a major issue. A recurring problem is a
 &lt;strong>lack of documentation&lt;/strong>. When students or short-term contributors leave a
 project without proper documentation, the software becomes difficult to
@@ -91,7 +95,7 @@ in research.&lt;/p>
 &lt;strong>data quality is the foundation of reliable environmental research&lt;/strong>.&lt;/p>
 &lt;p>Dr Tanpipat summarised this with a familiar principle:&lt;/p>
 &lt;blockquote>
-&lt;p>Garbage in, garbage out.&lt;/p>
+&lt;p>“Garbage In, Garbage Out, GIGO.&amp;quot;&lt;/p>
 &lt;/blockquote>
 &lt;p>No matter how sophisticated an algorithm may be, poor input data will produce
 unreliable results.&lt;/p>
