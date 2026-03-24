@@ -105,9 +105,9 @@ Beyond these, disaster response and data sharing efforts are also closely
 linked with global initiatives and organisations such as [UN-SPIDER](https://www.unoosa.org/oosa/en/ourwork/un-spider/index.html), [UNESCO](https://www.unesco.org/en),
 [CODATA](https://codata.org/),
 the [European Space Agency (ESA)](https://www.esa.int/), the
-(European Centre for Medium-Range Weather Forecasts (ECMWF))[https://www.ecmwf.int/],
+[European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/),
 [NASA](https://www.nasa.gov/), and the
-(European Grid Infrastructure (EGI))[https://www.egi.eu/], which contribute
+[European Grid Infrastructure (EGI)](https://www.egi.eu/), which contribute
 data, frameworks, and coordination for cross-border disaster response and
 environmental monitoring.
 
