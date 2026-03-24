@@ -43,7 +43,10 @@ The APAN is a long-standing collaboration of the NRENs across the Asia-Pacific
 region. While the network infrastructure itself is critical, Dr. Tanpipat
 emphasised that applications built on top of these networks are increasingly
 important. Today, research collaborations depend not only on connectivity but
-also on software, data systems, and collaborative tools.&lt;/p>
+also on software, data systems, and collaborative tools. He also highlighted
+how national-level infrastructures such as Thailand’s UniNET and ThaiREN play a
+crucial role in connecting local research institutions to the broader the APAN
+ecosystem, enabling both domestic and international collaboration.&lt;/p>
 &lt;p>This blog summarises the key insights from the session.&lt;/p>
 &lt;h2 id="disaster-mitigation-and-environmental-data-collaboration">&lt;strong>Disaster mitigation and environmental data collaboration&lt;/strong>&lt;/h2>
 &lt;p>One of the most interesting parts of the discussion centred on the
@@ -55,6 +58,10 @@ models, and hydrological measurements.&lt;/p>
 &lt;p>Historically, remote sensing data has been extremely large and difficult to
 move across networks. However, modern NREN infrastructure now allows large
 datasets to be transferred quickly for analysis.&lt;/p>
+&lt;p>Additionally, these working groups often collaborate with organisations such as
+Japan’s National Institute of Informatics (NII), which supports data
+infrastructure and capacity building, particularly in areas like research data
+management and library integration.&lt;/p>
 &lt;p>International initiatives also support these efforts. For example, the
 &lt;a href="https://www.copernicus.eu/en" target="_blank" rel="noopener">&lt;strong>Copernicus programme&lt;/strong>&lt;/a> funded a satellite
 data centre in the Philippines to support environmental monitoring across
@@ -64,6 +71,10 @@ ASEAN countries. The second phase of the project will focus more heavily on
 the &lt;a href="https://www.kisti.re.kr/eng/" target="_blank" rel="noopener">&lt;strong>Korea Institute of Science and Technology Information (KISTI)&lt;/strong>&lt;/a>
 provides computational resources for ASEAN environmental research at the
 &lt;a href="https://www.brin.go.id/en" target="_blank" rel="noopener">National Research and Innovation Agency (BRIN)&lt;/a>.&lt;/p>
+&lt;p>Beyond these, disaster response and data sharing efforts are also closely
+linked with global initiatives and organisations such as UN-SPIDER, UNESCO,
+CODATA, ESA, ECMWF, NASA, and EGI, which contribute data, frameworks, and
+coordination for cross-border disaster response and environmental monitoring.&lt;/p>
 &lt;p>These collaborations enable near-real-time processing of disaster data across
 international research networks.&lt;/p>
 &lt;h2 id="the-role-of-research-software">&lt;strong>The role of research software&lt;/strong>&lt;/h2>
@@ -118,6 +129,10 @@ required to prepare data for sharing (e.g., cleaning, documentation).&lt;/p>
 &lt;p>Dr Chai noted that funding agencies are increasingly requiring researchers to
 upload their datasets to public repositories. However, cultural change takes
 time, and many institutions are still adapting to these expectations.&lt;/p>
+&lt;p>He also noted that collaborations with international bodies and frameworks -
+such as those supported by UNESCO and CODATA - are helping to push forward
+conversations around standards, metadata, and interoperability, even though
+adoption remains uneven across regions.&lt;/p>
 &lt;h2 id="ai-synthetic-data-and-research-integrity">&lt;strong>AI, synthetic data, and research integrity&lt;/strong>&lt;/h2>
 &lt;p>The discussion also touched on the role of &lt;strong>AI and generative technologies&lt;/strong>
 in environmental research.&lt;/p>
