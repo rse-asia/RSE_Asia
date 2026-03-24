@@ -65,9 +65,10 @@ region. While the network infrastructure itself is critical, Dr. Tanpipat
 emphasised that applications built on top of these networks are increasingly
 important. Today, research collaborations depend not only on connectivity but
 also on software, data systems, and collaborative tools. He also highlighted
-how national-level infrastructures such as Thailand’s UniNET and ThaiREN play a
-crucial role in connecting local research institutions to the broader the APAN
-ecosystem, enabling both domestic and international collaboration.
+how national-level infrastructures such as Thailand’s
+[UniNET](https://www.uni.net.th/) and [ThaiREN](https://www.thairen.net.th/)
+play a crucial role in connecting local research institutions to the broader
+the APAN ecosystem, enabling both domestic and international collaboration.
 
 This blog summarises the key insights from the session.
 
@@ -101,9 +102,14 @@ provides computational resources for ASEAN environmental research at the
 [National Research and Innovation Agency (BRIN)](https://www.brin.go.id/en).
 
 Beyond these, disaster response and data sharing efforts are also closely
-linked with global initiatives and organisations such as UN-SPIDER, UNESCO,
-CODATA, ESA, ECMWF, NASA, and EGI, which contribute data, frameworks, and
-coordination for cross-border disaster response and environmental monitoring.
+linked with global initiatives and organisations such as [UN-SPIDER](https://www.unoosa.org/oosa/en/ourwork/un-spider/index.html), [UNESCO](https://www.unesco.org/en),
+[CODATA](https://codata.org/),
+the [European Space Agency (ESA)](https://www.esa.int/), the
+(European Centre for Medium-Range Weather Forecasts (ECMWF))[https://www.ecmwf.int/],
+[NASA](https://www.nasa.gov/), and the
+(European Grid Infrastructure (EGI))[https://www.egi.eu/], which contribute
+data, frameworks, and coordination for cross-border disaster response and
+environmental monitoring.
 
 These collaborations enable near-real-time processing of disaster data across
 international research networks.
