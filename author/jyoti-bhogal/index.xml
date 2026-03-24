@@ -44,9 +44,10 @@ region. While the network infrastructure itself is critical, Dr. Tanpipat
 emphasised that applications built on top of these networks are increasingly
 important. Today, research collaborations depend not only on connectivity but
 also on software, data systems, and collaborative tools. He also highlighted
-how national-level infrastructures such as Thailand’s UniNET and ThaiREN play a
-crucial role in connecting local research institutions to the broader the APAN
-ecosystem, enabling both domestic and international collaboration.&lt;/p>
+how national-level infrastructures such as Thailand’s
+&lt;a href="https://www.uni.net.th/" target="_blank" rel="noopener">UniNET&lt;/a> and &lt;a href="https://www.thairen.net.th/" target="_blank" rel="noopener">ThaiREN&lt;/a>
+play a crucial role in connecting local research institutions to the broader
+the APAN ecosystem, enabling both domestic and international collaboration.&lt;/p>
 &lt;p>This blog summarises the key insights from the session.&lt;/p>
 &lt;h2 id="disaster-mitigation-and-environmental-data-collaboration">&lt;strong>Disaster mitigation and environmental data collaboration&lt;/strong>&lt;/h2>
 &lt;p>One of the most interesting parts of the discussion centred on the
@@ -72,9 +73,14 @@ the &lt;a href="https://www.kisti.re.kr/eng/" target="_blank" rel="noopener">&lt
 provides computational resources for ASEAN environmental research at the
 &lt;a href="https://www.brin.go.id/en" target="_blank" rel="noopener">National Research and Innovation Agency (BRIN)&lt;/a>.&lt;/p>
 &lt;p>Beyond these, disaster response and data sharing efforts are also closely
-linked with global initiatives and organisations such as UN-SPIDER, UNESCO,
-CODATA, ESA, ECMWF, NASA, and EGI, which contribute data, frameworks, and
-coordination for cross-border disaster response and environmental monitoring.&lt;/p>
+linked with global initiatives and organisations such as &lt;a href="https://www.unoosa.org/oosa/en/ourwork/un-spider/index.html" target="_blank" rel="noopener">UN-SPIDER&lt;/a>, &lt;a href="https://www.unesco.org/en" target="_blank" rel="noopener">UNESCO&lt;/a>,
+&lt;a href="https://codata.org/" target="_blank" rel="noopener">CODATA&lt;/a>,
+the &lt;a href="https://www.esa.int/" target="_blank" rel="noopener">European Space Agency (ESA)&lt;/a>, the
+(European Centre for Medium-Range Weather Forecasts (ECMWF))[https://www.ecmwf.int/],
+&lt;a href="https://www.nasa.gov/" target="_blank" rel="noopener">NASA&lt;/a>, and the
+(European Grid Infrastructure (EGI))[https://www.egi.eu/], which contribute
+data, frameworks, and coordination for cross-border disaster response and
+environmental monitoring.&lt;/p>
 &lt;p>These collaborations enable near-real-time processing of disaster data across
 international research networks.&lt;/p>
 &lt;h2 id="the-role-of-research-software">&lt;strong>The role of research software&lt;/strong>&lt;/h2>
