@@ -70,6 +70,8 @@ how national-level infrastructures such as Thailand’s
 play a crucial role in connecting local research institutions to the broader
 the APAN ecosystem, enabling both domestic and international collaboration.
 
+![UniNET](uninet.png)
+
 This blog summarises the key insights from the session.
 
 ## **Disaster mitigation and environmental data collaboration**
