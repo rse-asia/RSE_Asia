@@ -64,7 +64,10 @@ The APAN is a long-standing collaboration of the NRENs across the Asia-Pacific
 region. While the network infrastructure itself is critical, Dr. Tanpipat
 emphasised that applications built on top of these networks are increasingly
 important. Today, research collaborations depend not only on connectivity but
-also on software, data systems, and collaborative tools.
+also on software, data systems, and collaborative tools. He also highlighted
+how national-level infrastructures such as Thailand’s UniNET and ThaiREN play a
+crucial role in connecting local research institutions to the broader the APAN
+ecosystem, enabling both domestic and international collaboration.
 
 This blog summarises the key insights from the session.
 
@@ -81,6 +84,11 @@ Historically, remote sensing data has been extremely large and difficult to
 move across networks. However, modern NREN infrastructure now allows large
 datasets to be transferred quickly for analysis.
 
+Additionally, these working groups often collaborate with organisations such as
+Japan’s National Institute of Informatics (NII), which supports data
+infrastructure and capacity building, particularly in areas like research data
+management and library integration.
+
 International initiatives also support these efforts. For example, the
 [**Copernicus programme**](https://www.copernicus.eu/en) funded a satellite
 data centre in the Philippines to support environmental monitoring across
@@ -91,6 +99,11 @@ Similarly, high-performance computing infrastructure such as that supported by
 the [**Korea Institute of Science and Technology Information (KISTI)**](https://www.kisti.re.kr/eng/)
 provides computational resources for ASEAN environmental research at the
 [National Research and Innovation Agency (BRIN)](https://www.brin.go.id/en).
+
+Beyond these, disaster response and data sharing efforts are also closely
+linked with global initiatives and organisations such as UN-SPIDER, UNESCO,
+CODATA, ESA, ECMWF, NASA, and EGI, which contribute data, frameworks, and
+coordination for cross-border disaster response and environmental monitoring.
 
 These collaborations enable near-real-time processing of disaster data across
 international research networks.
@@ -164,6 +177,11 @@ These concerns create barriers to implementing **FAIR data principles**
 Dr Chai noted that funding agencies are increasingly requiring researchers to
 upload their datasets to public repositories. However, cultural change takes
 time, and many institutions are still adapting to these expectations.
+
+He also noted that collaborations with international bodies and frameworks -
+such as those supported by UNESCO and CODATA - are helping to push forward
+conversations around standards, metadata, and interoperability, even though
+adoption remains uneven across regions.
 
 ## **AI, synthetic data, and research integrity**
 
