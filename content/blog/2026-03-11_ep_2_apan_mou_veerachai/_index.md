@@ -72,6 +72,7 @@ the APAN ecosystem, enabling both domestic and international collaboration.
 
 ![UniNET](uninet.png)
 
+![UniNET Services](uninet_services.png)
 This blog summarises the key insights from the session.
 
 ## **Disaster mitigation and environmental data collaboration**
