@@ -58,7 +58,7 @@ The session will explore themes such as skills development, mentorship, experime
 
 **12 May 2026 @ 7:00 – 8:00 UTC [(see in your local time)]()**
 
-**[Register now]()**
+**[Register now](https://us06web.zoom.us/meeting/register/oukrU2YbTgWhJCcoR03oNw#/registration)**
 
 ## Invited Guest
 
