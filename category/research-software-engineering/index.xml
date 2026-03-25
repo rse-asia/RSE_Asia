@@ -61,7 +61,19 @@ height="428"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>This blog summarises the key insights from the session.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="UniNET Services" srcset="
+/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/uninet_services_hu3135831004935195340.webp 400w,
+/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/uninet_services_hu1644423894710928524.webp 760w,
+/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/uninet_services_hu15349397428706565658.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/uninet_services_hu3135831004935195340.webp"
+width="760"
+height="430"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+This blog summarises the key insights from the session.&lt;/p>
 &lt;h2 id="disaster-mitigation-and-environmental-data-collaboration">&lt;strong>Disaster mitigation and environmental data collaboration&lt;/strong>&lt;/h2>
 &lt;p>One of the most interesting parts of the discussion centred on the
 &lt;strong>Disaster Mitigation working group&lt;/strong>. Asia experiences frequent environmental
