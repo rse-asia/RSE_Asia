@@ -30,13 +30,13 @@ In today’s research landscape, software is no longer a side-product \- it sits
 
 In our recent RSE Asia webinar, *“[Connecting Research Software to the Scholarly Record with DataCite](https://rse-asia.github.io/RSE_Asia/event/2026-04-14_datacite_webinar/)”,* we explored how this gap can be addressed. Hosted by Jyoti Bhogal and co-led by Saranjeet, the session featured [Mohamad Mustafa](https://www.linkedin.com/in/mohamad-mostafa/), Community Specialist at [DataCite](https://datacite.org/), who shared both conceptual foundations and practical pathways for making research software more visible, citable, and connected.
 
-## **Why Connecting Research Software Matters**
+## **Why connecting research software matters**
 
 The session began with a question that resonated with many participants: how can researchers ensure that their software is properly credited and discoverable? While journal articles continue to dominate academic recognition, they represent only the final stage of a much longer research process. Behind every publication lies a series of outputs \- code, datasets, workflows, and presentations \- that are rarely given equal importance.
 
 This imbalance creates a disconnect. Researchers invest significant time developing software, yet without proper infrastructure, that work often remains invisible. The webinar highlighted that solving this problem is not just about tools, but about changing how we think about research outputs altogether.
 
-## **Open Science and the Role of Infrastructure**
+## **Open science and the role of infrastructure**
 
 To frame this discussion, Mohamad referred to the [2021 recommendations by UNESCO on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949). These recommendations emphasise that open science is not only about making outputs accessible, but also about building systems that allow those outputs to be identified, recognised, connected, and reused.
 
@@ -44,7 +44,7 @@ A key idea here is “unambiguous identification.” In a global research ecosys
 
 Rather than isolated pieces of work, research becomes a network of interconnected contributions.
 
-## **Understanding DataCite’s Role**
+## **Understanding DataCite’s role**
 
 At the centre of this infrastructure is DataCite, a global non-profit organisation established in 2009\. Initially focused on enabling citation for research data, DataCite has since evolved into a broader platform that supports a wide range of research outputs.
 
@@ -52,7 +52,7 @@ Today, its community includes over 1,700 organisations across more than 70 count
 
 This perspective is especially important for research software, which has historically been overlooked despite its critical role.
 
-## **Software as a Recognised Research Output**
+## **Software as a recognised research output**
 
 One of the most significant shifts discussed during the webinar was the growing recognition of software as a legitimate research output. DataCite formally introduced software as a resource type in 2017, enabling it to be assigned DOIs and described through metadata.
 
@@ -66,7 +66,7 @@ Since then, the number of software records in the DataCite registry has steadily
 
 The data also shows that this trend is accelerating. Even early into 2026, tens of thousands of software entries had already been registered, suggesting that researchers are beginning to see the value of making their code visible and citable.
 
-## **The Role of Repositories**
+## **The role of repositories**
 
 An important part of this ecosystem is the role played by repositories. Platforms such as Zenodo, Figshare, and Code Ocean allow researchers to deposit their software and automatically receive DOIs.
 
@@ -75,7 +75,7 @@ An important part of this ecosystem is the role played by repositories. Platform
 
 For many participants, this was a practical takeaway. Even if an institution is not directly connected to DataCite, researchers can still benefit from its infrastructure by using repositories that are already part of the DataCite community via DataCite Fabrica. In this way, access to persistent identifiers becomes more inclusive and widely available.
 
-## **Metadata: The Foundation of Connection**
+## **Metadata: The foundation of connection**
 
 A recurring theme throughout the session was metadata. While often overlooked, metadata is what enables research outputs to be understood, discovered, and connected.
 
@@ -86,7 +86,7 @@ DataCite’s Metadata Schema provides a structured way to describe outputs. At a
 
 This flexibility is crucial. It means that researchers are not simply assigning identifiers, but also embedding their work within a broader context.
 
-## **Building Connections Through Metadata**
+## **Building connections through metadata**
 
 The real power of DataCite becomes apparent when looking at how these metadata elements are used to create connections. Through specific fields, researchers can link their software to related outputs such as journal articles or datasets. They can also associate their work with their ORCID profile, ensuring that their contributions are accurately attributed.
 
@@ -96,7 +96,7 @@ At the same time, institutions can be linked through ROR identifiers, and funder
 
 This interconnected structure is often described as the PID Graph. It allows researchers to trace the full lifecycle of a research project, from funding and development to publication and reuse.
 
-## **Why DOIs Make a Difference**
+## **Why DOIs make a difference to you?**
 
 Assigning a DOI to research software has several important implications. First, it increases visibility. Outputs with DOIs are indexed and harvested by various discovery platforms, making them easier to find. Second, it enables citation, allowing software to be referenced in the same way as traditional publications.
 
@@ -104,7 +104,7 @@ There is also an institutional dimension. When a university is listed as the pub
 
 Perhaps most importantly, DOIs support a more holistic understanding of research. Instead of focusing solely on final publications, they allow all outputs \- software included \- to be recognised and valued.
 
-## **Exploring Data Through DataCite Commons**
+## **Exploring data through DataCite Commons**
 
 To make these connections visible, DataCite provides an open platform called DataCite Commons.
 
@@ -115,7 +115,7 @@ Through DataCite Commons, users can explore millions of DOI records, view relati
 
 An important point highlighted during the session is that metadata in Commons is always openly accessible. Even if the underlying resource is restricted, its descriptive information remains available, ensuring transparency and discoverability.
 
-## **From Theory to Practice**
+## **From theory to practice**
 
 One of the most engaging parts of the webinar was a live demonstration of how these concepts work in practice. Mohamad showed how a presentation could be uploaded to Zenodo, assigned a DOI, and linked to both an ORCID profile and an institutional ROR ID.
 
@@ -129,13 +129,13 @@ There was also interest in linking software hosted on platforms like GitHub. As 
 
 Another important clarification was around access. While DataCite makes metadata freely available, access to the full content depends on the policies of the hosting repository. This distinction ensures openness while respecting different access models.
 
-## **Looking Ahead**
+## **Looking ahead**
 
 As the session concluded, it became clear that the tools and infrastructure needed to support research software already exist. What remains is wider adoption and cultural change.
 
 For RSE Asia, this conversation is part of a broader effort to understand and strengthen the research software ecosystem. The ongoing community survey, upcoming events, and shared resources all contribute to this goal.
 
-## **Final Thoughts**
+## **Final thoughts**
 
 The webinar highlighted a simple but powerful idea: research software deserves to be treated as a first-class research output. By adopting persistent identifiers, using rich metadata, and engaging with open infrastructure, researchers can ensure that their work is not only visible but also properly recognised and connected.
 
