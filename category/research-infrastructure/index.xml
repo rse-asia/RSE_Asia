@@ -1,4 +1,171 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Infrastructure | RSE Asia Association</title><link>https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/</link><atom:link href="https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/index.xml" rel="self" type="application/rss+xml"/><description>Research Infrastructure</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-uk</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://rse-asia.github.io/RSE_Asia/media/icon_hu8857581796160857555.png</url><title>Research Infrastructure</title><link>https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/</link></image><item><title>Research Software and Environmental Research in Asia</title><link>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research Infrastructure | RSE Asia Association</title><link>https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/</link><atom:link href="https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/index.xml" rel="self" type="application/rss+xml"/><description>Research Infrastructure</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-uk</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://rse-asia.github.io/RSE_Asia/media/icon_hu8857581796160857555.png</url><title>Research Infrastructure</title><link>https://rse-asia.github.io/RSE_Asia/category/research-infrastructure/</link></image><item><title>Community Webinar: Connecting Research Software to the Scholarly Record with DataCite</title><link>https://rse-asia.github.io/RSE_Asia/blog/2026-04-14_webinar_datacite/</link><pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2026-04-14_webinar_datacite/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Community Webinar: Connecting Research Software to the Scholarly Record with DataCite" srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/rse_asia_webinar_datacite_banner_hu11483088885255091098.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/rse_asia_webinar_datacite_banner_hu18020558392561226369.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/rse_asia_webinar_datacite_banner_hu7645439852277681049.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/rse_asia_webinar_datacite_banner_hu11483088885255091098.webp"
+width="760"
+height="587"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;em>A recap of our RSE Asia webinar meetup&lt;/em>&lt;/p>
+&lt;p>In today’s research landscape, software is no longer a side-product - it sits at the heart of how knowledge is generated, analysed, and shared. Yet, despite its importance, research software often remains difficult to cite, hard to discover, and poorly connected to the rest of the scholarly record.&lt;/p>
+&lt;p>In our recent RSE Asia webinar, &lt;em>“&lt;a href="https://rse-asia.github.io/RSE_Asia/event/2026-04-14_datacite_webinar/" target="_blank" rel="noopener">Connecting Research Software to the Scholarly Record with DataCite&lt;/a>”,&lt;/em> we explored how this gap can be addressed. Hosted by Jyoti Bhogal and co-led by Saranjeet, the session featured &lt;a href="https://www.linkedin.com/in/mohamad-mostafa/" target="_blank" rel="noopener">Mohamad Mustafa&lt;/a>, Community Specialist at &lt;a href="https://datacite.org/" target="_blank" rel="noopener">DataCite&lt;/a>, who shared both conceptual foundations and practical pathways for making research software more visible, citable, and connected.&lt;/p>
+&lt;h2 id="why-connecting-research-software-matters">&lt;strong>Why Connecting Research Software Matters&lt;/strong>&lt;/h2>
+&lt;p>The session began with a question that resonated with many participants: how can researchers ensure that their software is properly credited and discoverable? While journal articles continue to dominate academic recognition, they represent only the final stage of a much longer research process. Behind every publication lies a series of outputs - code, datasets, workflows, and presentations - that are rarely given equal importance.&lt;/p>
+&lt;p>This imbalance creates a disconnect. Researchers invest significant time developing software, yet without proper infrastructure, that work often remains invisible. The webinar highlighted that solving this problem is not just about tools, but about changing how we think about research outputs altogether.&lt;/p>
+&lt;h2 id="open-science-and-the-role-of-infrastructure">&lt;strong>Open Science and the Role of Infrastructure&lt;/strong>&lt;/h2>
+&lt;p>To frame this discussion, Mohamad referred to the &lt;a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949" target="_blank" rel="noopener">2021 recommendations by UNESCO on Open Science&lt;/a>. These recommendations emphasise that open science is not only about making outputs accessible, but also about building systems that allow those outputs to be identified, recognised, connected, and reused.&lt;/p>
+&lt;p>A key idea here is “unambiguous identification.” In a global research ecosystem, where thousands of outputs and contributors interact, clarity is essential. Persistent identifiers (PIDs) provide that clarity. Whether through &lt;a href="https://support.datacite.org/docs/doi-basics" target="_blank" rel="noopener">DOIs&lt;/a> for outputs, &lt;a href="https://orcid.org/" target="_blank" rel="noopener">ORCID&lt;/a> IDs for researchers, or &lt;a href="https://ror.org/" target="_blank" rel="noopener">Research Organisation Registry (ROR)&lt;/a> IDs for institutions, these identifiers allow us to map relationships across the research landscape.&lt;/p>
+&lt;p>Rather than isolated pieces of work, research becomes a network of interconnected contributions.&lt;/p>
+&lt;h2 id="understanding-datacites-role">&lt;strong>Understanding DataCite’s Role&lt;/strong>&lt;/h2>
+&lt;p>At the centre of this infrastructure is DataCite, a global non-profit organisation established in 2009. Initially focused on enabling citation for research data, DataCite has since evolved into a broader platform that supports a wide range of research outputs.&lt;/p>
+&lt;p>Today, its community includes over 1,700 organisations across more than 70 countries, collectively registering over 124 million DOIs. However, what makes DataCite particularly impactful is not just the scale of its operations but its philosophy. It is built around the idea that all research outputs - whether datasets, software, or presentations - should be treated as valuable contributions to knowledge.&lt;/p>
+&lt;p>This perspective is especially important for research software, which has historically been overlooked despite its critical role.&lt;/p>
+&lt;h2 id="software-as-a-recognised-research-output">&lt;strong>Software as a Recognised Research Output&lt;/strong>&lt;/h2>
+&lt;p>One of the most significant shifts discussed during the webinar was the growing recognition of software as a legitimate research output. DataCite formally introduced software as a resource type in 2017, enabling it to be assigned DOIs and described through metadata.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Image: List of resource types that can me get a DOI via DataCite Fabrica, including ‘Software’" srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_1_software_introduced_hu16693554094377222682.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_1_software_introduced_hu9693774643537869515.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_1_software_introduced_hu7832466697786228763.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/image_1_software_introduced_hu16693554094377222682.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;em>Image: List of resource types that can me get a DOI via DataCite Fabrica, including ‘Software’&lt;/em>&lt;/p>
+&lt;p>Since then, the number of software records in the DataCite registry has steadily increased. This growth reflects a broader cultural change within the research community, where software is increasingly acknowledged as something that should be cited, shared, and preserved.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Image: Increased reporting of software as a research output since 2017, when it was first made a research output type in DataCite Fabrica." srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_2_software_growth_hu12491255239867945744.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_2_software_growth_hu18208965485667947846.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_2_software_growth_hu9705713479586597767.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/image_2_software_growth_hu12491255239867945744.webp"
+width="760"
+height="422"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;em>Image: Increased reporting of software as a research output since 2017, when it was first made a research output type in DataCite Fabrica.&lt;/em>&lt;/p>
+&lt;p>The data also shows that this trend is accelerating. Even early into 2026, tens of thousands of software entries had already been registered, suggesting that researchers are beginning to see the value of making their code visible and citable.&lt;/p>
+&lt;h2 id="the-role-of-repositories">&lt;strong>The Role of Repositories&lt;/strong>&lt;/h2>
+&lt;p>An important part of this ecosystem is the role played by repositories. Platforms such as Zenodo, Figshare, and Code Ocean allow researchers to deposit their software and automatically receive DOIs.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Image: Top 10 repositories that contribute Software outputs to DataCite Fabrica" srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_3_repositories_hu117879467534680184.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_3_repositories_hu6097029227828341041.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_3_repositories_hu8565682150401715781.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/image_3_repositories_hu117879467534680184.webp"
+width="760"
+height="422"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;em>Image: Top 10 repositories that contribute Software outputs to DataCite Fabrica&lt;/em>&lt;/p>
+&lt;p>For many participants, this was a practical takeaway. Even if an institution is not directly connected to DataCite, researchers can still benefit from its infrastructure by using repositories that are already part of the DataCite community via DataCite Fabrica. In this way, access to persistent identifiers becomes more inclusive and widely available.&lt;/p>
+&lt;h2 id="metadata-the-foundation-of-connection">&lt;strong>Metadata: The Foundation of Connection&lt;/strong>&lt;/h2>
+&lt;p>A recurring theme throughout the session was metadata. While often overlooked, metadata is what enables research outputs to be understood, discovered, and connected.&lt;/p>
+&lt;p>DataCite’s Metadata Schema provides a structured way to describe outputs. At a minimum, this includes essential information such as the creator, title, publication year, and resource type. However, the schema also allows for much richer descriptions, including subjects, contributors, funding details, and relationships to other outputs.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Image: DataCite Metadata schema" srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_4_metadata_schema_hu1002454255917011601.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_4_metadata_schema_hu6719621833493332814.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_4_metadata_schema_hu856698492783302380.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/image_4_metadata_schema_hu1002454255917011601.webp"
+width="760"
+height="426"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;em>Image: DataCite Metadata schema&lt;/em>&lt;/p>
+&lt;p>This flexibility is crucial. It means that researchers are not simply assigning identifiers, but also embedding their work within a broader context.&lt;/p>
+&lt;h2 id="building-connections-through-metadata">&lt;strong>Building Connections Through Metadata&lt;/strong>&lt;/h2>
+&lt;p>The real power of DataCite becomes apparent when looking at how these metadata elements are used to create connections. Through specific fields, researchers can link their software to related outputs such as journal articles or datasets. They can also associate their work with their ORCID profile, ensuring that their contributions are accurately attributed.&lt;/p>
+&lt;p>At the same time, institutions can be linked through ROR identifiers, and funders can be acknowledged within the same framework. What emerges is a network where every element - people, organisations, and outputs - is connected.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Image: Connection metadata" srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_5_connection_metadata_hu16911428553690797038.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_5_connection_metadata_hu6908839891053477799.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_5_connection_metadata_hu3509265854284905456.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/image_5_connection_metadata_hu16911428553690797038.webp"
+width="760"
+height="431"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>This interconnected structure is often described as the PID Graph. It allows researchers to trace the full lifecycle of a research project, from funding and development to publication and reuse.&lt;/p>
+&lt;h2 id="why-dois-make-a-difference">&lt;strong>Why DOIs Make a Difference&lt;/strong>&lt;/h2>
+&lt;p>Assigning a DOI to research software has several important implications. First, it increases visibility. Outputs with DOIs are indexed and harvested by various discovery platforms, making them easier to find. Second, it enables citation, allowing software to be referenced in the same way as traditional publications.&lt;/p>
+&lt;p>There is also an institutional dimension. When a university is listed as the publisher of a DOI-registered output, its contributions become more visible within the global research ecosystem. Over time, this can strengthen the institution’s profile and demonstrate the breadth of its research activity, along with providing the recognition to the individual who created the outputs.&lt;/p>
+&lt;p>Perhaps most importantly, DOIs support a more holistic understanding of research. Instead of focusing solely on final publications, they allow all outputs - software included - to be recognised and valued.&lt;/p>
+&lt;h2 id="exploring-data-through-datacite-commons">&lt;strong>Exploring Data Through DataCite Commons&lt;/strong>&lt;/h2>
+&lt;p>To make these connections visible, DataCite provides an open platform called DataCite Commons.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Image: PID graph" srcset="
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_6_pid_graph_hu4693051484160638486.webp 400w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_6_pid_graph_hu6401500417118698551.webp 760w,
+/RSE_Asia/blog/2026-04-14_webinar_datacite/image_6_pid_graph_hu6212654966376989446.webp 1200w"
+src="https://rse-asia.github.io/RSE_Asia/RSE_Asia/blog/2026-04-14_webinar_datacite/image_6_pid_graph_hu4693051484160638486.webp"
+width="760"
+height="427"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;em>Image: PID graph&lt;/em>&lt;/p>
+&lt;p>Through DataCite Commons, users can explore millions of DOI records, view relationships between outputs, and track contributions across individuals and organisations. The platform integrates with ORCID and ROR, further enhancing its ability to present a connected view of the research landscape.&lt;/p>
+&lt;p>An important point highlighted during the session is that metadata in Commons is always openly accessible. Even if the underlying resource is restricted, its descriptive information remains available, ensuring transparency and discoverability.&lt;/p>
+&lt;h2 id="from-theory-to-practice">&lt;strong>From Theory to Practice&lt;/strong>&lt;/h2>
+&lt;p>One of the most engaging parts of the webinar was a live demonstration of how these concepts work in practice. Mohamad showed how a presentation could be uploaded to Zenodo, assigned a DOI, and linked to both an ORCID profile and an institutional ROR ID.&lt;/p>
+&lt;p>This simple workflow illustrated how easily research outputs can be integrated into the scholarly record when the right infrastructure is in place. It also highlighted the long-term benefits, such as the ability to track impact and maintain a consistent record of contributions, even when researchers move between institutions.&lt;/p>
+&lt;h2 id="reflections-from-the-qa">&lt;strong>Reflections from the Q&amp;amp;A&lt;/strong>&lt;/h2>
+&lt;p>The discussion that followed reinforced many of these ideas. Participants were particularly interested in how individuals could engage with DataCite without institutional membership. The answer was encouraging: by using repositories like Zenodo, researchers can still obtain DOIs and benefit from the broader ecosystem.&lt;/p>
+&lt;p>There was also interest in linking software hosted on platforms like GitHub. As explained, this is entirely possible through metadata fields that allow URLs to be included, further strengthening connections between different parts of a project.&lt;/p>
+&lt;p>Another important clarification was around access. While DataCite makes metadata freely available, access to the full content depends on the policies of the hosting repository. This distinction ensures openness while respecting different access models.&lt;/p>
+&lt;h2 id="looking-ahead">&lt;strong>Looking Ahead&lt;/strong>&lt;/h2>
+&lt;p>As the session concluded, it became clear that the tools and infrastructure needed to support research software already exist. What remains is wider adoption and cultural change.&lt;/p>
+&lt;p>For RSE Asia, this conversation is part of a broader effort to understand and strengthen the research software ecosystem. The ongoing community survey, upcoming events, and shared resources all contribute to this goal.&lt;/p>
+&lt;h2 id="final-thoughts">&lt;strong>Final Thoughts&lt;/strong>&lt;/h2>
+&lt;p>The webinar highlighted a simple but powerful idea: research software deserves to be treated as a first-class research output. By adopting persistent identifiers, using rich metadata, and engaging with open infrastructure, researchers can ensure that their work is not only visible but also properly recognised and connected.&lt;/p>
+&lt;p>In doing so, we move towards a more complete and inclusive scholarly record - one that reflects the full complexity of modern research.&lt;/p>
+&lt;h2 id="whats-next">&lt;strong>What’s next?&lt;/strong>&lt;/h2>
+&lt;p>Meanwhile, RSE Asia encourages community members to:&lt;/p>
+&lt;ul>
+&lt;li>Participate in the ongoing &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform" target="_blank" rel="noopener">research software landscape survey in Asia&lt;/a>, which is open until 31 May 2026. You also stand a chance to win a cash prize of £10 for 5 participants based on a raffle.&lt;/li>
+&lt;li>For the 3rd episode of the community conversation series &lt;a href="https://rse-asia.github.io/RSE_Asia/event/" target="_blank" rel="noopener">Research Software and NRENs in Asia&lt;/a> on 12 May 2026, register for &lt;a href="https://rse-asia.github.io/RSE_Asia/event/2026-05-12_ep-3-library/" target="_blank" rel="noopener">Episode 3: Role of Libraries in Research Support for Scientific Software&lt;/a>, where we welcome &lt;a href="https://www.linkedin.com/in/victoria-f-caplan-62a48b8/" target="_blank" rel="noopener">Victoria F. Caplan&lt;/a>, Head of Research &amp;amp; Learning Support, Hong Kong University of Science and Technology (HKUST), Hong Kong, with whom we will discuss the role of the library infrastructure in supporting the research software communities.&lt;/li>
+&lt;li>Join the RSE Asia &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership&lt;/a> to get the latest news.&lt;/li>
+&lt;li>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on LinkedIn for updates and opportunities&lt;/li>
+&lt;/ul>
+&lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
+&lt;p>If you were not able to join the meetup live or would like to revisit it, the
+&lt;em>&lt;strong>video recording&lt;/strong>&lt;/em> of the episode is coming soon. Throughout the meetup, the
+guest, the facilitators, and the participants shared a bunch of useful
+resources for the community for shared progress. We have compiled it in the
+form of a Resource Sheet. Definitely, check it out!&lt;/p>
+&lt;p>&lt;strong>Resource sheet:&lt;/strong> Zenodo link coming soon!&lt;/p>
+&lt;hr>
+&lt;h3 id="learn-more-about-us">&lt;strong>Learn more about us&lt;/strong>&lt;/h3>
+&lt;p>If you have any questions about, please reach out to us at:
+&lt;a href="mailto:rse.asia.association@gmail.com">rse.asia.association@gmail.com&lt;/a>.
+For more information and to join upcoming events, visit:&lt;/p>
+&lt;ul>
+&lt;li>Website: &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">https://rse-asia.github.io/RSE_Asia/&lt;/a>&lt;/li>
+&lt;li>For the latest news, events, activities, and opportunities, follow us on our
+&lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">LinkedIn page&lt;/a>&lt;/li>
+&lt;li>To join the RSE Asia community, please fill out our short
+&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership Form&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Research Software and Environmental Research in Asia</title><link>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Episode 2 banner" srcset="
