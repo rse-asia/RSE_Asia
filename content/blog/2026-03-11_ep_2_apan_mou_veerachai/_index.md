@@ -17,7 +17,7 @@ categories:
   - Open Data
   - Open Source Software
   - Research Infrastructure
-  - National Research and Education Networks (NRENs)
+  - NRENs
   - Asia
 summary: "This blog post summarises the second episode of the Research Software
 and NRENs in Asia series, featuring a conversation with Dr. Veerachai Tanpipat,
