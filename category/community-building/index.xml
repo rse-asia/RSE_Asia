@@ -43,9 +43,14 @@ Application. Some of the first working groups were those for agriculture,
 telemedicine, and network engineering.&lt;/p>
 &lt;h2 id="infrastructure-needs-content-why-research-software-matters">&lt;strong>Infrastructure needs content: Why Research Software matters&lt;/strong>&lt;/h2>
 &lt;p>A powerful metaphor from Liana captured the essence of the discussion:&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;blockquote>
-&lt;p>Infrastructure without software is like a highway without vehicles.&lt;/p>
+&lt;p>“Infrastructure without software is like a highway without vehicles.”&lt;/p>
 &lt;/blockquote>
+&lt;p>— Liana Jacinta Jaganathan&lt;/p>
+&lt;/div>
+&lt;/div>
 &lt;p>High-speed networks alone are not enough. Without research software, data
 pipelines, simulations, gateways, and analysis tools, the infrastructure
 remains underutilised.&lt;/p>
@@ -130,9 +135,14 @@ itself.&lt;/p>
 &lt;h2 id="advice-for-young-researchers-and-rses">&lt;strong>Advice for young researchers and RSEs&lt;/strong>&lt;/h2>
 &lt;p>When asked for one piece of advice for young researchers and developers in
 Asia-Pacific, Liana offered a powerful closing thought:&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;blockquote>
 &lt;p>Don’t just build for your organisation. Build for the ecosystem.&lt;/p>
 &lt;/blockquote>
+&lt;p>— Liana Jacinta Jaganathan&lt;/p>
+&lt;/div>
+&lt;/div>
 &lt;p>This message resonated deeply with the spirit of the series.
 Research software is not just code - it is an infrastructure for
 collaboration, resilience, and shared progress.&lt;/p>
