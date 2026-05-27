@@ -67,7 +67,11 @@ telemedicine, and network engineering.
 
 A powerful metaphor from Liana captured the essence of the discussion:
 
-> Infrastructure without software is like a highway without vehicles.
+{{% callout note %}}
+> “Infrastructure without software is like a highway without vehicles.”
+
+— Liana Jacinta Jaganathan
+{{% /callout %}}
 
 High-speed networks alone are not enough. Without research software, data
 pipelines, simulations, gateways, and analysis tools, the infrastructure
@@ -156,7 +160,11 @@ itself.
 When asked for one piece of advice for young researchers and developers in
 Asia-Pacific, Liana offered a powerful closing thought:
 
+{{% callout note %}}
 > Don’t just build for your organisation. Build for the ecosystem.
+
+— Liana Jacinta Jaganathan
+{{% /callout %}}
 
 This message resonated deeply with the spirit of the series.
 Research software is not just code \- it is an infrastructure for
