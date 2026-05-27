@@ -298,13 +298,13 @@ LinkedIn for updates and opportunities.
 
 ## **Resources:**
 
-If you were not able to join the meetup live or would like to revisit it, the
-***video recording*** of the episode is coming soon. Throughout the meetup, the
+If you were not able to join the meetup live or would like to revisit it, here's the
+[*** YouTube video recording***](https://youtu.be/2hmrBJ9k53c) of the episode. Throughout the meetup, the
 guest, the facilitators, and the participants shared a bunch of useful
 resources for the community for shared progress. We have compiled it in the
 form of a Resource Sheet. Definitely, check it out\!  
 
-**Resource sheet:** Zenodo link coming soon\!
+**Resource sheet:** Bhogal, J., Tanpipat, V., & Bhogal, S. K. (2026). Resource Sheet: Episode 2: Research Software and Environmental Research in Asia. Zenodo. https://doi.org/10.5281/zenodo.20408237
 
 ------------------------------------------------------------------------
 
