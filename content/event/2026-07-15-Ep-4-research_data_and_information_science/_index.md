@@ -43,7 +43,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "rs_nren_series_banner_episode_4.png"  # This is the image file placed in static/media/
+  filename: "rs_nren_series_banner_episode_4_no_image.png"  # This is the image file placed in static/media/
 draft: false  
 
 url_code: ''
@@ -66,7 +66,7 @@ slides:
 projects:
 ---
 
-![Open science, research infrastructure, and collaboration](rs_nren_series_banner_episode_4.png)
+![Open science, research infrastructure, and collaboration](rs_nren_series_banner_episode_4_no_image.png)
 
 In the fourth episode of the **'Research Software and the NRENs'** in Asia
 meetup series, we will be joined by Su Nee Goh for a conversation on open
