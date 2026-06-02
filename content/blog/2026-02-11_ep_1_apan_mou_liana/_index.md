@@ -25,6 +25,8 @@ draft: false
 ---
 
 ![Episode 1 banner](rs_nren_series_banner_episode_1.png)
+*Image: Banner for episode 1 of the 'Research Software and NRENs in Asia'
+series.*
 
 On the [International Day of Women and Girls in Science](https://www.unesco.org/en/articles/2026-international-day-women-and-girls-science)**,** 11 February 2026, the
 [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) launched a new
@@ -68,9 +70,13 @@ telemedicine, and network engineering.
 A powerful metaphor from Liana captured the essence of the discussion:
 
 {{% callout note %}}
-> “Infrastructure without software is like a highway without vehicles.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    Infrastructure without software is like a highway without vehicles.
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
-— Liana Jacinta Jaganathan
+-- Liana Jacinta Jaganathan
 {{% /callout %}}
 
 High-speed networks alone are not enough. Without research software, data
@@ -161,9 +167,13 @@ When asked for one piece of advice for young researchers and developers in
 Asia-Pacific, Liana offered a powerful closing thought:
 
 {{% callout note %}}
-> Don’t just build for your organisation. Build for the ecosystem.
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    Don’t just build for your organisation. Build for the ecosystem.
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
-— Liana Jacinta Jaganathan
+-- Liana Jacinta Jaganathan
 {{% /callout %}}
 
 This message resonated deeply with the spirit of the series.

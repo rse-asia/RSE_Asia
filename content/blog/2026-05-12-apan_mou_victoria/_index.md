@@ -22,7 +22,8 @@ draft: false
 ---
 
 ![Episode 3 banner](rs_nren_series_banner_episode_3.png)
-*Image: Banner for episode 3 of the 'Research Software and NRENs in Asia' series*
+*Image: Banner for episode 3 of the 'Research Software and NRENs in Asia'
+series.*
 
 On 12 May 2026, the
 [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) hosted the third
