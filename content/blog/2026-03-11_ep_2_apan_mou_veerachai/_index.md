@@ -331,6 +331,7 @@ a bunch of useful resources for the community for shared progress. We have compi
 
 ------------------------------------------------------------------------
 
+{{% callout note%}}
 ### **Learn more about us**
 
 If you have any questions about, please reach out to us at:
@@ -338,7 +339,7 @@ rse.asia.association@gmail.com.
 For more information and to join upcoming events, visit:
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
-- For the latest news, events, activities, and opportunities, follow us on our
-[LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
-- To join the RSE Asia community, please fill out our short
-[Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+
+{{% /callout %}}
