@@ -81,9 +81,16 @@ One of Victoria’s reflections captured the transformational nature of
 networked research infrastructure:
 
 {{% callout note %}}
-> “I realised that there were all sorts of things that were available online that could be looked up on computers and that were networked together so that I was no longer stuck with what the contents of our card catalogue contained.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    I realised that there were all sorts of things that were available online
+    that could be looked up on computers and that were networked together so
+    that I was no longer stuck with what the contents of our card catalogue
+    contained.
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
-— Victoria F. Caplan
+-- Victoria F. Caplan
 {{% /callout %}}
 
 Although she was describing an experience from the 1980s, the observation
@@ -149,10 +156,14 @@ intentionally playful and low-pressure, helping reduce intimidation around new t
 Victoria repeatedly returned to the importance of creating environments where curiosity is encouraged rather than restricted:
 
 {{% callout note %}}
-> “If you don't allow people to be curious and explore things, then they can
-never develop.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    If you don't allow people to be curious and explore things, then they can
+    never develop.  
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
-— Victoria F. Caplan
+-- Victoria F. Caplan
 {{% /callout %}}
 
 This idea became one of the central themes of the discussion. Technical
@@ -185,7 +196,11 @@ Another memorable insight from the session focused on the relationship between
 theory and practice:
 
 {{% callout note %}}
-> “There’s praxis, the unity of theory and action.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    There’s praxis, the unity of theory and action.  
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
 -- Victoria F. Caplan
 {{% /callout %}}
@@ -220,9 +235,14 @@ advice, applied to organisational change. that resonated strongly with the
 audience:
 
 {{% callout note %}}
-> “Sometimes when they’re editing, writers say you have to ‘[kill your darlings](https://slate.com/culture/2013/10/kill-your-darlings-writing-advice-what-writer-really-said-to-murder-your-babies.html).’”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    Sometimes when they’re editing, writers say you have to <a href="https://slate.com/culture/2013/10/kill-your-darlings-writing-advice-what-writer-really-said-to-murder-your-babies.html">
+    kill your darlings</a>.
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
-— Victoria F. Caplan
+-- Victoria F. Caplan
 {{% /callout %}}
 
 In the context of libraries, this referred to the difficult but necessary
@@ -239,9 +259,13 @@ their careers.
 Victoria’s response was refreshingly honest:
 
 {{% callout note %}}
-> “The truth is there’s no such thing as future-proofing.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    The truth is there’s no such thing as future-proofing.  
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
-— Victoria F. Caplan
+-- Victoria F. Caplan
 {{% /callout %}}
 
 Rather than chasing certainty, she encouraged participants to cultivate
@@ -268,7 +292,11 @@ Victoria also shared a quote from a science fiction novel that she felt
 captured the relationship between technology and professional practice:
 
 {{% callout note %}}
-> “The questions remain the same, but the answers change.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    The questions remain the same, but the answers change.  
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
 -- Victoria F. Caplan, quoting from a science fiction novel
 {{% /callout %}}
@@ -280,7 +308,11 @@ Victoria also referenced S. R. Ranganathan and his famous Fifth Law of Library
 Science:
 
 {{% callout note %}}
-> “The library is a growing organism.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    The library is a growing organism.  
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
 -- Victoria F. Caplan, referencing S. R. Ranganathan
 {{% /callout %}}
@@ -320,7 +352,11 @@ Toward the end of the conversation, Victoria summarised one of the most
 important lessons for professional growth:
 
 {{% callout note %}}
-> “Share your conclusions.”
+<div style="font-size:1.5em;">❝</div>
+  <div style="text-align: center; font-size: 1.5em; font-style: italic;">
+    Share your conclusions.  
+  </div>
+<div style="font-size:1.5em; text-align: right;">❞ </div>
 
 -- Victoria F. Caplan
 {{% /callout %}}
@@ -368,7 +404,7 @@ Throughout the meetup, the guest, the facilitators, and the participants shared 
 
 ***Resource sheet:*** Coming soon!
 ------------------------------------------------------------------------
-
+{{% callout note%}}
 ### **Learn more about us**
 
 If you have any questions about, please reach out to us at:
@@ -378,3 +414,5 @@ For more information and to join upcoming events, visit:
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
 - To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+
+{{% /callout %}}
