@@ -148,7 +148,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
 &lt;p>If you were not able to join the meetup live or would like to revisit it, the
-&lt;em>&lt;strong>video recording&lt;/strong>&lt;/em> of the episode is coming soon. Throughout the meetup, the
+&lt;a href="https://youtu.be/XPJnX9FB5fA?si=FRHj7LWWNbJ5taHh" target="_blank" rel="noopener">&lt;em>&lt;strong>YouTube video recording&lt;/strong>&lt;/em>&lt;/a>
+of the episode is available.&lt;/p>
+&lt;p align = "center">
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XPJnX9FB5fA?si=QEvDrayMCIyqrcHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;/p>
+&lt;p>Throughout the meetup, the
 guest, the facilitators, and the participants shared a bunch of useful
 resources for the community for shared progress. We have compiled it in the
 form of a Resource Sheet. Definitely, check it out!&lt;/p>

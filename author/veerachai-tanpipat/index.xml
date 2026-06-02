@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Veerachai Tanpipat | RSE Asia Association</title><link>https://rse-asia.github.io/RSE_Asia/author/veerachai-tanpipat/</link><atom:link href="https://rse-asia.github.io/RSE_Asia/author/veerachai-tanpipat/index.xml" rel="self" type="application/rss+xml"/><description>Veerachai Tanpipat</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-uk</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://rse-asia.github.io/RSE_Asia/media/icon_hu8857581796160857555.png</url><title>Veerachai Tanpipat</title><link>https://rse-asia.github.io/RSE_Asia/author/veerachai-tanpipat/</link></image><item><title>Research Software and Environmental Research in Asia</title><link>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Veerachai Tanpipat | RSE Asia Association</title><link>https://rse-asia.github.io/RSE_Asia/author/veerachai-tanpipat/</link><atom:link href="https://rse-asia.github.io/RSE_Asia/author/veerachai-tanpipat/index.xml" rel="self" type="application/rss+xml"/><description>Veerachai Tanpipat</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-uk</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://rse-asia.github.io/RSE_Asia/media/icon_hu8857581796160857555.png</url><title>Veerachai Tanpipat</title><link>https://rse-asia.github.io/RSE_Asia/author/veerachai-tanpipat/</link></image><item><title>Episode 2: Research Software and Environmental Research in Asia</title><link>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://rse-asia.github.io/RSE_Asia/blog/2026-03-11_ep_2_apan_mou_veerachai/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Episode 2 banner" srcset="
@@ -134,9 +134,14 @@ in research.&lt;/p>
 &lt;p>Another key takeaway from the session was that
 &lt;strong>data quality is the foundation of reliable environmental research&lt;/strong>.&lt;/p>
 &lt;p>Dr Tanpipat summarised this with a familiar principle:&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;blockquote>
 &lt;p>“Garbage In, Garbage Out, GIGO.&amp;quot;&lt;/p>
 &lt;/blockquote>
+&lt;p>&amp;ndash; Veerachai Tanpipat&lt;/p>
+&lt;/div>
+&lt;/div>
 &lt;p>No matter how sophisticated an algorithm may be, poor input data will produce
 unreliable results.&lt;/p>
 &lt;p>Environmental datasets often come from multiple sources, such as satellite
@@ -210,9 +215,14 @@ sustainable environmental research infrastructure in Asia.&lt;/p>
 disasters will only grow in importance in the coming decades. Addressing them
 requires strong collaboration across countries, disciplines, and technologies.&lt;/p>
 &lt;p>As Dr. Chai concluded during the session:&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;blockquote>
-&lt;p>We are in different boats, but we are in the same storm.&lt;/p>
+&lt;p>&amp;ldquo;We are in different boats, but we are in the same storm.&amp;rdquo;&lt;/p>
 &lt;/blockquote>
+&lt;p>&amp;ndash; Veerachai Tanpipat&lt;/p>
+&lt;/div>
+&lt;/div>
 &lt;p>Collaboration across the Asia-Pacific research ecosystem will be essential for
 building resilience and developing sustainable solutions.&lt;/p>
 &lt;h2 id="participate-in-the-rse-asia-landscape-survey">&lt;strong>Participate in the RSE Asia landscape survey&lt;/strong>&lt;/h2>
@@ -250,11 +260,14 @@ LinkedIn for updates and opportunities.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
-&lt;p>If you were not able to join the meetup live or would like to revisit it, here&amp;rsquo;s the
-&lt;a href="https://youtu.be/2hmrBJ9k53c" target="_blank" rel="noopener">*** YouTube video recording***&lt;/a> of the episode. Throughout the meetup, the
-guest, the facilitators, and the participants shared a bunch of useful
-resources for the community for shared progress. We have compiled it in the
-form of a Resource Sheet. Definitely, check it out!&lt;/p>
+&lt;p>If you were not able to join the meetup live or would like to revisit it,
+here&amp;rsquo;s the
+&lt;a href="https://youtu.be/2hmrBJ9k53c" target="_blank" rel="noopener">&lt;em>&lt;strong>YouTube video recording&lt;/strong>&lt;/em>&lt;/a> of the episode.&lt;/p>
+&lt;p align = "center">
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2hmrBJ9k53c?si=Me5meEpDhmAPOnTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;/p>
+&lt;p>Throughout the meetup, the guest, the facilitators, and the participants shared
+a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out!&lt;/p>
 &lt;p>&lt;strong>Resource sheet:&lt;/strong> Bhogal, J., Tanpipat, V., &amp;amp; Bhogal, S. K. (2026). Resource Sheet: Episode 2: Research Software and Environmental Research in Asia. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.20408237" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.20408237&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h3 id="learn-more-about-us">&lt;strong>Learn more about us&lt;/strong>&lt;/h3>
