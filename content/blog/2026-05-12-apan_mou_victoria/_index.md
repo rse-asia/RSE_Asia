@@ -79,10 +79,7 @@ an archivist at her university used an early networked system to locate
 archival materials for her undergraduate thesis in another city. Before that experience, access to information had been limited to local card catalogues
 and physical indices.
 
-That moment revealed the power of networked information systems: the idea that knowledge could be discovered and connected beyond the physical boundaries of
-one library. Long before the modern web existed, the foundations of digital scholarship and networked research infrastructure were already emerging.
-
-One of Victoria’s reflections captured the transformational nature of
+That moment revealed the power of networked information systems: the idea that knowledge could be discovered and connected beyond the physical boundaries of one library. Long before the modern web existed, the foundations of digital scholarship and networked research infrastructure were already emerging. One of Victoria’s reflections captured the transformational nature of
 networked research infrastructure:
 
 {{% callout note %}}
@@ -132,12 +129,7 @@ stewardship of information.
 
 ## **Learning through curiosity, community, and experimentation**
 
-One of the strongest messages from the session was the importance of creating environments where staff can explore, experiment, and learn continuously.
-
-Rather than enforcing rigid top-down skill development programmes, Victoria
-advocated for fostering curiosity. People should be encouraged to explore areas
-they genuinely care about and then discover how those interests can connect
-back to organisational needs.
+One of the strongest messages from the session was the importance of creating environments where staff can explore, experiment, and learn continuously. Rather than enforcing rigid top-down skill development programmes, Victoria advocated for fostering curiosity. People should be encouraged to explore areas they genuinely care about and then discover how those interests can connect back to organisational needs.
 
 At the HKUST Library, this culture of learning takes many forms:
 
@@ -156,9 +148,7 @@ Victoria shared a particularly creative example involving an internal
 Mid-Autumn Festival AI image-generation challenge. In fall 2023, Staff
 experimented with free AI image tools to create festival-themed visuals, which
 were later used on library communications platforms. The activity was
-intentionally playful and low-pressure, helping reduce intimidation around new technologies while encouraging hands-on exploration.
-
-Victoria repeatedly returned to the importance of creating environments where curiosity is encouraged rather than restricted:
+intentionally playful and low-pressure, helping reduce intimidation around new technologies while encouraging hands-on exploration. She repeatedly returned to the importance of creating environments where curiosity is encouraged rather than restricted:
 
 {{% callout note %}}
 <div style="font-size:1.5em;">❝</div>
@@ -181,13 +171,9 @@ connect their interests to meaningful work.
 Throughout the webinar, Victoria stressed that certifications alone are not
 enough. Technical knowledge must be translated into practice. One of the
 mistakes she warned against was accumulating badges and credentials without
-finding ways to integrate those skills into everyday work.
+finding ways to integrate those skills into everyday work. To encourage practical application, the [HKUST Library](https://library.hkust.edu.hk/) supports small internal projects where staff can experiment with coding, analytics, and digital tools.
 
-To encourage practical application, the
-[HKUST Library](https://library.hkust.edu.hk/) supports small internal
-projects where staff can experiment with coding, analytics, and digital tools.
-
-Examples included:
+Some of the examples are:
 
 - An [open-access journal finder](https://library.hkust.edu.hk/research-learning-support/research-support/publishing-sharing-your-research/open-access-publishing) that helps researchers identify journals covered by institutional publishing agreements.
 - Interactive [Library data analytics](https://library.hkust.edu.hk/about-us/statistics/library-data-analytics-dashboards) dashboards.
@@ -222,9 +208,7 @@ innovation with limited time, staffing, and resources.
 Victoria spoke candidly about the realities of management. Supporting
 professional development often means making difficult choices about priorities.
 If staff spend time learning new tools or technologies, then some older
-workflows or lower-priority activities may need to be reduced or retired.
-
-She described how libraries must continually evaluate what still provides value
+workflows or lower-priority activities may need to be reduced or retired. She described how libraries must continually evaluate what still provides value
 and what persists simply because *“**it has always been done that way**.”*
 
 One example involved metadata practices. Decades ago, librarians spent
@@ -259,9 +243,7 @@ often requires making difficult choices about priorities.
 
 Toward the end of the session, Victoria was asked what advice would she give
 to future librarians and early-career professionals hoping to “future-proof”
-their careers.
-
-Victoria’s response was refreshingly honest:
+their careers. Victoria’s response was refreshingly honest:
 
 {{% callout note %}}
 <div style="font-size:1.5em;">❝</div>
@@ -307,9 +289,7 @@ captured the relationship between technology and professional practice:
 {{% /callout %}}
 
 She used this idea to explain how libraries continue to face enduring
-challenges around access, preservation, discovery, and ethics \- even as the technologies used to address those challenges evolve dramatically over time.
-
-Victoria also referenced S. R. Ranganathan and his famous Fifth Law of Library
+challenges around access, preservation, discovery, and ethics \- even as the technologies used to address those challenges evolve dramatically over time. Victoria also referenced S. R. Ranganathan and his famous Fifth Law of Library
 Science:
 
 {{% callout note %}}
@@ -351,10 +331,8 @@ passive support units, modern libraries are increasingly active collaborators
 in research ecosystems.
 
 They are places where metadata meets ethics, where technical infrastructure
-meets teaching, and where curiosity drives continuous learning.
-
-Toward the end of the conversation, Victoria summarised one of the most
-important lessons for professional growth:
+meets teaching, and where curiosity drives continuous learning. Towards the
+end of the conversation, Victoria summarised one of the most important lessons for professional growth:
 
 {{% callout note %}}
 <div style="font-size:1.5em;">❝</div>
@@ -401,7 +379,7 @@ to get the latest news.
 
 ## **Resources:**
 
-If you were not able to join the meetup live or would like to revisit it, the [***video recording***](https://youtu.be/MbvTgTJMTtg%20) of the episode is available.
+If you were not able to join the meetup live or would like to revisit it, the [***YouTube video recording***](https://youtu.be/MbvTgTJMTtg%20) of the episode is available.
 
 <p align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbvTgTJMTtg?si=ns-PHssZZHRPKK0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
