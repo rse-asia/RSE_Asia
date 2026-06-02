@@ -88,10 +88,7 @@ models, and hydrological measurements.
 
 Historically, remote sensing data has been extremely large and difficult to
 move across networks. However, modern NREN infrastructure now allows large
-datasets to be transferred quickly for analysis.
-
-Additionally, these working groups often collaborate with organisations such as
-Japan’s National Institute of Informatics (NII), which supports data
+datasets to be transferred quickly for analysis. Additionally, these working groups often collaborate with organisations such as Japan’s [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/), which supports data
 infrastructure and capacity building, particularly in areas like research data
 management and library integration.
 
@@ -99,9 +96,7 @@ International initiatives also support these efforts. For example, the
 [**Copernicus programme**](https://www.copernicus.eu/en) funded a satellite
 data centre in the Philippines to support environmental monitoring across
 ASEAN countries. The second phase of the project will focus more heavily on
-**applications and data analysis**, rather than simply building infrastructure.
-
-Similarly, high-performance computing infrastructure such as that supported by
+**applications and data analysis**, rather than simply building infrastructure.Similarly, high-performance computing infrastructure such as that supported by
 the [**Korea Institute of Science and Technology Information (KISTI)**](https://www.kisti.re.kr/eng/)
 provides computational resources for ASEAN environmental research at the
 [National Research and Innovation Agency (BRIN)](https://www.brin.go.id/en).
@@ -122,25 +117,19 @@ international research networks.
 ## **The role of research software**
 
 A central theme of the conversation was the role of **research software** in
-environmental research.
-
-Environmental science increasingly depends on software systems that process
-large satellite datasets, integrate multiple data sources, run predictive
-models, and generate dashboards for decision makers.
+environmental research. Environmental science increasingly depends on software systems that process large satellite datasets, integrate multiple data sources, run predictive models, and generate dashboards for decision makers.
 
 Dr Chai highlighted that many scientists understand the scientific models but
 may not have the programming expertise to build robust software systems. This
-creates a strong need for collaboration between
-**domain scientists and software engineers**.
+creates a strong need for collaboration between **domain scientists and
+software engineers**.
 
 In some projects, computer science students from France have helped implement
 web applications for operational use by
 [government agencies and NGOs](https://wildlandfire.thairen.net.th/landfirealertsmap_thailand/).
 These applications can support activities such as wildfire monitoring or flood
 forecasting which is looked after by the
-[National Hydroinformatics Centre of Thailand](https://www.thaiwater.net/).
-
-However, sustainability remains a major issue. A recurring problem is a
+[National Hydroinformatics Centre of Thailand](https://www.thaiwater.net/).  However, sustainability remains a major issue. A recurring problem is a
 **lack of documentation**. When students or short-term contributors leave a
 project without proper documentation, the software becomes difficult to
 maintain or extend.
@@ -151,9 +140,7 @@ in research.
 ## **The critical importance of data quality**
 
 Another key takeaway from the session was that
-**data quality is the foundation of reliable environmental research**.
-
-Dr Tanpipat summarised this with a familiar principle:
+**data quality is the foundation of reliable environmental research**. Dr Tanpipat summarised this with a familiar principle:
 
 {{% callout note %}}
 <div style="font-size:1.5em;">❝</div>
@@ -166,36 +153,26 @@ Dr Tanpipat summarised this with a familiar principle:
 {{% /callout %}}
 
 No matter how sophisticated an algorithm may be, poor input data will produce
-unreliable results.
-
-Environmental datasets often come from multiple sources, such as satellite
-sensors, ground monitoring stations, citizen science contributions, and IoT
-sensors.
+unreliable results. Environmental datasets often come from multiple sources, such as satellite sensors, ground monitoring stations, citizen science contributions, and IoT sensors.
 
 Each source has different levels of accuracy. For example, low-cost air-quality
 sensors may cost USD 20-30, while high-precision instruments can cost hundreds
-or thousands of dollars.
-
-When researchers combine these datasets without understanding the differences
-in measurement accuracy, the resulting analysis can be misleading.
+or thousands of dollars. When researchers combine these datasets without understanding the differences in measurement accuracy, the resulting analysis can be misleading.
 
 ## **Challenges in data sharing and open science**
 
 Despite growing interest in open science, sharing research data remains
-difficult.
-
-Researchers often hesitate to share their datasets for several reasons like the
-fear that others may publish different results using the same data, concerns
-about sensitive or confidential information, Institutional or national policies
-restricting access, Lack of incentives for sharing data, and the effort
-required to prepare data for sharing (e.g., cleaning, documentation).
+difficult. Researchers often hesitate to share their datasets for several
+reasons like the fear that others may publish different results using the same
+data, concerns about sensitive or confidential information, Institutional or
+national policies restricting access, Lack of incentives for sharing data, and
+the effort required to prepare data for sharing (e.g., cleaning, documentation).
 
 These concerns create barriers to implementing **FAIR data principles**
-(Findable, Accessible, Interoperable, Reusable).
-
-Dr Chai noted that funding agencies are increasingly requiring researchers to
-upload their datasets to public repositories. However, cultural change takes
-time, and many institutions are still adapting to these expectations.
+(Findable, Accessible, Interoperable, Reusable). Dr Chai noted that funding
+agencies are increasingly requiring researchers to upload their datasets to
+public repositories. However, cultural change takes time, and many institutions
+are still adapting to these expectations.
 
 He also noted that collaborations with international bodies and frameworks -
 such as those supported by UNESCO and CODATA - are helping to push forward
@@ -205,20 +182,13 @@ adoption remains uneven across regions.
 ## **AI, synthetic data, and research integrity**
 
 The discussion also touched on the role of **AI and generative technologies**
-in environmental research.
-
-AI can help to generate synthetic datasets for testing models, accelerate code
-development, and Support predictive modelling.
-
+in environmental research. AI can help to generate synthetic datasets for
+testing models, accelerate code development, and Support predictive modelling.
 However, there are also risks. AI-generated data may appear realistic, but
-could contain inaccuracies or fabricated information.
-
-For this reason, researchers must clearly document the origin of their data,
-whether AI was used to generate or modify datasets, the limitations of the
-data.
-
-Metadata and documentation are essential for maintaining trust in research
-outputs.
+could contain inaccuracies or fabricated information. For this reason,
+researchers must clearly document the origin of their data, whether AI was used
+to generate or modify datasets, the limitations of the data. Metadata and
+documentation are essential for maintaining trust in research outputs.
 
 ## **Skills for future researchers and research software engineers**
 
@@ -234,11 +204,9 @@ code.
 **2\. Cross-disciplinary understanding**
 
 Software engineers working in environmental research must understand the
-scientific context behind their tools.
-
-For example, understanding hydrology, forestry, weather systems, and GIS and
-remote sensing helps developers design better tools for real-world
-applications.
+scientific context behind their tools. For example, understanding hydrology,
+forestry, weather systems, and GIS and remote sensing helps developers design
+better tools for real-world applications.
 
 **3\. Systems thinking**
 
@@ -292,6 +260,7 @@ opportunities for research software professionals in Asia.
 The survey is open until **31 March**, and participants will be entered into a
 raffle for a **£10 prize**.
 
+{{% callout note %}}
 ## **What’s next?**
 
 In April, we will have a Community Webinar that features
@@ -313,6 +282,8 @@ persistent identification and discoverability of research software.
 to get the latest news.  
 - Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on
 LinkedIn for updates and opportunities.
+
+{{% /callout %}}
 
 ## **Resources:**
 

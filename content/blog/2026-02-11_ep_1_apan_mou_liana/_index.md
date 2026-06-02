@@ -180,6 +180,7 @@ This message resonated deeply with the spirit of the series.
 Research software is not just code \- it is an infrastructure for
 collaboration, resilience, and shared progress.
 
+{{% callout note %}}
 ## **What’s next?**
 
 The conversation continues\! The second episode will feature
@@ -190,9 +191,11 @@ the Open Science Collaborative and Resource (OSCR)).
 Meanwhile, RSE Asia encourages community members to:
 
 - Participate in the ongoing [research software landscape survey in Asia](https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform), which is open until 31st March 2026\. You also stand a chance to win a cash prize of £10 for 5 participants based on a raffle.  
-- Register for [Episode 2: Research Software and Environmental Research in Asia](https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg#/), where we welcome [Dr. Veerachai Tanpipat](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/), Senior Expert, Hydro Informatics Institute, Thailand, with whom we discuss open science practices and how they help to solve real-world problems with the APAN infrastructure.   
+- Register for [Episode 2: Research Software and Environmental Research in Asia](https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg#/), where we welcome [Dr. Veerachai Tanpipat](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/), Senior Expert, Hydro Informatics Institute, Thailand, with whom we discuss open science practices and how they help to solve real-world problems with the APAN infrastructure.
 - Join the RSE Asia [Community Membership](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header) to get the latest news.  
-- Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on LinkedIn for updates and opportunities
+- Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on LinkedIn for updates and opportunities.
+
+{{% /callout %}}
 
 This kickoff episode made one thing clear: when research software,
 infrastructure, and community align, the possibilities extend far beyond
