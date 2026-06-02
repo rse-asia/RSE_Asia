@@ -10,7 +10,8 @@ width="760"
 height="587"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;em>Image: Banner for episode 3 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo; series&lt;/em>&lt;/p>
+&lt;em>Image: Banner for episode 3 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo;
+series.&lt;/em>&lt;/p>
 &lt;p>On 12 May 2026, the
 &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">RSE Asia Association&lt;/a> hosted the third
 episode of its ongoing Community Call series,
@@ -539,7 +540,8 @@ width="760"
 height="587"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p>
+&lt;em>Image: Banner for episode 2 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo;
+series.&lt;/em>&lt;/p>
 &lt;p>Asia has a rapidly growing research ecosystem, but the research software
 community remains relatively scattered. By connecting people across
 institutions and countries, this series helps build awareness of how research
@@ -665,9 +667,11 @@ in research.&lt;/p>
 &lt;p>Dr Tanpipat summarised this with a familiar principle:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“Garbage In, Garbage Out, GIGO.&amp;quot;&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Garbage In, Garbage Out, GIGO.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Veerachai Tanpipat&lt;/p>
 &lt;/div>
 &lt;/div>
@@ -746,9 +750,11 @@ requires strong collaboration across countries, disciplines, and technologies.&l
 &lt;p>As Dr. Chai concluded during the session:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>&amp;ldquo;We are in different boats, but we are in the same storm.&amp;rdquo;&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+We are in different boats, but we are in the same storm.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Veerachai Tanpipat&lt;/p>
 &lt;/div>
 &lt;/div>
@@ -821,7 +827,8 @@ width="760"
 height="587"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p>
+&lt;em>Image: Banner for episode 1 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo;
+series.&lt;/em>&lt;/p>
 &lt;p>On the &lt;a href="https://www.unesco.org/en/articles/2026-international-day-women-and-girls-science" target="_blank" rel="noopener">International Day of Women and Girls in Science&lt;/a>&lt;strong>,&lt;/strong> 11 February 2026, the
 &lt;a href="https://rse-asia.github.io/RSE_Asia/" target="_blank" rel="noopener">RSE Asia Association&lt;/a> launched a new
 community conversation series on &lt;a href="https://rse-asia.github.io/RSE_Asia/event/" target="_blank" rel="noopener">&lt;em>&lt;strong>Research Software and NRENs in Asia&lt;/strong>&lt;/em>&lt;/a>. This series is a part of a MoU between RSE Asia and the
@@ -856,10 +863,12 @@ telemedicine, and network engineering.&lt;/p>
 &lt;p>A powerful metaphor from Liana captured the essence of the discussion:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“Infrastructure without software is like a highway without vehicles.”&lt;/p>
-&lt;/blockquote>
-&lt;p>— Liana Jacinta Jaganathan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Infrastructure without software is like a highway without vehicles.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Liana Jacinta Jaganathan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>High-speed networks alone are not enough. Without research software, data
@@ -948,10 +957,12 @@ itself.&lt;/p>
 Asia-Pacific, Liana offered a powerful closing thought:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>Don’t just build for your organisation. Build for the ecosystem.&lt;/p>
-&lt;/blockquote>
-&lt;p>— Liana Jacinta Jaganathan&lt;/p>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Don’t just build for your organisation. Build for the ecosystem.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
+&lt;p>&amp;ndash; Liana Jacinta Jaganathan&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;p>This message resonated deeply with the spirit of the series.

@@ -181,7 +181,8 @@ width="760"
 height="587"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p>
+&lt;em>Image: Banner for episode 2 of the &amp;lsquo;Research Software and NRENs in Asia&amp;rsquo;
+series.&lt;/em>&lt;/p>
 &lt;p>Asia has a rapidly growing research ecosystem, but the research software
 community remains relatively scattered. By connecting people across
 institutions and countries, this series helps build awareness of how research
@@ -307,9 +308,11 @@ in research.&lt;/p>
 &lt;p>Dr Tanpipat summarised this with a familiar principle:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>“Garbage In, Garbage Out, GIGO.&amp;quot;&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+Garbage In, Garbage Out, GIGO.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Veerachai Tanpipat&lt;/p>
 &lt;/div>
 &lt;/div>
@@ -388,9 +391,11 @@ requires strong collaboration across countries, disciplines, and technologies.&l
 &lt;p>As Dr. Chai concluded during the session:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
-&lt;blockquote>
-&lt;p>&amp;ldquo;We are in different boats, but we are in the same storm.&amp;rdquo;&lt;/p>
-&lt;/blockquote>
+&lt;div style="font-size:1.5em;">❝&lt;/div>
+&lt;div style="text-align: center; font-size: 1.5em; font-style: italic;">
+We are in different boats, but we are in the same storm.
+&lt;/div>
+&lt;div style="font-size:1.5em; text-align: right;">❞ &lt;/div>
 &lt;p>&amp;ndash; Veerachai Tanpipat&lt;/p>
 &lt;/div>
 &lt;/div>
