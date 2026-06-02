@@ -1,39 +1,6 @@
 ---
-
 title: "Episode 3: Role of Libraries in Research Support for Scientific Software"
 subtitle: "This blog post summarises the third episode of the Research Software and NRENs in Asia series, featuring a conversation about the role of libraries in research support for scientific software across the research lifecycle, with Victoria F Caplan, Head of Research and Learning Support, Hong Kong University of Science and Technology (HKUST)."
-
-
-sections:
-  - block: markdown
-    content:
-      title:
-      text:   |
-        <p align=center>
-          <img src="uploads/resa-logo-inverted.svg" width="45%">
-        </p>
-
-          Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
-          {style="color: white; font-size: 2rem; text-align: center;"} 
-        
-        <div style="text-align: center; margin-top: 20px;">
-          <a href="/about" target="_self" 
-            style="background-color: white; color: black; padding: 10px 20px; border-radius: 6px; text-decoration: none; display: inline-block; border: 1px solid #ccc;">
-            Learn more
-          </a>
-        </div>
-
-    design:
-      background:
-        image:
-          filename: main-hero_bottom_half.png
-          size: cover
-          position:  bottom
-          parallax: false
-          text_color_light: true
-      spacing:
-        height: "30vh"
-        padding: ["2rem", "2rem"]
 
 date: 2026-05-28
 authors:
@@ -53,38 +20,6 @@ image:
   filename: "rs_nren_series_banner_episode_3.png"
 draft: false
 ---
-
-sections:
-  - block: markdown
-    content:
-      title:
-      text:   |
-        <p align=center>
-          <img src="uploads/resa-logo-inverted.svg" width="45%">
-        </p>
-
-          Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
-          {style="color: white; font-size: 2rem; text-align: center;"} 
-        
-        <div style="text-align: center; margin-top: 20px;">
-          <a href="/about" target="_self" 
-            style="background-color: white; color: black; padding: 10px 20px; border-radius: 6px; text-decoration: none; display: inline-block; border: 1px solid #ccc;">
-            Learn more
-          </a>
-        </div>
-
-    design:
-      background:
-        image:
-          filename: main-hero_bottom_half.png
-          size: cover
-          position:  bottom
-          parallax: false
-          text_color_light: true
-      spacing:
-        height: "30vh"
-        padding: ["2rem", "2rem"]
-
 
 ![Episode 3 banner](rs_nren_series_banner_episode_3.png)
 
