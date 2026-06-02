@@ -1,7 +1,40 @@
-  
 ---
+
 title: "Episode 3: Role of Libraries in Research Support for Scientific Software"
 subtitle: "This blog post summarises the third episode of the Research Software and NRENs in Asia series, featuring a conversation about the role of libraries in research support for scientific software across the research lifecycle, with Victoria F Caplan, Head of Research and Learning Support, Hong Kong University of Science and Technology (HKUST)."
+
+
+sections:
+  - block: markdown
+    content:
+      title:
+      text:   |
+        <p align=center>
+          <img src="uploads/resa-logo-inverted.svg" width="45%">
+        </p>
+
+          Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
+          {style="color: white; font-size: 2rem; text-align: center;"} 
+        
+        <div style="text-align: center; margin-top: 20px;">
+          <a href="/about" target="_self" 
+            style="background-color: white; color: black; padding: 10px 20px; border-radius: 6px; text-decoration: none; display: inline-block; border: 1px solid #ccc;">
+            Learn more
+          </a>
+        </div>
+
+    design:
+      background:
+        image:
+          filename: main-hero_bottom_half.png
+          size: cover
+          position:  bottom
+          parallax: false
+          text_color_light: true
+      spacing:
+        height: "30vh"
+        padding: ["2rem", "2rem"]
+
 date: 2026-05-28
 authors:
   - "Jyoti Bhogal"
@@ -21,9 +54,41 @@ image:
 draft: false
 ---
 
+sections:
+  - block: markdown
+    content:
+      title:
+      text:   |
+        <p align=center>
+          <img src="uploads/resa-logo-inverted.svg" width="45%">
+        </p>
+
+          Our vision: Research software and those who develop and maintain it are recognised and valued as fundamental and vital to research worldwide
+          {style="color: white; font-size: 2rem; text-align: center;"} 
+        
+        <div style="text-align: center; margin-top: 20px;">
+          <a href="/about" target="_self" 
+            style="background-color: white; color: black; padding: 10px 20px; border-radius: 6px; text-decoration: none; display: inline-block; border: 1px solid #ccc;">
+            Learn more
+          </a>
+        </div>
+
+    design:
+      background:
+        image:
+          filename: main-hero_bottom_half.png
+          size: cover
+          position:  bottom
+          parallax: false
+          text_color_light: true
+      spacing:
+        height: "30vh"
+        padding: ["2rem", "2rem"]
+
+
 ![Episode 3 banner](rs_nren_series_banner_episode_3.png)
 
-On 12 May 2026, the 
+On 12 May 2026, the
 [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) hosted the third
 episode of its ongoing Community Call series,
 [*Research Software and NRENs in Asia*](https://rse-asia.github.io/RSE_Asia/event/), featuring an insightful conversation with [**Victoria F. Caplan**](https://www.linkedin.com/in/victoria-f-caplan-62a48b8/), the
@@ -46,7 +111,7 @@ The discussion highlighted an important reality: libraries are no longer only re
 digital scholarship, metadata management, open science, research analytics,
 technical training, and even software-enabled experimentation.
 
-## **A Career That Mirrors the Evolution of Libraries**
+## **A career that mirrors the evolution of libraries**
 
 Victoria Caplan opened the session by reflecting on her 33-year journey at
 [HKUST Library](https://library.hkust.edu.hk/). Beginning in cataloguing and
@@ -65,7 +130,7 @@ Victoria also spoke about how completing her own MPhil later in her career
 helped her better empathise with postgraduate researchers. Having personally experienced the research process gave her deeper insight into the kinds of
 support students and scholars truly need.
 
-## **The Moment Software Became Central to Libraries**
+## **The moment software became central to libraries**
 
 One of the most memorable reflections from the session came when Victoria
 described the moment she realised software and networks would fundamentally
@@ -91,7 +156,7 @@ still resonates today. Research support increasingly depends on connected
 systems, interoperable platforms, and digital access that extends far beyond
 the walls of a single institution.
 
-## **The Expanding Technical Skillset of Library Professionals**
+## **The expanding technical skillset of library professionals**
 
 As the discussion progressed, Victoria outlined the growing range of software
 and technical skills now expected within libraries. Her answer painted a
@@ -118,7 +183,7 @@ platforms that collect significant amounts of data. As a result, librarians
 must think carefully about privacy, intellectual property, and responsible
 stewardship of information.
 
-## **Learning Through Curiosity, Community, and Experimentation**
+## **Learning through curiosity, community, and experimentation**
 
 One of the strongest messages from the session was the importance of creating environments where staff can explore, experiment, and learn continuously.
 
@@ -160,7 +225,7 @@ growth, according to Victoria, does not happen through rigid mandates alone.
 It emerges when people are given space to experiment, ask questions, and
 connect their interests to meaningful work.
 
-## **From Learning to Application**
+## **From learning to application**
 
 Throughout the webinar, Victoria stressed that certifications alone are not
 enough. Technical knowledge must be translated into practice. One of the
@@ -184,13 +249,17 @@ in the library.
 Another memorable insight from the session focused on the relationship between
 theory and practice:
 
-*“There’s praxis, the unity of theory and action.”*
+{{% callout note %}}
+> “There’s praxis, the unity of theory and action.”
+
+-- Victoria F. Caplan
+{{% /callout %}}
 
 Victoria emphasised that technical learning becomes valuable only when people
 are able to apply it in practical contexts. Certifications and training courses
 are useful, but their real impact comes when they help solve problems, improve workflows, or support users more effectively.
 
-## **Managing Constraints in Real Institutions**
+## **Managing constraints in real institutions**
 
 The conversation also addressed a more difficult challenge: balancing
 innovation with limited time, staffing, and resources.
@@ -226,7 +295,7 @@ process of letting go of workflows or practices that may once have been
 valuable but no longer serve users effectively. Making space for innovation
 often requires making difficult choices about priorities.
 
-## **Future-Proofing Is Impossible \- But Adaptability Matters**
+## **Future-proofing is impossible \- but adaptability matters**
 
 Toward the end of the session, Victoria was asked what advice would she give
 to future librarians and early-career professionals hoping to “future-proof”
@@ -285,7 +354,7 @@ That quote captured the spirit of the entire conversation. Libraries are not
 static institutions. They continuously evolve alongside technology, research
 culture, and society itself.
 
-## **Libraries as Connectors in the Research Ecosystem**
+## **Libraries as connectors in the research ecosystem**
 
 During the audience Q\&A, participants discussed integrated library systems, institutional repositories, and the organisational structure of research
 support services at the HKUST. Victoria explained that the HKUST Library
@@ -302,7 +371,7 @@ belong. What matters most is not necessarily which department owns a service,
 but whether the institution successfully supports researchers, preserves
 knowledge, and enables access.
 
-## **Final Reflections**
+## **Final reflections**
 
 This episode highlighted that libraries are deeply connected to the future of
 research software, digital scholarship, and open science. Far from being

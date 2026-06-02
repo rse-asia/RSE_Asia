@@ -26,7 +26,7 @@ sections:
         color: "#ffffff"
         text_color_light: false
       spacing:
-        padding: ["3rem", "5rem"]    
+        padding: ["3rem", "5rem"]
 
   - block: markdown
     content:
