@@ -22,6 +22,7 @@ draft: false
 ---
 
 ![Episode 3 banner](rs_nren_series_banner_episode_3.png)
+*Image: Banner for episode 3 of the 'Research Software and NRENs in Asia' series*
 
 On 12 May 2026, the
 [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) hosted the third
@@ -45,6 +46,9 @@ spaces.
 The discussion highlighted an important reality: libraries are no longer only repositories of books and journals. Increasingly, they are becoming hubs for
 digital scholarship, metadata management, open science, research analytics,
 technical training, and even software-enabled experimentation.
+
+![A glimpse of the HKUST Library](dark_background_image_2.png)
+*Image: A glimpse of the HKUST Library*
 
 ## **A career that mirrors the evolution of libraries**
 
