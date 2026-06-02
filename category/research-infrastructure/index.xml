@@ -138,14 +138,18 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="final-thoughts">&lt;strong>Final thoughts&lt;/strong>&lt;/h2>
 &lt;p>The webinar highlighted a simple but powerful idea: research software deserves to be treated as a first-class research output. By adopting persistent identifiers, using rich metadata, and engaging with open infrastructure, researchers can ensure that their work is not only visible but also properly recognised and connected.&lt;/p>
 &lt;p>In doing so, we move towards a more complete and inclusive scholarly record - one that reflects the full complexity of modern research.&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;h2 id="whats-next">&lt;strong>What’s next?&lt;/strong>&lt;/h2>
 &lt;p>Meanwhile, RSE Asia encourages community members to:&lt;/p>
 &lt;ul>
 &lt;li>Participate in the ongoing &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform" target="_blank" rel="noopener">research software landscape survey in Asia&lt;/a>, which is open until 31 May 2026. You also stand a chance to win a cash prize of £10 for 5 participants based on a raffle.&lt;/li>
 &lt;li>For the 3rd episode of the community conversation series &lt;a href="https://rse-asia.github.io/RSE_Asia/event/" target="_blank" rel="noopener">Research Software and NRENs in Asia&lt;/a> on 12 May 2026, register for &lt;a href="https://rse-asia.github.io/RSE_Asia/event/2026-05-12_ep-3-library/" target="_blank" rel="noopener">Episode 3: Role of Libraries in Research Support for Scientific Software&lt;/a>, where we welcome &lt;a href="https://www.linkedin.com/in/victoria-f-caplan-62a48b8/" target="_blank" rel="noopener">Victoria F. Caplan&lt;/a>, Head of Research &amp;amp; Learning Support, Hong Kong University of Science and Technology (HKUST), Hong Kong, with whom we will discuss the role of the library infrastructure in supporting the research software communities.&lt;/li>
 &lt;li>Join the RSE Asia &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header" target="_blank" rel="noopener">Community Membership&lt;/a> to get the latest news.&lt;/li>
-&lt;li>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on LinkedIn for updates and opportunities&lt;/li>
+&lt;li>Follow &lt;a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" rel="noopener">RSE Asia&lt;/a> on LinkedIn for updates and opportunities.&lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;/div>
 &lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
 &lt;p>If you were not able to join the meetup live or would like to revisit it, the
 &lt;a href="https://youtu.be/XPJnX9FB5fA?si=FRHj7LWWNbJ5taHh" target="_blank" rel="noopener">&lt;em>&lt;strong>YouTube video recording&lt;/strong>&lt;/em>&lt;/a>
@@ -257,17 +261,14 @@ including satellite imagery, remote sensing data, ground sensors, weather
 models, and hydrological measurements.&lt;/p>
 &lt;p>Historically, remote sensing data has been extremely large and difficult to
 move across networks. However, modern NREN infrastructure now allows large
-datasets to be transferred quickly for analysis.&lt;/p>
-&lt;p>Additionally, these working groups often collaborate with organisations such as
-Japan’s National Institute of Informatics (NII), which supports data
+datasets to be transferred quickly for analysis. Additionally, these working groups often collaborate with organisations such as Japan’s &lt;a href="https://www.nii.ac.jp/en/" target="_blank" rel="noopener">National Institute of Informatics (NII)&lt;/a>, which supports data
 infrastructure and capacity building, particularly in areas like research data
 management and library integration.&lt;/p>
 &lt;p>International initiatives also support these efforts. For example, the
 &lt;a href="https://www.copernicus.eu/en" target="_blank" rel="noopener">&lt;strong>Copernicus programme&lt;/strong>&lt;/a> funded a satellite
 data centre in the Philippines to support environmental monitoring across
 ASEAN countries. The second phase of the project will focus more heavily on
-&lt;strong>applications and data analysis&lt;/strong>, rather than simply building infrastructure.&lt;/p>
-&lt;p>Similarly, high-performance computing infrastructure such as that supported by
+&lt;strong>applications and data analysis&lt;/strong>, rather than simply building infrastructure.Similarly, high-performance computing infrastructure such as that supported by
 the &lt;a href="https://www.kisti.re.kr/eng/" target="_blank" rel="noopener">&lt;strong>Korea Institute of Science and Technology Information (KISTI)&lt;/strong>&lt;/a>
 provides computational resources for ASEAN environmental research at the
 &lt;a href="https://www.brin.go.id/en" target="_blank" rel="noopener">National Research and Innovation Agency (BRIN)&lt;/a>.&lt;/p>
@@ -284,21 +285,17 @@ environmental monitoring.&lt;/p>
 international research networks.&lt;/p>
 &lt;h2 id="the-role-of-research-software">&lt;strong>The role of research software&lt;/strong>&lt;/h2>
 &lt;p>A central theme of the conversation was the role of &lt;strong>research software&lt;/strong> in
-environmental research.&lt;/p>
-&lt;p>Environmental science increasingly depends on software systems that process
-large satellite datasets, integrate multiple data sources, run predictive
-models, and generate dashboards for decision makers.&lt;/p>
+environmental research. Environmental science increasingly depends on software systems that process large satellite datasets, integrate multiple data sources, run predictive models, and generate dashboards for decision makers.&lt;/p>
 &lt;p>Dr Chai highlighted that many scientists understand the scientific models but
 may not have the programming expertise to build robust software systems. This
-creates a strong need for collaboration between
-&lt;strong>domain scientists and software engineers&lt;/strong>.&lt;/p>
+creates a strong need for collaboration between &lt;strong>domain scientists and
+software engineers&lt;/strong>.&lt;/p>
 &lt;p>In some projects, computer science students from France have helped implement
 web applications for operational use by
 &lt;a href="https://wildlandfire.thairen.net.th/landfirealertsmap_thailand/" target="_blank" rel="noopener">government agencies and NGOs&lt;/a>.
 These applications can support activities such as wildfire monitoring or flood
 forecasting which is looked after by the
-&lt;a href="https://www.thaiwater.net/" target="_blank" rel="noopener">National Hydroinformatics Centre of Thailand&lt;/a>.&lt;/p>
-&lt;p>However, sustainability remains a major issue. A recurring problem is a
+&lt;a href="https://www.thaiwater.net/" target="_blank" rel="noopener">National Hydroinformatics Centre of Thailand&lt;/a>. However, sustainability remains a major issue. A recurring problem is a
 &lt;strong>lack of documentation&lt;/strong>. When students or short-term contributors leave a
 project without proper documentation, the software becomes difficult to
 maintain or extend.&lt;/p>
@@ -306,8 +303,7 @@ maintain or extend.&lt;/p>
 in research.&lt;/p>
 &lt;h2 id="the-critical-importance-of-data-quality">&lt;strong>The critical importance of data quality&lt;/strong>&lt;/h2>
 &lt;p>Another key takeaway from the session was that
-&lt;strong>data quality is the foundation of reliable environmental research&lt;/strong>.&lt;/p>
-&lt;p>Dr Tanpipat summarised this with a familiar principle:&lt;/p>
+&lt;strong>data quality is the foundation of reliable environmental research&lt;/strong>. Dr Tanpipat summarised this with a familiar principle:&lt;/p>
 &lt;div class="alert alert-note">
 &lt;div>
 &lt;div style="font-size:1.5em;">❝&lt;/div>
@@ -319,44 +315,35 @@ Garbage In, Garbage Out, GIGO.
 &lt;/div>
 &lt;/div>
 &lt;p>No matter how sophisticated an algorithm may be, poor input data will produce
-unreliable results.&lt;/p>
-&lt;p>Environmental datasets often come from multiple sources, such as satellite
-sensors, ground monitoring stations, citizen science contributions, and IoT
-sensors.&lt;/p>
+unreliable results. Environmental datasets often come from multiple sources, such as satellite sensors, ground monitoring stations, citizen science contributions, and IoT sensors.&lt;/p>
 &lt;p>Each source has different levels of accuracy. For example, low-cost air-quality
 sensors may cost USD 20-30, while high-precision instruments can cost hundreds
-or thousands of dollars.&lt;/p>
-&lt;p>When researchers combine these datasets without understanding the differences
-in measurement accuracy, the resulting analysis can be misleading.&lt;/p>
+or thousands of dollars. When researchers combine these datasets without understanding the differences in measurement accuracy, the resulting analysis can be misleading.&lt;/p>
 &lt;h2 id="challenges-in-data-sharing-and-open-science">&lt;strong>Challenges in data sharing and open science&lt;/strong>&lt;/h2>
 &lt;p>Despite growing interest in open science, sharing research data remains
-difficult.&lt;/p>
-&lt;p>Researchers often hesitate to share their datasets for several reasons like the
-fear that others may publish different results using the same data, concerns
-about sensitive or confidential information, Institutional or national policies
-restricting access, Lack of incentives for sharing data, and the effort
-required to prepare data for sharing (e.g., cleaning, documentation).&lt;/p>
+difficult. Researchers often hesitate to share their datasets for several
+reasons like the fear that others may publish different results using the same
+data, concerns about sensitive or confidential information, Institutional or
+national policies restricting access, Lack of incentives for sharing data, and
+the effort required to prepare data for sharing (e.g., cleaning, documentation).&lt;/p>
 &lt;p>These concerns create barriers to implementing &lt;strong>FAIR data principles&lt;/strong>
-(Findable, Accessible, Interoperable, Reusable).&lt;/p>
-&lt;p>Dr Chai noted that funding agencies are increasingly requiring researchers to
-upload their datasets to public repositories. However, cultural change takes
-time, and many institutions are still adapting to these expectations.&lt;/p>
+(Findable, Accessible, Interoperable, Reusable). Dr Chai noted that funding
+agencies are increasingly requiring researchers to upload their datasets to
+public repositories. However, cultural change takes time, and many institutions
+are still adapting to these expectations.&lt;/p>
 &lt;p>He also noted that collaborations with international bodies and frameworks -
 such as those supported by UNESCO and CODATA - are helping to push forward
 conversations around standards, metadata, and interoperability, even though
 adoption remains uneven across regions.&lt;/p>
 &lt;h2 id="ai-synthetic-data-and-research-integrity">&lt;strong>AI, synthetic data, and research integrity&lt;/strong>&lt;/h2>
 &lt;p>The discussion also touched on the role of &lt;strong>AI and generative technologies&lt;/strong>
-in environmental research.&lt;/p>
-&lt;p>AI can help to generate synthetic datasets for testing models, accelerate code
-development, and Support predictive modelling.&lt;/p>
-&lt;p>However, there are also risks. AI-generated data may appear realistic, but
-could contain inaccuracies or fabricated information.&lt;/p>
-&lt;p>For this reason, researchers must clearly document the origin of their data,
-whether AI was used to generate or modify datasets, the limitations of the
-data.&lt;/p>
-&lt;p>Metadata and documentation are essential for maintaining trust in research
-outputs.&lt;/p>
+in environmental research. AI can help to generate synthetic datasets for
+testing models, accelerate code development, and Support predictive modelling.
+However, there are also risks. AI-generated data may appear realistic, but
+could contain inaccuracies or fabricated information. For this reason,
+researchers must clearly document the origin of their data, whether AI was used
+to generate or modify datasets, the limitations of the data. Metadata and
+documentation are essential for maintaining trust in research outputs.&lt;/p>
 &lt;h2 id="skills-for-future-researchers-and-research-software-engineers">&lt;strong>Skills for future researchers and research software engineers&lt;/strong>&lt;/h2>
 &lt;p>For early-career researchers interested in working at the intersection of
 environmental science and research software, several skills are particularly
@@ -366,10 +353,9 @@ valuable.&lt;/p>
 code.&lt;/p>
 &lt;p>&lt;strong>2. Cross-disciplinary understanding&lt;/strong>&lt;/p>
 &lt;p>Software engineers working in environmental research must understand the
-scientific context behind their tools.&lt;/p>
-&lt;p>For example, understanding hydrology, forestry, weather systems, and GIS and
-remote sensing helps developers design better tools for real-world
-applications.&lt;/p>
+scientific context behind their tools. For example, understanding hydrology,
+forestry, weather systems, and GIS and remote sensing helps developers design
+better tools for real-world applications.&lt;/p>
 &lt;p>&lt;strong>3. Systems thinking&lt;/strong>&lt;/p>
 &lt;p>Environmental systems are complex and interconnected. Researchers must develop
 the ability to connect information across disciplines.&lt;/p>
@@ -410,6 +396,8 @@ survey aims to collect insights about career paths, challenges, and
 opportunities for research software professionals in Asia.&lt;/p>
 &lt;p>The survey is open until &lt;strong>31 March&lt;/strong>, and participants will be entered into a
 raffle for a &lt;strong>£10 prize&lt;/strong>.&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
 &lt;h2 id="whats-next">&lt;strong>What’s next?&lt;/strong>&lt;/h2>
 &lt;p>In April, we will have a Community Webinar that features
 &lt;a href="https://www.linkedin.com/in/mohamad-mostafa/" target="_blank" rel="noopener">Mohamad Mostafa&lt;/a>, Community
@@ -437,6 +425,8 @@ to get the latest news.&lt;/p>
 LinkedIn for updates and opportunities.&lt;/p>
 &lt;/li>
 &lt;/ul>
+&lt;/div>
+&lt;/div>
 &lt;h2 id="resources">&lt;strong>Resources:&lt;/strong>&lt;/h2>
 &lt;p>If you were not able to join the meetup live or would like to revisit it,
 here&amp;rsquo;s the
