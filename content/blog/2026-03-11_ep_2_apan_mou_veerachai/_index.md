@@ -1,6 +1,6 @@
   
 ---
-title: "Research Software and Environmental Research in Asia"
+title: "Episode 2: Research Software and Environmental Research in Asia"
 subtitle: "This blog post summarises the second episode of the Research
 Software and NRENs in Asia series, featuring a conversation with Dr. Veerachai
 Tanpipat, Senior Expert at the *Hydroinformatics Institute*, Thailand."
@@ -153,7 +153,11 @@ Another key takeaway from the session was that
 
 Dr Tanpipat summarised this with a familiar principle:
 
+{{% callout note %}}
 > “Garbage In, Garbage Out, GIGO."
+
+-- Veerachai Tanpipat
+{{% /callout %}}
 
 No matter how sophisticated an algorithm may be, poor input data will produce
 unreliable results.
@@ -259,7 +263,11 @@ requires strong collaboration across countries, disciplines, and technologies.
 
 As Dr. Chai concluded during the session:
 
-> We are in different boats, but we are in the same storm.
+{{% callout note %}}
+> "We are in different boats, but we are in the same storm."
+
+-- Veerachai Tanpipat
+{{% /callout %}}
 
 Collaboration across the Asia-Pacific research ecosystem will be essential for
 building resilience and developing sustainable solutions.
@@ -298,11 +306,16 @@ LinkedIn for updates and opportunities.
 
 ## **Resources:**
 
-If you were not able to join the meetup live or would like to revisit it, here's the
-[*** YouTube video recording***](https://youtu.be/2hmrBJ9k53c) of the episode. Throughout the meetup, the
-guest, the facilitators, and the participants shared a bunch of useful
-resources for the community for shared progress. We have compiled it in the
-form of a Resource Sheet. Definitely, check it out\!  
+If you were not able to join the meetup live or would like to revisit it,
+here's the
+[***YouTube video recording***](https://youtu.be/2hmrBJ9k53c) of the episode. 
+
+<p align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hmrBJ9k53c?si=Me5meEpDhmAPOnTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+Throughout the meetup, the guest, the facilitators, and the participants shared
+a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out\!
 
 **Resource sheet:** Bhogal, J., Tanpipat, V., & Bhogal, S. K. (2026). Resource Sheet: Episode 2: Research Software and Environmental Research in Asia. Zenodo. https://doi.org/10.5281/zenodo.20408237
 

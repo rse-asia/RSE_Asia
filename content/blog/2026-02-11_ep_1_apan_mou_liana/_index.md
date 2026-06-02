@@ -1,6 +1,6 @@
   
 ---
-title: "Connecting NRENs and Research Software in Asia"
+title: "Episode 1: Connecting NRENs and Research Software in Asia"
 subtitle: "This blog post summarizes the first episode of the Research Software
 and NRENs in Asia series, featuring a conversation with APAN’s General Manager,
 Liana Jacinta Jaganathan."
@@ -110,8 +110,8 @@ economies have equitable opportunities to participate and lead.
 
 ## **The future: From connectivity to impact**
 
-Over the last two decades, NRENs have shifted from being *‘pipe providers’* to
-becoming *‘service orchestrators’*. Today, conversations are no longer about
+Over the last two decades, the NRENs have shifted from being *‘pipe providers’*
+to becoming *‘service orchestrators’*. Today, conversations are no longer about
 bandwidth alone, but about how networks can help solve real-world problems
 like:
 
@@ -194,7 +194,13 @@ They shape the future of research across Asia and beyond.
 
 If you were not able to join the meetup live or would like to revisit it,
 here’s the [***YouTube video recording***](https://www.youtube.com/watch?v=9GFiXWLxUz0)
-of the episode. Throughout the meetup, the guest, the facilitators, and the
+of the episode.
+
+<p align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GFiXWLxUz0?si=FJLKvhJfhr9MnLTv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+Throughout the meetup, the guest, the facilitators, and the
 participants shared a bunch of useful resources for the community for shared
 progress. We have compiled it in the form of a Resource Sheet. Definitely,
 check it out\!

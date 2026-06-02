@@ -354,13 +354,15 @@ to get the latest news.
 
 ## **Resources:**
 
-If you were not able to join the meetup live or would like to revisit it, the [***video recording***](https://youtu.be/MbvTgTJMTtg%20) of the episode is available. Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out\!
+If you were not able to join the meetup live or would like to revisit it, the [***video recording***](https://youtu.be/MbvTgTJMTtg%20) of the episode is available.
 
 <p align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbvTgTJMTtg?si=ns-PHssZZHRPKK0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-***Resource sheet:***
+Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out\!
+
+***Resource sheet:*** Coming soon!
 ------------------------------------------------------------------------
 
 ### **Learn more about us**

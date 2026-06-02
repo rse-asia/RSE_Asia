@@ -153,10 +153,17 @@ Meanwhile, RSE Asia encourages community members to:
 ## **Resources:**
 
 If you were not able to join the meetup live or would like to revisit it, the
-***video recording*** of the episode is coming soon. Throughout the meetup, the
+[***YouTube video recording***](https://youtu.be/XPJnX9FB5fA?si=FRHj7LWWNbJ5taHh)
+of the episode is available.
+
+<p align = "center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XPJnX9FB5fA?si=QEvDrayMCIyqrcHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+Throughout the meetup, the
 guest, the facilitators, and the participants shared a bunch of useful
 resources for the community for shared progress. We have compiled it in the
-form of a Resource Sheet. Definitely, check it out\!  
+form of a Resource Sheet. Definitely, check it out\!
 
 **Resource sheet:** Zenodo link coming soon\!
 
