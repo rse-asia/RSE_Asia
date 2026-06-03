@@ -65,7 +65,7 @@ software can be used to address environmental challenges in Southeast Asia.
 The session will also highlight the importance of open data sharing and
 collaboration among researchers and institutions in the region.
 
-**11 March 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
+**11 March 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+2%3A+Research+Software+and+Environmental+Research+in+Asia&iso=20260311T07&p1=%3A&ah=1)**
 
 **[Register now](https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg)**
 

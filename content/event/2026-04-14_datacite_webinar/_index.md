@@ -67,7 +67,7 @@ research software. We will discuss practical use cases and demonstrate how
 these capabilities enhance research visibility and contribute to a more
 connected research infrastructure.
 
-**14 April 2026 @ 7:00 - 8:00 UTC [(see in your local time)]()**
+**14 April 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Connecting+Research+Software+to+the+Scholarly+Record+with+DataCite&iso=20260414T07&p1=%3A&ah=1)**
 
 **[Register now](https://us06web.zoom.us/meeting/register/k8PBfge5QwKsg4jnbeXj1Q#/registration)**
 

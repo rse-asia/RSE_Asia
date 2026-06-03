@@ -87,7 +87,8 @@ research software engineers, librarians, infrastructure providers, and
 members of the broader open science community interested in the future of
 research support.
 
-**15 July 2026 @ 6:00 – 7:00 UTC [(see in your local time)]()**
+**15 July 2026 @ 6:00 – 7:00 UTC [(see in your local time)](
+https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+4%3A+Open+Science%2C+Research+Infrastructure%2C+and+Collaboration&iso=20260715T06&p1=%3A&ah=1)**
 
 **[Register now](https://us06web.zoom.us/meeting/register/dml6G_dFQ7SEm17uXVU3CQ)**
 
