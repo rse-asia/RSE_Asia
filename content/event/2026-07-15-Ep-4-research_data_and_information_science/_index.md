@@ -96,7 +96,7 @@ research support.
 - **[Su Nee Goh](https://www.linkedin.com/in/su-nee-goh-0132232/)**,
   Deputy Director, _Nanyang Technological University (NTU)_, Singapore
 
-  Su Nee Goh is the Deputy Director at the Nanyang Technological University
+  Su Nee Goh is the Deputy Director at the [Nanyang Technological University](https://www.ntu.edu.sg/)
   with a demonstrated history of working in the higher education industry.
   She is skilled in institutional research data management and curation
   services and training, institutional repositories, metadata, intellectual
