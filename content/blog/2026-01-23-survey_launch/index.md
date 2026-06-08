@@ -34,6 +34,7 @@ If you have any questions about this, please reach out to us at: rse.asia.associ
 
 ------------------------------------------------------------------------
 
+{{% callout note %}}
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
@@ -43,3 +44,4 @@ For more information and to join upcoming events, visit:
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
 - To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
+{{% /callout %}}

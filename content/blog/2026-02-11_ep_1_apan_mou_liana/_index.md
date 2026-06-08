@@ -221,7 +221,7 @@ check it out\!
 ***Community Resource Sheet:*** Bhogal, J., Jaganathan, L. J., & Bhogal, S. K. (2026). Resource Sheet: Episode 1: Connecting NRENs and Research Software in Asia. Zenodo. https://doi.org/10.5281/zenodo.18846080
 
 <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
-  <img src="/images/community_silhouette.png" alt="Community silhouette" width="80">
+  <img src="{{< relref "/" >}}images/community_silhouette.png" alt="Community silhouette" width="80">
 
   <div>
     <strong>Community Resource Sheet</strong><br>

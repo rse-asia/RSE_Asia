@@ -299,7 +299,7 @@ Throughout the meetup, the guest, the facilitators, and the participants shared
 a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Community Resource Sheet. Definitely, check it out\!
 
 <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
-  <img src="/images/community_silhouette.png" alt="Community silhouette" width="80">
+  <img src="{{< relref "/" >}}images/community_silhouette.png" alt="Community silhouette" width="80">
 
   <div>
     <strong>Community Resource Sheet</strong><br>
