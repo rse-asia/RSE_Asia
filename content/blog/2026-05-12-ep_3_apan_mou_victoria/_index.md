@@ -388,8 +388,7 @@ If you were not able to join the meetup live or would like to revisit it, the [*
 Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Community Resource Sheet. Definitely, check it out\!
 
 <div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
-  <img src="/images/community_silhouette.png" alt="Community silhouette" width="80">
-
+  <img src="{{< relref "/" >}}images/community_silhouette.png" alt="Community silhouette" width="80">
   <div>
     <strong>Community Resource Sheet</strong><br>
     Bhogal, J., Caplan, V. F., & Bhogal, S. K. (2026). Resource Sheet: Episode 3: Role of Libraries in Research Support for Scientific Software. Zenodo. <a href="https://doi.org/10.5281/zenodo.20510761" target="_blank">https://doi.org/10.5281/zenodo.20510761.</a>
