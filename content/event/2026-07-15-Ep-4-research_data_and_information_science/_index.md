@@ -8,7 +8,7 @@ location: Online
 
 summary: (Episode 4) Research Software and NRENs in Asia
 abstract: In the fourth episode of the 'Research Software and the NRENs in Asia
-  meetup series, we will be joined by Su Nee Goh for a conversation on open
+  meetup series, we will be joined by Su Nee GOH for a conversation on open
   science, research infrastructure, and collaboration across the Asian research
   ecosystem. Drawing from her experience in information science, research
   support, and international open science initiatives, the discussion will
@@ -69,7 +69,7 @@ projects:
 ![Open science, research infrastructure, and collaboration](rs_nren_series_banner_episode_4.png)
 
 In the fourth episode of the **'Research Software and the NRENs'** in Asia
-meetup series, we will be joined by Su Nee Goh for a conversation on open
+meetup series, we will be joined by Su Nee GOH for a conversation on open
 science, research infrastructure, and collaboration across the Asian research
 ecosystem. Drawing from her experience in information science, research
 support, and international open science initiatives, the discussion will
@@ -94,7 +94,7 @@ https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+4%3A+Open+Scie
 
 ## Invited Guest
 
-- **[Su Nee Goh](https://libguides.ntu.edu.sg/Profile/GohSuNee)**,
+- **[Su Nee GOH](https://libguides.ntu.edu.sg/Profile/GohSuNee)**,
   Deputy Director, _Nanyang Technological University (NTU)_, Singapore
 
   [Su Nee GOH](https://libguides.ntu.edu.sg/Profile/GohSuNee), is the Deputy Director and Lead, Open Science and Research Services, Nanyang Technological University (NTU) Library. She leads a team that delivers guidance and
