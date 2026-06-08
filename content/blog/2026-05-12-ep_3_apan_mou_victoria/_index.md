@@ -385,9 +385,16 @@ If you were not able to join the meetup live or would like to revisit it, the [*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbvTgTJMTtg?si=ns-PHssZZHRPKK0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out\!
+Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Community Resource Sheet. Definitely, check it out\!
 
-***Resource sheet:*** Bhogal, J., Caplan, V. F., & Bhogal, S. K. (2026). Resource Sheet: Episode 3: Role of Libraries in Research Support for Scientific Software. Zenodo. https://doi.org/10.5281/zenodo.20510761
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
+  <img src="/images/community_silhouette.png" alt="Community silhouette" width="80">
+
+  <div>
+    <strong>Community Resource Sheet</strong><br>
+    Bhogal, J., Caplan, V. F., & Bhogal, S. K. (2026). Resource Sheet: Episode 3: Role of Libraries in Research Support for Scientific Software. Zenodo. <a href="https://doi.org/10.5281/zenodo.20510761" target="_blank">https://doi.org/10.5281/zenodo.20510761.</a>
+  </div>
+</div>
 
 ------------------------------------------------------------------------
 {{% callout note%}}

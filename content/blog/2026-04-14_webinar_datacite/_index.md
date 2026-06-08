@@ -165,9 +165,9 @@ of the episode is available.
 Throughout the meetup, the
 guest, the facilitators, and the participants shared a bunch of useful
 resources for the community for shared progress. We have compiled it in the
-form of a Resource Sheet. Definitely, check it out\!
+form of a Community Resource Sheet. Definitely, check it out\!
 
-**Resource sheet:** Zenodo link coming soon\!
+**Community Resource Sheet:** Zenodo link coming soon\!
 
 ------------------------------------------------------------------------
 

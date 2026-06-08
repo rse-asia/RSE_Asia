@@ -76,7 +76,7 @@ Radovan reminded the audience that reproducibility doesn’t need to be flawless
 
 The session provided many actionable tips to help researchers make their work more reproducible. These included advice on file types, documentation tools, and simple practices like running code on a different computer to ensure it works across environments.
 
-As with all sessions in the series, a comprehensive resource sheet summarising these tips is available [here](https://doi.org/10.5281/zenodo.14195613). 
+As with all sessions in the series, a comprehensive Community Resource Sheet summarising these tips is available [here](https://doi.org/10.5281/zenodo.14195613). 
 
 ### **The Importance of Community in Reproducibility**
 

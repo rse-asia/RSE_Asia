@@ -110,7 +110,7 @@ By integrating these testing strategies into research software development, we c
 
 📢 **Explore More:**
 
-Access our [Resource Sheet](https://zenodo.org/records/14961866), which contains numerous valuable resources shared by the panellists, facilitators, and participants. 
+Access our [Community Resource Sheet](https://zenodo.org/records/14961866), which contains numerous valuable resources shared by the panellists, facilitators, and participants. 
 
 View the [session recording](https://www.youtube.com/watch?v=Q_x5SFrkol4&t=9s) on YouTube.
 

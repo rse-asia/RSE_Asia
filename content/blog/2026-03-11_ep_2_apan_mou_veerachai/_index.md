@@ -296,9 +296,16 @@ here's the
 </p>
 
 Throughout the meetup, the guest, the facilitators, and the participants shared
-a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out\!
+a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Community Resource Sheet. Definitely, check it out\!
 
-**Resource sheet:** Bhogal, J., Tanpipat, V., & Bhogal, S. K. (2026). Resource Sheet: Episode 2: Research Software and Environmental Research in Asia. Zenodo. https://doi.org/10.5281/zenodo.20408237
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
+  <img src="/images/community_silhouette.png" alt="Community silhouette" width="80">
+
+  <div>
+    <strong>Community Resource Sheet</strong><br>
+    Bhogal, J., Tanpipat, V., & Bhogal, S. K. (2026). Resource Sheet: Episode 2: Research Software and Environmental Research in Asia. Zenodo. <a href="https://doi.org/10.5281/zenodo.20408237" target ="_blank">https://doi.org/10.5281/zenodo.20408237.</a>
+  </div>
+</div>
 
 ------------------------------------------------------------------------
 
