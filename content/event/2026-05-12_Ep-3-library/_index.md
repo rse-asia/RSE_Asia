@@ -67,6 +67,7 @@ The session will explore themes such as skills development, mentorship, experime
 
   Victoria F. Caplan is the Head of Research & Learning Support at the Hong Kong University of Science & Technology Library (HKUST). A member of the Library’s senior management team, she oversees the Library’s work in promoting and providing information literacy instruction and information services to the HKUST community. After joining HKUST in 1992 as a cataloger, she soon found her métier in public services. From 1996-2002, she served in the Media Resources & Microforms section, and 2002-2012 as the Access Services Manager. Since becoming IICS Head in 2012, worked to develop library instruction and link users to HKUST collections via many services. She received her BA in East Asian Studies from Yale, her MSc from the University of Illinois at Champaign-Urbana, and an MPhil (Cultural Anthropology) from the University of Hong Kong.
 
+{{% callout note%}}
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
@@ -74,3 +75,4 @@ For more information and to join upcoming events, visit:
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
 - To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
+{{% /callout %}}

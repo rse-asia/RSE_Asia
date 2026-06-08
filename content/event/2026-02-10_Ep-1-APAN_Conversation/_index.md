@@ -77,6 +77,7 @@ In the first episode of the series 'Research Software and NRENs in Asia', we wil
   actively champions working groups and cross-sector partnerships that
   translate innovation and research into real-world outcomes.
 
+{{% callout note%}}
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
@@ -85,3 +86,4 @@ For more information and to join upcoming events, visit:
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
 - To join the RSE Asia community, please fill out our short
 [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
+{{% /callout %}}

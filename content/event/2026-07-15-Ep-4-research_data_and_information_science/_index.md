@@ -102,6 +102,7 @@ https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+4%3A+Open+Scie
   Information Studies from NTU. She is a member of the International
   Association of Universities (IAU) [Expert Group on Open Science](https://iau.global/eg-on-open-science), a co-chair of the [Libraries for Research Data Interest Group](https://www.rd-alliance.org/groups/libraries-research-data/plenary-participation/) of the Research Data Alliance (RDA), and a member of the Steering Committee for the [Singapore Open Research Conference](https://libguides.ntu.edu.sg/SGORconference2026/home) and [Awards](https://libguides.ntu.edu.sg/SGORawards2026). She won the [ARMS-SG Leadership Award](https://www.researchmanagement.org.au/regional-interest-group/singapore) in 2025 and the [Library Association of Singapore Passion Award](https://las.org.sg/congratulations-to-2019-las-apbslg-sg-passion-award-goh-su-nee/) in 2020.
 
+{{% callout note%}}
 ### **Learn More About Us**
 
 For more information and to join upcoming events, visit:
@@ -110,3 +111,4 @@ For more information and to join upcoming events, visit:
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
 - To join the RSE Asia community, please fill out our short
 [Community Membership Form](https://docs.google.com/forms/d/1XSxDaTJzcNyGeDYXyJNVg1TDCo7un18PLFNiK6_jL2g/edit)
+{{% /callout %}}
