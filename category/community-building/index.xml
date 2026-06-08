@@ -333,8 +333,14 @@ to get the latest news.&lt;/li>
 &lt;p align = "center">
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MbvTgTJMTtg?si=ns-PHssZZHRPKK0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
 &lt;/p>
-&lt;p>Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Resource Sheet. Definitely, check it out!&lt;/p>
-&lt;p>&lt;em>&lt;strong>Resource sheet:&lt;/strong>&lt;/em> Bhogal, J., Caplan, V. F., &amp;amp; Bhogal, S. K. (2026). Resource Sheet: Episode 3: Role of Libraries in Research Support for Scientific Software. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.20510761" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.20510761&lt;/a>&lt;/p>
+&lt;p>Throughout the meetup, the guest, the facilitators, and the participants shared a bunch of useful resources for the community for shared progress. We have compiled it in the form of a Community Resource Sheet. Definitely, check it out!&lt;/p>
+&lt;div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
+&lt;img src="https://rse-asia.github.io/RSE_Asia/images/community_silhouette.png" alt="Community silhouette" width="80">
+&lt;div>
+&lt;strong>Community Resource Sheet&lt;/strong>&lt;br>
+Bhogal, J., Caplan, V. F., &amp; Bhogal, S. K. (2026). Resource Sheet: Episode 3: Role of Libraries in Research Support for Scientific Software. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.20510761" target="_blank">https://doi.org/10.5281/zenodo.20510761.&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;hr>
 &lt;div class="alert alert-note">
 &lt;div>
@@ -530,9 +536,16 @@ of the episode.&lt;/p>
 &lt;/p>
 &lt;p>Throughout the meetup, the guest, the facilitators, and the
 participants shared a bunch of useful resources for the community for shared
-progress. We have compiled it in the form of a Resource Sheet. Definitely,
+progress. We have compiled it in the form of a Community Resource Sheet. Definitely,
 check it out!&lt;/p>
-&lt;p>&lt;em>&lt;strong>Resource sheet:&lt;/strong>&lt;/em> Bhogal, J., Jaganathan, L. J., &amp;amp; Bhogal, S. K. (2026). Resource Sheet: Episode 1: Connecting NRENs and Research Software in Asia. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.18846080" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.18846080&lt;/a>&lt;/p>
+&lt;p>&lt;em>&lt;strong>Community Resource Sheet:&lt;/strong>&lt;/em> Bhogal, J., Jaganathan, L. J., &amp;amp; Bhogal, S. K. (2026). Resource Sheet: Episode 1: Connecting NRENs and Research Software in Asia. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.18846080" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.18846080&lt;/a>&lt;/p>
+&lt;div style="display: flex; align-items: center; gap: 15px; margin-top: 20px;">
+&lt;img src="https://rse-asia.github.io/RSE_Asia/images/community_silhouette.png" alt="Community silhouette" width="80">
+&lt;div>
+&lt;strong>Community Resource Sheet&lt;/strong>&lt;br>
+Bhogal, J., Jaganathan, L. J., &amp; Bhogal, S. K. (2026). Resource Sheet: Episode 1: Connecting NRENs and Research Software in Asia. Zenodo. &lt;a href="https://doi.org/10.5281/zenodo.18846080" target ="_blank">https://doi.org/10.5281/zenodo.18846080.&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;hr>
 &lt;div class="alert alert-note">
 &lt;div>
@@ -705,7 +718,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/blockquote>
 &lt;p>By integrating these testing strategies into research software development, we can move toward a more open, transparent, and reliable scientific ecosystem.&lt;/p>
 &lt;p>📢 &lt;strong>Explore More:&lt;/strong>&lt;/p>
-&lt;p>Access our &lt;a href="https://zenodo.org/records/14961866" target="_blank" rel="noopener">Resource Sheet&lt;/a>, which contains numerous valuable resources shared by the panellists, facilitators, and participants.&lt;/p>
+&lt;p>Access our &lt;a href="https://zenodo.org/records/14961866" target="_blank" rel="noopener">Community Resource Sheet&lt;/a>, which contains numerous valuable resources shared by the panellists, facilitators, and participants.&lt;/p>
 &lt;p>View the &lt;a href="https://www.youtube.com/watch?v=Q_x5SFrkol4&amp;amp;t=9s" target="_blank" rel="noopener">session recording&lt;/a> on YouTube.&lt;/p>
 &lt;p>&lt;em>The first draft of this blog post was created with ChatGPT from the edited video transcript.&lt;/em>&lt;/p>
 &lt;h3 id="looking-ahead">&lt;strong>Looking Ahead&lt;/strong>&lt;/h3>
@@ -793,7 +806,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;h2 id="-final-thoughts-make-documentation-a-priority">&lt;strong>🎯 Final Thoughts: Make Documentation a Priority&lt;/strong>&lt;/h2>
 &lt;p>Great research code deserves great documentation. It makes work reproducible, fosters collaboration, and ensures that software remains usable long after its creator has moved on. By embracing best practices and community support, we can all contribute to a culture where documentation is seen not as a burden—but as a fundamental part of open science.&lt;/p>
 &lt;p>📢 &lt;strong>Explore More:&lt;/strong>&lt;/p>
-&lt;p>Access our &lt;a href="https://doi.org/10.5281/zenodo.14833913" target="_blank" rel="noopener">Resource Sheet&lt;/a>, which contains numerous valuable resources shared by the panellists, facilitators, and participants.&lt;/p>
+&lt;p>Access our &lt;a href="https://doi.org/10.5281/zenodo.14833913" target="_blank" rel="noopener">Community Resource Sheet&lt;/a>, which contains numerous valuable resources shared by the panellists, facilitators, and participants.&lt;/p>
 &lt;p>View the &lt;a href="https://youtu.be/6GJZ8mO4t9Q" target="_blank" rel="noopener">session recording&lt;/a> on YouTube.&lt;/p>
 &lt;p>&lt;em>The first draft of this blog post was created with ChatGPT from the edited video transcript.&lt;/em>&lt;/p>
 &lt;h3 id="looking-ahead">&lt;strong>Looking Ahead&lt;/strong>&lt;/h3>
@@ -983,7 +996,7 @@ For Peter, reproducibility means translating what has been done manually into co
 Radovan reminded the audience that reproducibility doesn’t need to be flawless to be valuable. He emphasised the importance of sharing work in a reusable way to avoid reinventing the wheel or wasting time.&lt;/p>
 &lt;h3 id="practical-tips-for-ensuring-reproducibility">&lt;strong>Practical Tips for Ensuring Reproducibility&lt;/strong>&lt;/h3>
 &lt;p>The session provided many actionable tips to help researchers make their work more reproducible. These included advice on file types, documentation tools, and simple practices like running code on a different computer to ensure it works across environments.&lt;/p>
-&lt;p>As with all sessions in the series, a comprehensive resource sheet summarising these tips is available &lt;a href="https://doi.org/10.5281/zenodo.14195613" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;p>As with all sessions in the series, a comprehensive Community Resource Sheet summarising these tips is available &lt;a href="https://doi.org/10.5281/zenodo.14195613" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
 &lt;h3 id="the-importance-of-community-in-reproducibility">&lt;strong>The Importance of Community in Reproducibility&lt;/strong>&lt;/h3>
 &lt;p>The panel stressed how reproducibility benefits not just individual researchers but entire research communities:&lt;/p>
 &lt;p>&lt;strong>Radovan Bast&lt;/strong> stressed that limited time and resources make it essential to &amp;ldquo;stand on the shoulders of others&amp;rdquo; by building on existing tools and workflows rather than starting from scratch every time. However, he cautioned that when using others’ code, researchers should always check the license to ensure they have permission to use it and later share their changes.&lt;/p>
