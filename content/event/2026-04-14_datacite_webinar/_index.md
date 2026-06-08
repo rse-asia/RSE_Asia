@@ -36,7 +36,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "rse_asia_webinar_datacite_banner.png"  # This is the image file placed in static/media/
+  filename: "rse_asia_webinar_datacite_banner.png"
 draft: false  
 
 url_code: ''

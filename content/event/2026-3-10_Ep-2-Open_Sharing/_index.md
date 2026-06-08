@@ -33,7 +33,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "rs_nren_series_banner_episode_2.png"  # This is the image file placed in static/media/
+  filename: "rs_nren_series_banner_episode_2.png"
 draft: false  
 
 url_code: ''
