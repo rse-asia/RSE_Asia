@@ -37,4 +37,7 @@ main:
     weight: 101
   - name: "<i class='fab fa-linkedin fa-2x'></i>"
     url: https://www.linkedin.com/company/rse-asia-association/
-    weight: 112
+    weight: 102
+  - name: "<i class='fab fa-youtube fa-2x'></i>"
+    url: https://www.youtube.com/@RSEAsiaAssociation 
+    weight: 103
