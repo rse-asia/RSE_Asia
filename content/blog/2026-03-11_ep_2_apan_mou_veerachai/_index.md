@@ -278,7 +278,7 @@ prize of £10 for 5 participants based on a raffle.
 [Connecting Research Software to the Scholarly Record with DataCite](https://rse-asia.github.io/RSE_Asia/event/2026-04-14_datacite_webinar/), where we welcome [Mohamad Mostafa](https://www.linkedin.com/in/mohamad-mostafa/), Community Specialist, DataCite, UAE, with whom we will
 discuss how DataCite’s open PID infrastructure and rich metadata support the
 persistent identification and discoverability of research software.  
-- Join the RSE Asia [Community Membership](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- Join the RSE Asia [Community Membership](https://forms.gle/494GYGFTvYSpfbjj7)
 to get the latest news.  
 - Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on
 LinkedIn for updates and opportunities.
@@ -318,6 +318,6 @@ For more information and to join upcoming events, visit:
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
-- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://forms.gle/494GYGFTvYSpfbjj7)
 
 {{% /callout %}}

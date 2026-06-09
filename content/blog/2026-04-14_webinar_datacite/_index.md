@@ -148,7 +148,7 @@ Meanwhile, RSE Asia encourages community members to:
 
 - Participate in the ongoing [research software landscape survey in Asia](https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform), which is open until 31 May 2026\. You also stand a chance to win a cash prize of £10 for 5 participants based on a raffle.  
 - For the 3rd episode of the community conversation series [Research Software and NRENs in Asia](https://rse-asia.github.io/RSE_Asia/event/) on 12 May 2026, register for [Episode 3: Role of Libraries in Research Support for Scientific Software](https://rse-asia.github.io/RSE_Asia/event/2026-05-12_ep-3-library/), where we welcome [Victoria F. Caplan](https://www.linkedin.com/in/victoria-f-caplan-62a48b8/), Head of Research & Learning Support, Hong Kong University of Science and Technology (HKUST), Hong Kong, with whom we will discuss the role of the library infrastructure in supporting the research software communities.
-- Join the RSE Asia [Community Membership](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header) to get the latest news.  
+- Join the RSE Asia [Community Membership](https://forms.gle/494GYGFTvYSpfbjj7) to get the latest news.  
 - Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on LinkedIn for updates and opportunities.
 {{% /callout %}}
 
@@ -180,6 +180,6 @@ For more information and to join upcoming events, visit:
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
-- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://forms.gle/494GYGFTvYSpfbjj7)
 
 {{% /callout %}}

@@ -371,7 +371,7 @@ where we welcome [Su Nee Goh](https://www.linkedin.com/in/su-nee-goh-0132232/),
 Deputy Director, [Nanyang Technological University (NTU)](https://www.linkedin.com/school/ntusg/),
 Singapore, with whom we will discuss open science, research infrastructure,
 and collaboration across the Asian research ecosystem.  
-- Join the RSE Asia [Community Membership](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- Join the RSE Asia [Community Membership](https://forms.gle/494GYGFTvYSpfbjj7)
 to get the latest news.  
 - Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on LinkedIn for updates and opportunities.
 {{% /callout %}}
@@ -404,6 +404,6 @@ For more information and to join upcoming events, visit:
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
-- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://forms.gle/494GYGFTvYSpfbjj7)
 
 {{% /callout %}}

@@ -192,7 +192,7 @@ Meanwhile, RSE Asia encourages community members to:
 
 - Participate in the ongoing [research software landscape survey in Asia](https://docs.google.com/forms/d/e/1FAIpQLSeLWbwy2vL67b-Qxjf3VRsRvYFBfH0_r7Zs4YhkX4A3I_0L3w/viewform), which is open until 31st March 2026\. You also stand a chance to win a cash prize of £10 for 5 participants based on a raffle.  
 - Register for [Episode 2: Research Software and Environmental Research in Asia](https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg#/), where we welcome [Dr. Veerachai Tanpipat](https://www.linkedin.com/in/veerachai-tanpipat-5a7022304/), Senior Expert, Hydro Informatics Institute, Thailand, with whom we discuss open science practices and how they help to solve real-world problems with the APAN infrastructure.
-- Join the RSE Asia [Community Membership](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header) to get the latest news.  
+- Join the RSE Asia [Community Membership](https://forms.gle/494GYGFTvYSpfbjj7) to get the latest news.  
 - Follow [RSE Asia](https://www.linkedin.com/company/rse-asia-association/) on LinkedIn for updates and opportunities.
 
 {{% /callout %}}
@@ -240,6 +240,6 @@ For more information and to join upcoming events, visit:
 
 - Website: <https://rse-asia.github.io/RSE_Asia/>
 - For the latest news, events, activities, and opportunities, follow us on our [LinkedIn page](https://www.linkedin.com/company/rse-asia-association/)
-- To join the RSE Asia community, please fill out our short [Community Membership Form](https://docs.google.com/forms/d/e/1FAIpQLSci4FOE7wBeDJQowDSmweujLhJFfzr2rut46yKJc0agkE7Jug/viewform?usp=header)
+- To join the RSE Asia community, please fill out our short [Community Membership Form](https://forms.gle/494GYGFTvYSpfbjj7)
 
 {{% /callout %}}
