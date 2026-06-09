@@ -95,9 +95,9 @@ https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+4%3A+Open+Scie
 ## Invited Guest
 
 - **[Su Nee GOH](https://libguides.ntu.edu.sg/Profile/GohSuNee)**,
-  Deputy Director, _Nanyang Technological University (NTU)_, Singapore
+  Deputy Director, _[Nanyang Technological University (NTU)](https://www.ntu.edu.sg/)_, Singapore
 
-  [Su Nee GOH](https://libguides.ntu.edu.sg/Profile/GohSuNee), is the Deputy Director and Lead, Open Science and Research Services, Nanyang Technological University (NTU) Library. She leads a team that delivers guidance and
+  [Su Nee GOH](https://libguides.ntu.edu.sg/Profile/GohSuNee), is the Deputy Director and Lead, Open Science and Research Services, Library, [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). She leads a team that delivers guidance and
   services while fostering partnerships across areas such as open science, research data management planning, bibliometrics, research visibility and impact, and open access publishing. She has a Master of Science in
   Information Studies from NTU. She is a member of the International
   Association of Universities (IAU) [Expert Group on Open Science](https://iau.global/eg-on-open-science), a co-chair of the [Libraries for Research Data Interest Group](https://www.rd-alliance.org/groups/libraries-research-data/plenary-participation/) of the Research Data Alliance (RDA), and a member of the Steering Committee for the [Singapore Open Research Conference](https://libguides.ntu.edu.sg/SGORconference2026/home) and [Awards](https://libguides.ntu.edu.sg/SGORawards2026). She won the [ARMS-SG Leadership Award](https://www.researchmanagement.org.au/regional-interest-group/singapore) in 2025 and the [Library Association of Singapore Passion Award](https://las.org.sg/congratulations-to-2019-las-apbslg-sg-passion-award-goh-su-nee/) in 2020.
