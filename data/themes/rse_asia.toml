@@ -9,7 +9,7 @@ name = "rse_asia"
   menu_primary = "#6a1f4d"
   menu_text = "#ffffff"
   menu_text_active = "#ffffff"
-  menu_title = "#6b0344"
+  menu_title = "#ffffff"
 
   link = "#b77395"
 
