@@ -7,7 +7,7 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 1
+view: compact
 
 content:
   folders:
