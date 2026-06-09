@@ -58,7 +58,7 @@ The session will explore themes such as skills development, mentorship, experime
 
 **12 May 2026 @ 7:00 – 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+3%3A+Role+of+Libraries+in+Research+Support+for+Scientific+Software&iso=20260512T07&p1=%3A&ah=1)**
 
-**[Register now](https://us06web.zoom.us/meeting/register/oukrU2YbTgWhJCcoR03oNw#/registration)**
+<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/oukrU2YbTgWhJCcoR03oNw#/registration"> _**Register now!**_</a>
 
 ## Invited Guest
 
