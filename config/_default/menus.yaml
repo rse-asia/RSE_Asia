@@ -4,28 +4,28 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: People
+  - name: '<span style="font-size: 1.1rem;">People</span>'
     url: people
     weight: 20
-  - name: Events
+  - name: '<span style="font-size: 1.1rem;">Events</span>'
     url: event
     weight: 30
-  - name: Blogs
+  - name: '<span style="font-size: 1.1rem;">Blogs</span>'
     url: blog
     weight: 40
-  - name: Talks
+  - name: '<span style="font-size: 1.1rem;">Talks</span>'
     url: talk
     weight: 50
-  - name: News
+  - name: '<span style="font-size: 1.1rem;">News</span>'
     url: post
     weight: 60
-  - name: Get Involved
+  - name: '<span style="font-size: 1.1rem;">Get Involved</span>'
     url: membership
     weight: 70
-  - name: Publications
+  - name: '<span style="font-size: 1.1rem;">Publications</span>'
     url: publication
     weight: 80
-  - name: Contact
+  - name: '<span style="font-size: 1.1rem;">Contact</span>'
     url: contact
     weight: 90
 
