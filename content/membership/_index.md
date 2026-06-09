@@ -13,7 +13,7 @@ draft: false
 ---
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/scriberia_turing_way_rse_asia.png" style="width: 70%; height: auto;" alt="Scriberia Turing Way image crearted during Book Dash. the image represents the RSE Asia Association as a community on the world map">
+  <img src="/images/scriberia_turing_way_rse_asia.png" style="width: 70%; height: auto;" alt="Scriberia Turing Way image crearted during Book Dash. The image represents the RSE Asia Association as a community on the world map">
 </div>
 
 _The Turing Way Community, & Scriberia. (2024). Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse. Zenodo. https://doi.org/10.5281/zenodo.13882307_
