@@ -3,7 +3,7 @@ title: Recent & Upcoming Events
 cms_exclude: true
 
 # Listing view
-view: card
+view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
