@@ -10,7 +10,7 @@ sections:
       title: |
         RSE Asia Association
       image:
-        filename: icon.png
+        filename: logo.png
       text: |
         <br>
         
