@@ -15,4 +15,4 @@ name = "rse_asia"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(202,192,193)"
+  home_section_even = "#cac0c1"
