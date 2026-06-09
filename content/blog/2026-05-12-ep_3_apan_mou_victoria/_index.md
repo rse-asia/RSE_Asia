@@ -13,8 +13,7 @@ categories:
   - Community Building
   - Library and Information Science
   - Asia
-summary: "This blog post summarises the third episode of the Research Software
-and NRENs in Asia series, featuring a conversation about the role of libraries in research support for scientific software across the research lifecycle, with Victoria F Caplan, Head of Research and Learning Support, Hong Kong University of Science and Technology (HKUST)."
+summary: "This blog post summarises the third episode of the Research Software and NRENs in Asia series, featuring a conversation about the role of libraries in research support for scientific software across the research lifecycle, with Victoria F Caplan, Head of Research and Learning Support, Hong Kong University of Science and Technology (HKUST)."
 image:
   preview_only: true
   filename: "rs_nren_series_banner_episode_3.png"
