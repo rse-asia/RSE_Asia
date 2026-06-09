@@ -90,7 +90,7 @@ research support.
 **15 July 2026 @ 6:00 – 7:00 UTC [(see in your local time)](
 https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+4%3A+Open+Science%2C+Research+Infrastructure%2C+and+Collaboration&iso=20260715T06&p1=%3A&ah=1)**
 
-<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/dml6G_dFQ7SEm17uXVU3CQ"> _**Register now!**_</a>
+<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/dml6G_dFQ7SEm17uXVU3CQ" target ="_blank"> _**Register now!**_</a>
 
 ## Invited Guest
 

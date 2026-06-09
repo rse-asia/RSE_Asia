@@ -67,7 +67,7 @@ collaboration among researchers and institutions in the region.
 
 **11 March 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+2%3A+Research+Software+and+Environmental+Research+in+Asia&iso=20260311T07&p1=%3A&ah=1)**
 
-<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg"> _**Register now!**_</a>
+<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/JGnHlnKZSr-vg-e7xMyumg" target ="_blank"> _**Register now!**_</a>
 
 ## Invited Guest
 

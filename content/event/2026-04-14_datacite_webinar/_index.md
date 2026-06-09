@@ -69,7 +69,7 @@ connected research infrastructure.
 
 **14 April 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Connecting+Research+Software+to+the+Scholarly+Record+with+DataCite&iso=20260414T07&p1=%3A&ah=1)**
 
-<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/k8PBfge5QwKsg4jnbeXj1Q#/registration"> _**Register now!**_</a>
+<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/k8PBfge5QwKsg4jnbeXj1Q#/registration" target ="_blank"> _**Register now!**_</a>
 
 ## Invited Guest
 

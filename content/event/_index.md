@@ -18,6 +18,6 @@ banner:
 </p>
 <br>
 
-<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/dml6G_dFQ7SEm17uXVU3CQ"> _**Register Now!**_</a>
+<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/dml6G_dFQ7SEm17uXVU3CQ" target ="_blank"> _**Register Now!**_</a>
 
 <br>

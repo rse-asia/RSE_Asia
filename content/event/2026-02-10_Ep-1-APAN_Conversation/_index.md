@@ -55,7 +55,7 @@ In the first episode of the series 'Research Software and NRENs in Asia', we wil
 
 **11 February 2026 @ 7:00 - 8:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+1%3A+Connecting+NRENs+and+Research+Software+in+Asia&iso=20260211T07&p1=1440&ah=1)**
 
-<a class="rse rse-join" href="https://us05web.zoom.us/meeting/register/yfSNzuG-TI2vduE7jvgh1Q"> _**Register now!**_</a>
+<a class="rse rse-join" href="https://us05web.zoom.us/meeting/register/yfSNzuG-TI2vduE7jvgh1Q" target ="_blank"> _**Register now!**_</a>
 
 ## Invited Guest
 
