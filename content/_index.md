@@ -12,13 +12,12 @@ sections:
       image:
         filename: logo.png
       text: |
-        <br>
-        
-        The Research Software Engineering Asia Association (RSE Asia) is a volunteer run community with the mission to promote and build the Research Software Engineering community and profession in the Asian region while also fostering global collaborations, since its launch on the first International RSE Day on Thursday, 14th October 2021.
+          <br>
+           The Research Software Engineering Asia Association (RSE Asia) is a volunteer run community with the mission to promote and build the Research Software Engineering community and profession in the Asian region while also fostering global collaborations, since its launch on the first International RSE Day on Thursday, 14th October 2021.
 
-        Welcome to the website of the RSE Asia Association!
+           Welcome to the website of the RSE Asia Association!
  
-        All spaces of the RSE Asia Association are bound by the [code of conduct](https://society-rse.org/about/code-of-conduct/) of the [Society of Research Software Engineering](https://society-rse.org/).
+           All spaces of the RSE Asia Association are bound by the [code of conduct](https://society-rse.org/about/code-of-conduct/) of the [Society of Research Software Engineering](https://society-rse.org/).
 
     design:
       background:
