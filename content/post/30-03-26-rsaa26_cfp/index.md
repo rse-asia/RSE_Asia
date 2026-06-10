@@ -16,7 +16,7 @@ The Call for Presentations (CFP) for the conferences Research Software Asia Aust
 - [Research Software Latin America (RSLA26)](https://rs-latam.org)
 
 <br>
-  <a class="rse rse-join" href="https://rseaa.org/call_for_presentations" target ="_blank"> Call for Presentations is now open!</a>
+  <a class="rse rse-join" href="https://rseaa.org/call_for_presentations" target ="_blank"> Submit your abstract for CfP!</a>
 <br>  
 
 Applications due:
