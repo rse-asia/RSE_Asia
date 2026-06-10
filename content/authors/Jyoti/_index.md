@@ -9,7 +9,6 @@ last_name: Bhogal
 # Username (this should match the folder name)
 authors:
   - Jyoti
-
 # Is this the primary user of the site?
 superuser: true
 

@@ -1,5 +1,5 @@
 ---
-title: OLS team plants a tree dedicated to its cohort-4 in the OLS forest
+title: "OLS team plants a tree dedicated to its cohort-4 in the OLS forest"
 date: 2022-05-11
 image:
   focal_point: 'top'

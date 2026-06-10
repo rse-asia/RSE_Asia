@@ -1,5 +1,5 @@
 ---
-title: Call for Accessibility Fellows, Scholarships, and Micro-grants - Equersa 2026
+title: "Call for Accessibility Fellows, Scholarships, and Micro-grants - Equersa 2026"
 date: 2026-05-14
 image:
   focal_point: 'top'

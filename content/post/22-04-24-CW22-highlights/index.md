@@ -1,5 +1,5 @@
 ---
-title: RSE Asia featured in the Collaborations Workshop 2022 highlights
+title: "RSE Asia featured in the Collaborations Workshop 2022 highlights"
 date: 2022-04-24
 ---
 
