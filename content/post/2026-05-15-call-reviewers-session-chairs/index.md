@@ -15,7 +15,8 @@ Call for Reviewers and Session Chairs for Research Software Asia Australia, Rese
 - [Research Software Africa (RSAfrica26)](https://www.research-software-africa.org)
 - [Research Software Latin America (RSLA26)](https://rs-latam.org)
 
-  <a class="rse rse-join" href="https://forms.gle/29XfdVyvh4jMTAvh7" target ="_blank"> Apply for reviewer or session chair position!</a>
+<br>
+  <a class="rse rse-join" href="https://forms.gle/29XfdVyvh4jMTAvh7" target ="_blank"> Application link</a>
 
 Applications due:
 

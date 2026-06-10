@@ -1,8 +1,7 @@
 ---
-title: "Equersa 2026 : Call for Presentations"
+title: "Equersa 2026 - Call for Presentations"
 date: 2026-03-30
 authors:
-  - Jyoti
 image:
   focal_point: 'top'
 ---
