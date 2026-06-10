@@ -6,7 +6,6 @@
 
 [![DOI](https://zenodo.org/badge/415191235.svg)](https://zenodo.org/badge/latestdoi/415191235)
 
-
 # RSE Asia
 
 ![RSE_ASIA_logo](/assets/media/RSE_ASIA.png)
