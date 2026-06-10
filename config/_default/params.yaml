@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: rse_asia
-  theme_night: rse_asia
+  theme_night: 
   font: native
   font_size: S
 
