@@ -17,11 +17,15 @@ Equersa 2026 is offering Accessibility Fellowships, Scholarships, and Micro-gran
 
 _Accessibility Fellowships_ aim to encourage individuals with disabilities from within our community or adjacent communities to join one of the three regional conferences.
 
+  <a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSdnHNdGZSpdu1nXkX8AEtGMuzn5saSLTW8vP5Eupwu7TE-wUQ/viewform" target ="_blank"> Apply for accessibility fellowship!</a>
+
 _Scholarships_ provide free conference tickets.
 
 _Micro-grants_ of $50 AUD (USD35 approx.) are intended to help with internet, headphones, childcare etc.
 
-Applications due: 
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSciNUkvFkr96CcjrLRv84asri4VGTKTvzi3lqMU0DPFhYsZtA/viewform" target ="_blank"> Apply for scholarship or microgrant!</a>
+
+Applications due:
 
 - Accessibility Fellowships: 26th June 2026
 - Scholarships: 14th August 2026
