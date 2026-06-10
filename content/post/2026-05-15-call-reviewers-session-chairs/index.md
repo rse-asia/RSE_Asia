@@ -1,6 +1,8 @@
 ---
 title: "Equersa 2026 - Call for Reviewers and Session Chairs"
 date: 2026-05-15
+authors:
+  - Jyoti
 image:
   focal_point: 'top'
 ---
