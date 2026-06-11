@@ -112,7 +112,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        <a class="rse rse-join" href="./people"> <strong>Meet the team →<strong></a>
     design:
       columns: '1'
 
@@ -130,7 +130,10 @@ sections:
           </a>
           <a href="https://www.linkedin.com/company/rse-asia-association/" target="_blank" title="LinkedIn">
             <i class="fab fa-linkedin fa-2x" style="margin: 0 15px;"></i>
-          </a>        
+          </a>   
+          <a href="https://www.youtube.com/@RSEAsiaAssociation" target="_blank" title="YouTube">
+            <i class="fab fa-youtube fa-2x" style="margin: 0 15px;"></i>
+          </a>
         </p>
     design:
       background:
