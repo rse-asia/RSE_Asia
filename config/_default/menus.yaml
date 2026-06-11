@@ -22,9 +22,9 @@ main:
   - name: '<span style="font-size: 1.1rem;">Get Involved</span>'
     url: membership
     weight: 70
-  - name: '<span style="font-size: 1.1rem;">Publications</span>'
-    url: publication
-    weight: 80
+#  - name: '<span style="font-size: 1.1rem;">Publications</span>'
+#    url: publication
+#    weight: 80
   - name: '<span style="font-size: 1.1rem;">Contact</span>'
     url: contact
     weight: 90
