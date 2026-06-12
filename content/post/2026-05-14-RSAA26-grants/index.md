@@ -1,6 +1,8 @@
 ---
 title: "Equersa 2026 - Call for Accessibility Fellows, Scholarships, and Micro-grants"
 date: 2026-05-14
+authors:
+  - Saranjeet Kaur
 image:
   focal_point: 'top'
 ---

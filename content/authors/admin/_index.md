@@ -6,6 +6,9 @@ title: Saranjeet Kaur Bhogal
 first_name: Saranjeet Kaur
 last_name: Bhogal
 
+authors:
+  - Saranjeet Kaur
+
 # Is this the primary user of the site?
 superuser: true
 
