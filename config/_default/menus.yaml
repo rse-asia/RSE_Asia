@@ -21,10 +21,30 @@ main:
     weight: 60
   - name: '<span style="font-size: 1.1rem;">Get Involved</span>'
     url: membership
+    weight: 80
+
+  - name: '<span style="font-size: 1.1rem;">RSAA</span>'
     weight: 70
-#  - name: '<span style="font-size: 1.1rem;">Publications</span>'
-#    url: publication
-#    weight: 80
+  - parent: '<span style="font-size: 1.1rem;">RSAA</span>'   
+    name: '<span style="font-size: 1.1rem;">RSEAA22</span>'
+    url: rsaa/rseaa22
+    weight: 10
+  - parent: '<span style="font-size: 1.1rem;">RSAA</span>'
+    name: '<span style="font-size: 1.1rem;">RSEAA23</span>'
+    url: rsaa/rseaa23
+    weight: 20
+  - parent: '<span style="font-size: 1.1rem;">RSAA</span>'
+    name: '<span style="font-size: 1.1rem;">RSEAA24</span>'
+    url: rsaa/rseaa24
+    weight: 30
+  - parent: '<span style="font-size: 1.1rem;">RSAA</span>'
+    name: '<span style="font-size: 1.1rem;">RSEAA25</span>'
+    url: rsaa/rsaa25
+    weight: 40
+  - parent: '<span style="font-size: 1.1rem;">RSAA</span>'
+    name: '<span style="font-size: 1.1rem;">RSEAA26</span>'
+    url: rsaa/rsaa26
+    weight: 50
   - name: '<span style="font-size: 1.1rem;">Contact</span>'
     url: contact
     weight: 90
