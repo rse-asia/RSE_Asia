@@ -48,6 +48,32 @@ footer:
     notice: '
       <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #343a40; padding: 8px 0;">
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
+         <div style="display: flex; justify-content: center; gap:80px; text-align:left; margin-bottom: 20px;">
+            <div>
+              <strong>RSE Asia</strong><br>
+              <a href="/" style="color:white;">Home</a><br>
+              <a href="/people/" style="color:white;">People</a><br>
+              <a href="/event/" style="color:white;">Events</a><br>
+              <a href="/post/" style="color:white;">News</a><br>
+              <a href="/contact/" style="color:white;">Contact</a>
+            </div>
+
+            <div>
+              <strong>RSAA</strong><br>
+              <a href="/rsaa/rsaa26/" style="color:white;">RSAA 2026</a><br>
+              <a href="/rsaa/rsaa25/" style="color:white;">RSAA 2025</a><br>
+              <a href="/rsaa/rseaa24/" style="color:white;">RSEAA 2024</a><br>
+              <a href="/rsaa/rseaa23/" style="color:white;">RSEAA 2023</a><br>
+              <a href="/rsaa/rseaa22/" style="color:white;">RSEAA 2022</a>
+            </div>
+
+            <div>
+              <strong>Resources</strong><br>
+              <a href="https://zenodo.org/communities/rse-asia-association/records?q=&l=list&p=1&s=10&sort=newest" style="color:white;">Resource Sheets</a><br>
+              <a href="https://www.youtube.com/@RSEAsiaAssociation" style="color:white;">Recordings</a>
+            </div>
+ 
+         </div>
           © {year} Research Software Engineering Asia Association. This work is
           <a href="/license" style="color: white; text-decoration: underline;">licensed</a> under CC BY 4.0 International.
         </div>
@@ -56,7 +82,7 @@ footer:
       enable: false
       allow_derivatives: false
       share_alike: false
-      allow_commercial: false      
+      allow_commercial: false   
 
 # Localization
 
