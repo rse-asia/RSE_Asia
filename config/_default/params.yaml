@@ -50,27 +50,27 @@ footer:
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
          <div style="display: flex; justify-content: center; gap:80px; text-align:left; margin-bottom: 20px;">
             <div>
-              <strong>RSE Asia</strong><br>
-              <a href="/" style="color:white;">Home</a><br>
-              <a href="/people/" style="color:white;">People</a><br>
-              <a href="/event/" style="color:white;">Events</a><br>
-              <a href="/post/" style="color:white;">News</a><br>
-              <a href="/contact/" style="color:white;">Contact</a>
+              <strong style="font-size: 1.2rem; font-weight: bold;">RSE Asia</strong><br>
+              <a href="/" style="color:white; font-weight: normal">Home</a><br>
+              <a href="/people/" style="color:white; font-weight: normal">People</a><br>
+              <a href="/event/" style="color:white; font-weight: normal">Events</a><br>
+              <a href="/post/" style="color:white; font-weight: normal">News</a><br>
+              <a href="/contact/" style="color:white; font-weight: normal">Contact</a>
             </div>
 
             <div>
-              <strong>RSAA</strong><br>
-              <a href="/rsaa/rsaa26/" style="color:white;">RSAA 2026</a><br>
-              <a href="/rsaa/rsaa25/" style="color:white;">RSAA 2025</a><br>
-              <a href="/rsaa/rseaa24/" style="color:white;">RSEAA 2024</a><br>
-              <a href="/rsaa/rseaa23/" style="color:white;">RSEAA 2023</a><br>
-              <a href="/rsaa/rseaa22/" style="color:white;">RSEAA 2022</a>
+              <strong style="font-size: 1.2rem;">RSAA</strong><br>
+              <a href="/rsaa/rsaa26/" style="color:white; font-weight: normal">RSAA 2026</a><br>
+              <a href="/rsaa/rsaa25/" style="color:white; font-weight: normal">RSAA 2025</a><br>
+              <a href="/rsaa/rseaa24/" style="color:white; font-weight: normal">RSEAA 2024</a><br>
+              <a href="/rsaa/rseaa23/" style="color:white; font-weight: normal">RSEAA 2023</a><br>
+              <a href="/rsaa/rseaa22/" style="color:white; font-weight: normal">RSEAA 2022</a>
             </div>
 
             <div>
-              <strong>Resources</strong><br>
-              <a href="https://zenodo.org/communities/rse-asia-association/records?q=&l=list&p=1&s=10&sort=newest" style="color:white;">Resource Sheets</a><br>
-              <a href="https://www.youtube.com/@RSEAsiaAssociation" style="color:white;">Recordings</a>
+              <strong style="font-size: 1.2rem;">Resources</strong><br>
+              <a href="https://zenodo.org/communities/rse-asia-association/records?q=&l=list&p=1&s=10&sort=newest" style="color:white; font-weight: normal">Resource Sheets</a><br>
+              <a href="https://www.youtube.com/@RSEAsiaAssociation" style="color:white; font-weight: normal">Recordings</a>
             </div>
  
          </div>
