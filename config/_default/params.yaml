@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: rse_asia
-  theme_night: 
+  theme_night: rse_asia_dark
   font: native
   font_size: S
 
@@ -48,7 +48,7 @@ footer:
     notice: '
       <section style="width: 100vw; margin-left: calc(-50vw + 50%); background-color: #343a40; padding: 8px 0;">
         <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; color: white; text-align: center;">
-         <div style="display: flex; justify-content: center; gap:80px; text-align:left; margin-bottom: 20px;">
+          <div style="display: flex; justify-content: center; gap:80px; text-align:left; margin-bottom: 20px;">
             <div>
               <strong style="font-size: 1.2rem; font-weight: bold;">RSE Asia</strong><br>
               <a href="/" style="color:white; font-weight: normal">Home</a><br>
@@ -73,7 +73,8 @@ footer:
               <a href="https://www.youtube.com/@RSEAsiaAssociation" style="color:white; font-weight: normal">Recordings</a>
             </div>
  
-         </div>
+          </div>
+
           © {year} Research Software Engineering Asia Association. This work is
           <a href="/license" style="color: white; text-decoration: underline;">licensed</a> under CC BY 4.0 International.
         </div>

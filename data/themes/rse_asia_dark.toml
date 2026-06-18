@@ -1,12 +1,12 @@
 # Theme metadata
-name = "rse_asia"
+name = "rse_asia_dark"
 
-[light]
+[dark]
   # Primary
-  primary = "#510633"
+  primary = "#ffffff"
 
   # Menu
-  menu_primary = "#6a1f4d"
+  menu_primary = "#b77395"
   menu_text = "#ffffff"
   menu_text_active = "#ffffff"
   menu_title = "#ffffff"
@@ -14,6 +14,5 @@ name = "rse_asia"
   link = "#b77395"
 
   # Home sections
-  home_section_odd = "#ffffff"
-  home_section_even = "#cac0c1"
-
+  home_section_odd = "#2c2d2d"
+  home_section_even = "#808080"

@@ -19,7 +19,7 @@ sections:
 
     design:
       background:
-        text_color_light: false
+        text_color: 
       spacing:
         padding: ["3rem", "5rem"]
 
