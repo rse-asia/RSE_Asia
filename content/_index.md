@@ -19,7 +19,7 @@ sections:
 
     design:
       background:
-        text_color: 
+        text_color:
       spacing:
         padding: ["3rem", "5rem"]
 
@@ -58,7 +58,7 @@ sections:
         </div>            
     design:
       background:
-        text_color_light: false      
+        text_color_light:      
       spacing:
         padding: ["3rem", "5rem"]  
 
@@ -72,7 +72,7 @@ sections:
           <a class="rse rse-join" href="./event" title="Events"><strong>See more →</strong></a>
     design:
       background:
-        text_color_light: false      
+        text_color_light:      
       spacing:
         padding: ["3rem", "5rem"] 
     
@@ -138,7 +138,7 @@ sections:
         </p>
     design:
       background:
-        text_color_light: false
+        text_color_light:
       spacing:
         padding: ["3rem", "3rem"]  
   
