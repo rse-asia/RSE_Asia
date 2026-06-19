@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: rse_asia
+  theme_day: rse_asia_light
   theme_night: rse_asia_dark
   font: native
   font_size: S
