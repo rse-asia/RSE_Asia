@@ -8,7 +8,7 @@
 
 # RSE Asia
 
-![RSE_ASIA_logo](/assets/media/RSE_ASIA.png)
+![RSE_ASIA_logo](/assets/media/logo.png)
 
 
 ## About us
