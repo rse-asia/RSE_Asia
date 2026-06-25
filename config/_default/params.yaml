@@ -17,9 +17,11 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Research Software Engineering (RSE) Asia Association'
+    description: 'Research Software Engineering Asia Association (RSE Asia) is
+     a volunteer-led community supporting research software engineers, research
+     software, and open science across Asia.'
+    twitter: 'RSE_Asia'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
