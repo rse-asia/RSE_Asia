@@ -43,7 +43,7 @@ featured: false
 
 image:
   preview_only: true
-  filename: "rs_nren_series_banner_episode_4.png"
+  filename: "rs_nren_series_banner_episode_4_merlion.png"
 draft: false  
 
 url_code: ''
@@ -66,7 +66,7 @@ slides:
 projects:
 ---
 
-![Open science, research infrastructure, and collaboration](rs_nren_series_banner_episode_4.png)
+![Open science, research infrastructure, and collaboration](rs_nren_series_banner_episode_4_merlion.png)
 
 In the fourth episode of the **'Research Software and the NRENs'** in Asia
 meetup series, we will be joined by Su Nee GOH for a conversation on open
@@ -82,7 +82,7 @@ research practices in Asia. The session will further examine leadership,
 policy, and long-term cultural change required to strengthen open scholarship
 and reproducible research.
 
-This meetup is conversational in format and intended for researchers, 
+This meetup is conversational in format and intended for researchers,
 research software engineers, librarians, infrastructure providers, and
 members of the broader open science community interested in the future of
 research support.
