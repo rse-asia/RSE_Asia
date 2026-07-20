@@ -65,11 +65,11 @@ sections:
   - block: markdown
     content:
         title: Recent and Upcoming Events
-        text: |
-          <p style = "text-align:center;">
-            <iframe width="550" height="283" src="https://w2.countingdownto.com/7181598" frameborder="0"></iframe>
-          </p>
-          <a class="rse rse-join" href="./event" title="Events"><strong>See more →</strong></a>
+      #  text: |
+      #      <p style = "text-align:center;">
+       #      <iframe width="550" height="283" src="https://w2.countingdownto.com/7181598" frameborder="0"></iframe>
+        #    </p>
+       #    <a class="rse rse-join" href="./event" title="Events"><strong>See more →</strong></a>
     design:
       background:
         text_color_light:      
