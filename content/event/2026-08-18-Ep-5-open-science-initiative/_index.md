@@ -1,5 +1,5 @@
 ---
-title: "Episode 5: Connecting Science Across Borders: Realizing UNESCO’s Open Science Recommendations"
+title: "Episode 5: Connecting Science Across Borders: Realising UNESCO’s Open Science Recommendations"
 
 event: Research Software and NRENs in Asia
 event_url: https://example.org
