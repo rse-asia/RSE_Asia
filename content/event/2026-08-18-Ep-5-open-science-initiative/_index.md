@@ -55,7 +55,7 @@ projects:
 
 ![Connecting Science Across Borders: Realising UNESCO’s Open Science Recommendations](rs_nren_series_banner_episode_5.png)
 
-In the fifth episode of the **'Research Software and the NRENs'** in Asia meetup series, we will be joined by our guest Dr. Jinxia HUANG for a conversation on open science, research infrastructure, and cross-border collaboration across the Asian research ecosystem. Drawing from early roots in biological research to leadership in library science and literature resource construction, the discussion will trace a career journey into open science and explore the operational realities of Open Science Infrastructures (OSIs) across East Asia.
+In the fifth episode of the **'Research Software and the NRENs'** in Asia meetup series, we will be joined by our guest Dr. Jinxia Huang for a conversation on open science, research infrastructure, and cross-border collaboration across the Asian research ecosystem. Drawing from early roots in biological research to leadership in library science and literature resource construction, the discussion will trace a career journey into open science and explore the operational realities of Open Science Infrastructures (OSIs) across East Asia.
 
 We will also unpack key findings from a recent UNESCO and APAN regional survey examining institutional ownership, funding sustainability, and cross-border legal and organisational friction. The session will further examine multilingual metadata challenges, technical standards, and strategic advice for building a cohesive, AI-ready Open Science ecosystem.
 
