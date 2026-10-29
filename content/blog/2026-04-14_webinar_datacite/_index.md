@@ -1,7 +1,7 @@
   
 ---
 title: "Community Webinar: Connecting Research Software to the Scholarly Record with DataCite"
-subtitle: "This blog post summarises the community webinar, featuring a conversation with Mohamad Mustafa, Community Specialist at *DataCite*, UAE."
+subtitle: "This blog post summarises the community webinar, featuring a conversation with Mohamad Mostafa, Community Specialist at *DataCite*, UAE."
 date: 2026-04-14
 authors:
   - "Jyoti Bhogal"
@@ -17,7 +17,7 @@ categories:
   - Citation
   - PIDs
   - Asia
-summary: "This blog post summarises the community webinar, featuring a conversation with Mohamad Mustafa, Community Specialist at *DataCite*, UAE. We discuss how DataCite’s open PID infrastructure and rich metadata support the persistent identification and discoverability of research software."
+summary: "This blog post summarises the community webinar, featuring a conversation with Mohamad Mostafa, Community Specialist at *DataCite*, UAE. We discuss how DataCite’s open PID infrastructure and rich metadata support the persistent identification and discoverability of research software."
 image:
   preview_only: true
   filename: "rse_asia_webinar_datacite_banner.png"
@@ -28,7 +28,7 @@ draft: false
 
 In today’s research landscape, software is no longer a side-product \- it sits at the heart of how knowledge is generated, analysed, and shared. Yet, despite its importance, research software often remains difficult to cite, hard to discover, and poorly connected to the rest of the scholarly record.
 
-In our recent RSE Asia webinar, *“[Connecting Research Software to the Scholarly Record with DataCite](https://rse-asia.github.io/RSE_Asia/event/2026-04-14_datacite_webinar/)”,* we explored how this gap can be addressed. Hosted by Jyoti Bhogal and co-led by Saranjeet, the session featured [Mohamad Mustafa](https://www.linkedin.com/in/mohamad-mostafa/), Community Specialist at [DataCite](https://datacite.org/), who shared both conceptual foundations and practical pathways for making research software more visible, citable, and connected.
+In our recent RSE Asia webinar, *“[Connecting Research Software to the Scholarly Record with DataCite](https://rse-asia.github.io/RSE_Asia/event/2026-04-14_datacite_webinar/)”,* we explored how this gap can be addressed. Hosted by Jyoti Bhogal and co-led by Saranjeet, the session featured [Mohamad Mostafa](https://www.linkedin.com/in/mohamad-mostafa/), Community Specialist at [DataCite](https://datacite.org/), who shared both conceptual foundations and practical pathways for making research software more visible, citable, and connected.
 
 ## **Why connecting research software matters**
 
