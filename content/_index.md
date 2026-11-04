@@ -67,9 +67,10 @@ sections:
         title: Recent and Upcoming Events
         text: |
           <a class="rse rse-join" href="./event" title="Events"><strong>See more →</strong></a>
-      #      <p style = "text-align:center;">
-       #      <iframe width="550" height="283" src="https://w2.countingdownto.com/7181598" frameborder="0"></iframe>
-        #    </p>
+            <p style = "text-align:center;">
+            
+             <iframe width="550" height="283"  src="https://countingdownto.com/w4/episode-6-research-software-across-borders-nrens-sjpc" title="Episode 6: Research Software Across Borders: NRENs, Collaboration and Sustainability countdown" frameborder="0" style="width:420px;height:184px;border-radius:25px;"></iframe>
+            </p>
        
     design:
       background:
