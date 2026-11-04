@@ -15,8 +15,8 @@ abstract: In the sixth and concluding episode of the 'Research Software and NREN
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-11-17T06:00:00Z'
-date_end: '2026-11-17T07:00:00Z'
+date: '2026-11-16T05:00:00Z'
+date_end: '2026-11-16T06:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -61,13 +61,13 @@ Drawing on his experience in research technology leadership and the Asia-Pacific
 
 This meetup is conversational in format, with no slides required. It is intended for researchers, research software engineers, librarians, infrastructure providers, and members of the broader open science community interested in the future of research support.
 
-**17 November 2026 @ 6:00 – 7:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+6%3A+Research+Software+Across+Borders%3A+NRENs%2C+Collaboration+and+Sustainability&iso=20261117T06&p1=%3A&ah=1)**
+**16 November 2026 @ 5:00 – 6:00 UTC [(see in your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Episode+6%3A+Research+Software+Across+Borders%3A+NRENs%2C+Collaboration+and+Sustainability&iso=20261116T05&p1=%3A&ah=1)**
 
 <a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/Loj0LjXOSB2XZYRIaS4TIA" target ="_blank"> _**Register now!**_</a>
 
 ## Invited Guest
 
-- **[Markus Buchhorn](https://www.linkedin.com/in/markus-buchhorn/)**, 
+- **[Markus Buchhorn](https://www.linkedin.com/in/markus-buchhorn/)**,
   APAN Advisor and former APAN General Manager, Australia
 
   Markus Buchhorn has extensive experience in research and education technology, research infrastructure, and international collaboration. His career has included roles as a university IT director at the Australian National University and a services director in an Australian e-research partnership. He served as General Manager of the [Asia-Pacific Advanced Network (APAN)](https://apan.net/) from October 2012 to March 2023 and continues to contribute as an APAN advisor.
