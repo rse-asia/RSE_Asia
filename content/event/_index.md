@@ -11,13 +11,12 @@ banner:
   image: ''
 ---
 
-<!--
 <p style = "text-align:center">
-  <iframe width="550" height="283" src="https://w2.countingdownto.com/7181598" frameborder="0"></iframe>
+  <iframe width="550" height="283"  src="https://countingdownto.com/w4/episode-6-research-software-across-borders-nrens-sjpc" title="Episode 6: Research Software Across Borders: NRENs, Collaboration and Sustainability countdown" frameborder="0" style="width:420px;height:184px;border-radius:25px;"></iframe>
 </p>
 
 <br>
-<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/dml6G_dFQ7SEm17uXVU3CQ" target ="_blank"> <strong>Register Now!<strong></a>
+<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/Loj0LjXOSB2XZYRIaS4TIA" target ="_blank"> <strong>Register Now!<strong></a>
 <br>
 
--->
+
