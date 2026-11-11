@@ -68,8 +68,7 @@ sections:
         text: |
           <a class="rse rse-join" href="./event" title="Events"><strong>See more →</strong></a>
             <p style = "text-align:center;">
-            
-             <iframe width="550" height="283"  src="https://countingdownto.com/w4/episode-6-research-software-across-borders-nrens-sjpc" title="Episode 6: Research Software Across Borders: NRENs, Collaboration and Sustainability countdown" frameborder="0" style="width:420px;height:184px;border-radius:25px;"></iframe>
+              <iframe src="https://countingdownto.com/w4/episode-6-research-software-across-borders-nrens-sjpc" title="Episode 6: Research Software Across Borders: NRENs, Collaboration and Sustainability countdown" frameborder="0" style="width:420px;height:184px;border-radius:25px;"></iframe>
             </p>
        
     design:
