@@ -16,5 +16,5 @@ banner:
 </p>
 
 <br>
-<a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/Loj0LjXOSB2XZYRIaS4TIA" target ="_blank"> <strong>Register Now!<strong></a>
+  <a class="rse rse-join" href="https://us06web.zoom.us/meeting/register/Loj0LjXOSB2XZYRIaS4TIA" target ="_blank"> <strong>Register Now!<strong></a>
 <br>
