@@ -25,6 +25,7 @@ main:
 
   - name: '<span style="font-size: 1.1rem;">RSAA</span>'
     weight: 70
+    url: /rsaa/
   - parent: '<span style="font-size: 1.1rem;">RSAA</span>'   
     name: '<span style="font-size: 1.1rem;">RSEAA22</span>'
     url: rsaa/rseaa22
