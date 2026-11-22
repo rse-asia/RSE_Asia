@@ -63,7 +63,7 @@
           {{ if .HasChildren }}
               <li class="nav-item dropdown">
 
-                {{ if eq .URL "/rsaa/" }}
+                {{ if in (.Name | plainify) "RSAA" }}
                   <!-- RSAA: clickable parent link -->
                   <div class="d-flex align-items-center">
                     <a href="{{ .URL | relLangURL }}" class="nav-link">
